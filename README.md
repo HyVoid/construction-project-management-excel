@@ -7,7 +7,9 @@
 
 > **A lightweight project control workbook that helps construction teams monitor budget, progress billing, retainage, contractor payments, and project cash flow for one construction project—available free in both Browser and Excel formats, with no installation or signup required.**
 
-> **No signup. No installation. Free.**
+**No signup. No installation. Free in your browser.**
+
+Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
 >
 > 🌐 **Open in Browser** → [HTML Demo](https://hyvoid.github.io/Single-Project-Construction-Control-Workbook/)
 >
