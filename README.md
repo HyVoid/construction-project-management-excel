@@ -2,10 +2,10 @@
 
 **Looking for a reliable construction project management spreadsheet? This lightweight, single-project control workbook helps general contractors and project managers track job costing, progress billing (Schedule of Values), retainage, subcontractor payments, and real-time cash flow. Available instantly as a free web app or a downloadable Excel template—no enterprise software subscription required.**
 
-**No signup. No installation. Free in your browser.**
+No signup. No installation. Free in your browser.
 
-Start managing your construction budget immediately in the browser, or download the fully unlocked Excel version (backed by a 7-day money-back guarantee) to integrate with your existing WIP (Work in Progress) reporting.
-
+> Start managing your construction budget immediately in the browser, or download the fully unlocked Excel version (backed by a 7-day money-back guarantee) to integrate with your existing WIP (Work in Progress) reporting.
+> 
 > 🌐 **Live Application** → [Try the Free Construction Project Control Web App (HTML Demo)](https://hyvoid.github.io/construction-project-management-excel/)
 > 
 > 📥 **Excel Download** →*[Download the Construction Financial Tracking Excel Template — Coming Soon to GitHub Releases / Gumroad]*
