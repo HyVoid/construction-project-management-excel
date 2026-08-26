@@ -6,7 +6,7 @@
 
 Start managing your construction budget immediately in the browser, or download the fully unlocked Excel version (backed by a 7-day money-back guarantee) to integrate with your existing WIP (Work in Progress) reporting.
 
-> 🌐 **Live Application** → [Try the Free Construction Project Control Web App (HTML Demo)](https://hyvoid.github.io/Single-Project-Construction-Control-Workbook/)
+> 🌐 **Live Application** → [Try the Free Construction Project Control Web App (HTML Demo)](https://hyvoid.github.io/construction-project-management-excel/)
 > 
 > 📥 **Excel Download** →*[Download the Construction Financial Tracking Excel Template (.xlsx) — Coming Soon to GitHub Releases / Gumroad]*
 > 
@@ -72,7 +72,12 @@ Log actual costs, progress claims, subcontractor invoices, and approved variatio
 ### Step 4: Generate Executive Financial Dashboards
 
 **Action:** Click over to the **Executive Dashboard** to make commercial decisions.
-Review your budget variance, total retainage withheld, invoice aging, and liquidity runway. **[Try the dashboard in your browser now](https://hyvoid.github.io/Single-Project-Construction-Control-Workbook/)** to see how raw data automatically converts into actionable project intelligence.
+Review your budget variance, total retainage withheld, invoice aging, and liquidity runway. **[Try the dashboard in your browser now](https://hyvoid.github.io/construction-project-management-excel/)** to see how raw data automatically converts into actionable project intelligence.
+
+### Step 5. Build a Reusable Project Financial Database
+After project closeout, do not discard the file. Your standard cost code mappings, vendor payment histories, and baseline cash flow curves are preserved. The system evolves with every completed job, transforming single-use trackers into a permanent **historical cost database** for benchmarking future projects.
+
+* 👉 [*Download the Excel Construction Control Workbook for Offline Use*](link update here)
 
 ---
 
