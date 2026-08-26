@@ -1,194 +1,103 @@
+# Free Construction Project Management Excel Template & Web App | Single Project Budget & Cash Flow Tracker
 
-# Single-Project-Construction-Control-Workbook
-
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Platform](https://img.shields.io/badge/Platform-Browser%20%2B%20Excel-success)
-![Type](https://img.shields.io/badge/Tool-Project%20Decision%20Support-orange)
-
-> **A lightweight project control workbook that helps construction teams monitor budget, progress billing, retainage, contractor payments, and project cash flow for one construction project—available free in both Browser and Excel formats, with no installation or signup required.**
+> **Looking for a reliable construction project management spreadsheet? This lightweight, single-project control workbook helps general contractors and project managers track job costing, progress billing (Schedule of Values), retainage, subcontractor payments, and real-time cash flow. Available instantly as a free web app or a downloadable Excel template—no enterprise software subscription required.**
 
 **No signup. No installation. Free in your browser.**
 
-Try the browser version for free. If you need the Excel version, you can buy it with a 7-day money-back guarantee.
->
-> 🌐 **Open in Browser** → [HTML Demo](https://hyvoid.github.io/Single-Project-Construction-Control-Workbook/)
->
-> 📥 **Download Excel Workbook**
-> *(GitHub Release / Gumroad — Coming Soon)*
+Start managing your construction budget immediately in the browser, or download the fully unlocked Excel version (backed by a 7-day money-back guarantee) to integrate with your existing WIP (Work in Progress) reporting.
+
+> 🌐 **Live Application** → [Try the Free Construction Project Control Web App (HTML Demo)](https://hyvoid.github.io/Single-Project-Construction-Control-Workbook/)
+> 📥 **Excel Download** →
+> *[Download the Construction Financial Tracking Excel Template (.xlsx) — Coming Soon to GitHub Releases / Gumroad]*
 
 ---
 
-# Construction Project Control, Not Company Administration
+## The Core Concept: Project-Level Control vs. Enterprise Administration
 
-Most construction software is designed around the needs of an entire company.
+Most commercial construction software (like Procore, Buildertrend, or CMiC) is built for enterprise portfolio administration. They force you to navigate user permissions, company-wide resource planning, and procurement workflows just to answer one fundamental question:
 
-They begin with user permissions, resource planning, document control, portfolio reporting, procurement workflows, and enterprise administration before helping someone answer a much simpler question:
+> **"Is this specific construction project financially healthy right now?"**
 
-> **"Is this individual project financially healthy?"**
+This **construction financial tracker** strips away the enterprise bloat. It is engineered specifically for **single-project construction management**.
 
-This workbook intentionally starts from the opposite direction.
+One primary contract. One job cost budget. One critical path schedule. One stream of variation orders (VOs). One consolidated cash flow forecast.
 
-It is built around **one construction project**.
-
-One contract.
-
-One budget.
-
-One schedule.
-
-One stream of change orders.
-
-One cash flow.
-
-From contract award through project closeout, every worksheet contributes to understanding the financial and operational status of that single project instead of managing an entire construction business.
-
-That makes it suitable for contractors, construction managers, owner's representatives, quantity surveyors, and project engineers who need reliable project-level decisions without deploying an enterprise construction management platform.
+By eliminating company-wide overhead, this tool provides immediate financial visibility, making it the perfect spreadsheet alternative for field teams, commercial managers, and site engineers who need operational answers fast.
 
 ---
 
-# What It Helps You Track
+## Pain Points Solved: What This Construction Spreadsheet Tracks
 
-* Original contract value, approved change orders, and current contract value in one consolidated view.
-* Budget allocation versus actual project spending by cost code before overruns become expensive.
-* Progress billing, retainage (holdback), and client invoicing throughout the project lifecycle.
-* Contractor payments, outstanding receivables, and working capital exposure for a single project.
-* Monthly project cash inflows and outflows before liquidity becomes a construction risk.
-* Milestones, project documentation, and executive KPIs without switching between multiple spreadsheets.
+Instead of scattering your data across accounting systems and temporary Excel files, this template addresses the most common construction financial bottlenecks through an integrated approach:
 
-Unlike enterprise construction software that focuses on managing dozens of simultaneous projects, this workbook concentrates on delivering complete financial visibility for **one active project**. Every worksheet contributes to answering the next operational decision rather than maintaining company-wide administration.
+* **Pain Point: Change orders distorting the original contract.**
+* **Solution: Contract Value & Variation Order Tracking.** View your original contract sum, pending vs. approved change orders, and the current revised contract value in one locked, auditable dashboard.
 
----
 
-# Quick Start Workflow
+* **Pain Point: Cost overruns discovered after commitments are made.**
+* **Solution: Job Costing & Budget Variance Analysis.** Track allocated budget vs. actual committed costs by standard Cost Codes (CSI MasterFormat compatible), catching overruns before subcontracts are signed.
 
-Getting started is designed to take only a few minutes.
 
-### 1. Configure Project Parameters
+* **Pain Point: Messy AIA billings and delayed client payments.**
+* **Solution: Progress Billing (SOV) & Retainage Management.** Automatically calculate completed work, previous claims, current amount due, and accumulated retainage (holdback) to streamline client invoicing.
 
-Open the **Parameters** and **Project Setup** worksheets.
 
-Enter the project's contract value, retainage percentage, tax settings, project dates, client information, and any other project-wide assumptions.
+* **Pain Point: Blind spots in project liquidity and working capital.**
+* **Solution: Construction Cash Flow Forecasting.** Monitor Accounts Payable (contractor payments) against Accounts Receivable (client receipts) to generate a rolling cash flow projection, predicting cash shortages before they halt site progress.
 
-These values become the single source of truth for every calculation throughout the workbook, so they only need to be configured once for each new project.
+
 
 ---
 
-### 2. Import Existing Project Data
+## Quick Start Tutorial: How to Setup Your Construction Financial Tracker
 
-Populate the dedicated input sheets with your existing information.
+Ditch the temporary spreadsheets. Follow these steps to establish a permanent financial baseline for your current project.
 
-Typical sources include:
+### Step 1: Configure Project Parameters & Job Cost Baseline
 
-* Accounting exports
-* ERP reports
-* Existing Excel files
-* CSV exports
-* Quantity survey records
-* Vendor payment schedules
+**Action:** Open the **Project Setup** tab to define your single source of truth.
+Input your original contract value, default retainage percentage, tax rates, and key milestone dates. These parameters automatically feed every downstream calculation, ensuring you only set them once.
 
-No manual restructuring is required.
+### Step 2: Import Your Subcontractor & Schedule of Values (SOV) Data
 
-Simply paste new records into the Excel Tables and the workbook expands automatically.
+**Action:** Paste your existing data into the structured Master Data tables.
+Whether you are exporting WIP reports from your ERP, CSVs from your quantity survey records, or vendor payment schedules, simply paste the records. The dynamic tables will expand automatically without breaking formulas.
 
----
+### Step 3: Log Daily/Weekly Construction Costs & Billings
 
-### 3. Review Project Performance
+**Action:** Use the operational inputs to record real-time project activities.
+Log actual costs, progress claims, subcontractor invoices, and approved variations as they happen. The architecture separates raw data entry from reporting, eliminating the need to copy-paste formulas.
 
-Move to the Executive Dashboard and reporting worksheets.
+### Step 4: Generate Executive Financial Dashboards
 
-Budget comparisons, change orders, progress billing, contractor payments, invoice status, retainage balances, and rolling cash flow update automatically as soon as new information is entered.
-
-No manual recalculation.
-
-No copying formulas.
-
-No rebuilding reports every reporting period.
+**Action:** Click over to the **Executive Dashboard** to make commercial decisions.
+Review your budget variance, total retainage withheld, invoice aging, and liquidity runway. **[Try the dashboard in your browser now](https://hyvoid.github.io/Single-Project-Construction-Control-Workbook/)** to see how raw data automatically converts into actionable project intelligence.
 
 ---
 
-### 4. Refresh Throughout the Project
+## Who Should Use This Construction Project Tracker? (Roles & Use Cases)
 
-As the project progresses, continue adding:
+This toolkit is designed for industry professionals who need direct oversight of job costing and cash flow without the friction of complex ERP systems.
 
-* Actual costs
-* Progress claims
-* Client receipts
-* Contractor payments
-* Approved change orders
-
-All dashboards, summaries, invoices, and financial indicators continue updating automatically.
-
-**Set a few project parameters once. Import your existing data. Review the analysis. Refresh whenever new project information becomes available.**
+* **General Contractors & Custom Home Builders:** Looking for a reliable *Excel template for contractor job costing* to prevent budget bleed on residential or commercial builds.
+* **Construction Project Managers (PMs):** Needing a *project management financial dashboard* that keeps budget allocations, schedule of values, and variation orders synchronized for client meetings.
+* **Quantity Surveyors (QS) & Estimators:** Seeking a *commercial management spreadsheet* to efficiently certify subcontractor payment applications and assess change order impacts.
+* **Owner's Representatives / Client PMs:** Requiring an independent *project control audit tool* to cross-check the general contractor's monthly progress claims and retainage balances.
+* **Specialty Trades & Subcontractors:** Needing a unified workspace to track their own progress billings and outstanding receivables against large prime contracts.
 
 ---
 
-# Why This Toolkit Focuses on One Project
+## Overcoming Common Construction Financial Risks
 
-Many construction businesses already own accounting software.
+The table below illustrates how migrating to a structured toolkit eliminates the risks of managing multi-million dollar builds on fragmented spreadsheets.
 
-Many also subscribe to project management platforms.
-
-Yet project managers often find themselves exporting information into temporary spreadsheets before making commercial decisions.
-
-Why?
-
-Because those systems usually answer questions at the company level, while construction decisions happen at the **project level**.
-
-A project manager rarely asks:
-
-> "How is the whole company performing?"
-
-Instead, the questions sound like:
-
-* Is this project still within budget?
-* Can the next progress claim be submitted?
-* How much retainage is currently being withheld?
-* Which invoices remain outstanding?
-* Will this project experience a cash shortage next month?
-
-Those answers require budget information, billing progress, contractor payments, client receipts, retainage, cash flow, and approved variations to exist together.
-
-Unfortunately, they often live in different reports.
-
-This workbook productizes that reasoning into a reusable framework.
-
-Instead of creating another temporary spreadsheet every month, the same workbook continuously integrates project financial information into one operational workspace.
-
-For a construction manager responsible for one active project, that often produces clearer decisions than navigating dozens of enterprise software modules that were never designed around individual project financial control.
-
----
-
-## Common Construction Project Problems This Solves
-
-| Problem                                                        | Without This Toolkit                                                                                                                                            | With This Toolkit                                                                                                                                                               |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Budget overruns are discovered too late                        | Cost reports and payment records are reviewed separately, making overruns visible only after commitments have already been made.                                | Budget, committed costs, actual spending, and remaining budget are reviewed together before additional work is approved.                                                        |
-| Progress billing becomes difficult to reconcile                | Contract value, completed work, previous claims, and retainage are maintained in different spreadsheets, creating billing disputes and duplicated calculations. | Progress claims are generated from a single project dataset with contract value, approved variations, completed work, previous billings, and retainage connected automatically. |
-| Cash shortages appear unexpectedly                             | Revenue forecasts and payment obligations are tracked independently, making future liquidity difficult to estimate.                                             | Expected client receipts, contractor payments, and monthly cash movements are consolidated into one rolling project cash flow view.                                             |
-| Change orders gradually distort the original budget            | Approved variations are recorded separately from the original contract, making it difficult to understand the project's current financial position.             | Original contract value, approved change orders, revised contract value, and budget impacts remain connected throughout the project lifecycle.                                  |
-| Project reporting requires rebuilding spreadsheets every month | Managers repeatedly export accounting reports into temporary workbooks for executive reporting.                                                                 | New project transactions are imported into structured tables while dashboards and reports refresh automatically using the existing workbook structure.                          |
-| Financial decisions rely on incomplete information             | Budget, invoices, commitments, retainage, and payments exist across multiple reports, increasing the risk of incorrect commercial decisions.                    | Every major financial component of a **single construction project** is reviewed within one decision-support workspace before commitments are made.                             |
-
----
-
-# Who This Is For
-
-This toolkit is designed for professionals responsible for the commercial and financial control of **one construction project**, rather than enterprise-wide portfolio administration.
-
-It is particularly suitable for:
-
-* General contractors managing individual commercial or residential projects.
-* Construction project managers responsible for project budget and financial reporting.
-* Quantity surveyors preparing valuations, payment certificates, and change order assessments.
-* Owner's representatives reviewing contractor claims and project financial health.
-* Small and mid-sized construction firms that need structured project controls without implementing enterprise software.
-* Consultants supporting project cost control or project financial reviews.
-
-It is **not** intended to replace ERP systems, enterprise construction management platforms, procurement systems, or portfolio management software.
-
-If the objective is to understand whether **one active project** remains financially healthy from contract award through closeout, this workbook is intentionally designed for that purpose.
-
-**No spreadsheet expertise is required. Open the browser version or Excel workbook, import your project data, and begin tracking immediately.**
+| Common Construction Financial Risks | Traditional Spreadsheets (The Problem) | Single-Project Control Template (The Solution) |
+| --- | --- | --- |
+| **Late discovery of budget overruns** | Cost reports and Accounts Payable are reviewed in silos; overruns are only visible *after* purchase orders are issued. | Budget allocations, committed subcontractor costs, and remaining balances are analyzed in a unified WIP dashboard before approving new work. |
+| **Progress claim (AIA) disputes** | Contract values, Schedule of Values (SOV), and retainage are kept in different tabs, leading to duplicated or incorrect billings. | Progress claims are auto-generated from a relational dataset where base contract, approved VOs, and holdbacks are mathematically locked together. |
+| **Sudden liquidity shortages** | Revenue forecasting and supplier payment obligations are disconnected, masking incoming cash flow crises. | Client receipts and subcontractor payables are merged into a rolling cash flow forecast, providing a clear runway of working capital. |
+| **Change Order (VO) mismanagement** | Approved site variations are poorly tracked, separating the original budget from current financial realities. | Original contract values, VO impacts, and revised budgets are strictly linked, ensuring your profit margins are always based on the latest approved scope. |
+| **Reporting overhead** | PMs waste hours each month exporting ERP data to rebuild temporary reports for executive review. | New transactions are simply appended to input tables; all executive KPI charts and cash flow dashboards refresh automatically. |
 
 ---
 
