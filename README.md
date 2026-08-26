@@ -8,7 +8,7 @@ No signup. No installation. Free in your browser.
 > 
 > 🌐 **Live Application** → [Try the Free Construction Project Control Web App (HTML Demo)](https://hyvoid.github.io/construction-project-management-excel/)
 > 
-> 📥 **Live Application** → [Download Residential Estimating Excel Template](#)
+> 📥 **Excel Template** → [Download Residential Estimating Excel Template](#)
 
 ---
 
