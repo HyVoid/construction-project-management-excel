@@ -7,8 +7,9 @@
 Start managing your construction budget immediately in the browser, or download the fully unlocked Excel version (backed by a 7-day money-back guarantee) to integrate with your existing WIP (Work in Progress) reporting.
 
 > 🌐 **Live Application** → [Try the Free Construction Project Control Web App (HTML Demo)](https://hyvoid.github.io/Single-Project-Construction-Control-Workbook/)
-> 📥 **Excel Download** →
-> *[Download the Construction Financial Tracking Excel Template (.xlsx) — Coming Soon to GitHub Releases / Gumroad]*
+> 
+> 📥 **Excel Download** →*[Download the Construction Financial Tracking Excel Template (.xlsx) — Coming Soon to GitHub Releases / Gumroad]*
+> 
 
 ---
 
@@ -31,19 +32,19 @@ By eliminating company-wide overhead, this tool provides immediate financial vis
 Instead of scattering your data across accounting systems and temporary Excel files, this template addresses the most common construction financial bottlenecks through an integrated approach:
 
 * **Pain Point: Change orders distorting the original contract.**
-* **Solution: Contract Value & Variation Order Tracking.** View your original contract sum, pending vs. approved change orders, and the current revised contract value in one locked, auditable dashboard.
+* * **Solution: Contract Value & Variation Order Tracking.** View your original contract sum, pending vs. approved change orders, and the current revised contract value in one locked, auditable dashboard.
 
 
 * **Pain Point: Cost overruns discovered after commitments are made.**
-* **Solution: Job Costing & Budget Variance Analysis.** Track allocated budget vs. actual committed costs by standard Cost Codes (CSI MasterFormat compatible), catching overruns before subcontracts are signed.
+* * **Solution: Job Costing & Budget Variance Analysis.** Track allocated budget vs. actual committed costs by standard Cost Codes (CSI MasterFormat compatible), catching overruns before subcontracts are signed.
 
 
 * **Pain Point: Messy AIA billings and delayed client payments.**
-* **Solution: Progress Billing (SOV) & Retainage Management.** Automatically calculate completed work, previous claims, current amount due, and accumulated retainage (holdback) to streamline client invoicing.
+* * **Solution: Progress Billing (SOV) & Retainage Management.** Automatically calculate completed work, previous claims, current amount due, and accumulated retainage (holdback) to streamline client invoicing.
 
 
 * **Pain Point: Blind spots in project liquidity and working capital.**
-* **Solution: Construction Cash Flow Forecasting.** Monitor Accounts Payable (contractor payments) against Accounts Receivable (client receipts) to generate a rolling cash flow projection, predicting cash shortages before they halt site progress.
+* * **Solution: Construction Cash Flow Forecasting.** Monitor Accounts Payable (contractor payments) against Accounts Receivable (client receipts) to generate a rolling cash flow projection, predicting cash shortages before they halt site progress.
 
 
 
