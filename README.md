@@ -5,7 +5,7 @@
 
 No signup. No installation. Free in your browser.
 
-> Start managing your construction budget immediately in the browser, or download the fully unlocked Excel version (backed by a 7-day money-back guarantee) to integrate with your existing WIP (Work in Progress) reporting.
+> Start managing your construction budget immediately in the browser, or download the fully unlocked Excel version (backed by a 30-day, no-questions-asked money-back guarantee) to integrate with your existing WIP (Work in Progress) reporting.
 > 
 > 🌐 **Live Application** → [Try the Free Construction Project Control Web App (HTML Demo)](https://hyvoid.github.io/construction-project-management-excel/)
 > 
