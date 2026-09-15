@@ -9,7 +9,7 @@
 > 
 > 🌐 **التطبيق المباشر** ← [جرب تطبيق الويب المجاني للتحكم في مشاريع البناء (نسخة تجريبية HTML)](https://hyvoid.github.io/construction-project-management-excel/)
 > 
-> 📥 **قالب إكسل** ← [تنزيل قالب إكسل لتقدير التكاليف السكنية](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+> 📥 **قالب إكسل** ← [تنزيل قالب إكسل لتقدير التكاليف السكنية](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
 ## هل تريد التجربة؟
 
@@ -76,7 +76,7 @@
 ### الخطوة 5. بناء قاعدة بيانات مالية قابلة لإعادة الاستخدام للمشاريع
 بعد إغلاق المشروع، لا تتخلص من الملف. يتم الاحتفاظ بتعيينات كود التكلفة القياسية، وتواريخ دفع الموردين، ومنحنيات التدفق النقدي الأساسية. يتطور النظام مع كل وظيفة مكتملة، مما يحول المتتبعات ذات الاستخدام الواحد إلى **قاعدة بيانات تكاليف تاريخية** دائمة لقياس المشاريع المستقبلية.
 
-* 👉 [*تنزيل ملف إكسل للتحكم في البناء للاستخدام دون اتصال بالإنترنت*](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+* 👉 [*تنزيل ملف إكسل للتحكم في البناء للاستخدام دون اتصال بالإنترنت*](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
 ---
 
