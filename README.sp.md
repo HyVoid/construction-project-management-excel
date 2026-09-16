@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Plantilla Excel gratuita de gestión de proyectos de construcción y aplicación web | Seguimiento de presupuesto y flujo de caja de un solo proyecto
 
@@ -10,7 +10,7 @@ Sin registros. Sin instalación. Gratis en tu navegador.
 > 
 > 🌐 **Aplicación en vivo** → [Prueba la aplicación web gratuita de control de proyectos de construcción (demostración HTML)](https://hyvoid.github.io/construction-project-management-excel/)
 > 
-> 📥 **Plantilla de Excel** → [Descarga la plantilla Excel de estimación residencial](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+> 📥 **Plantilla de Excel** → [Descarga la plantilla Excel de estimación residencial](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
 ## ¿Quieres probarlo?
 
@@ -84,7 +84,7 @@ Revisa tu variación presupuestaria, la retención total retenida, la antigüeda
 ### Paso 5. Construye una base de datos financiera de proyecto reutilizable
 Después del cierre del proyecto, no descartes el archivo. Tus mapeos estándar de códigos de costo, los historiales de pagos de proveedores y las curvas de flujo de caja de línea base se conservan. El sistema evoluciona con cada obra completada, transformando rastreadores de un solo uso en una **base de datos histórica de costos** permanente para comparar proyectos futuros.
 
-* 👉 [*Descarga el libro de Excel de control de construcción para uso sin conexión*](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management).
+* 👉 [*Descarga el libro de Excel de control de construcción para uso sin conexión*](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
 ---
 
