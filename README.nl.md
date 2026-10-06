@@ -12,14 +12,6 @@ Geen aanmelding. Geen installatie. Gratis in uw browser.
 > 
 > 📥 **Excel Template** → [Download Residential Estimating Excel Template](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
-## Want to try it?
-
-Dit project maakt deel uit van de Construction Toolkit.
-
-Probeer deze en andere lichtgewicht bouwtools 30 dagen gratis — inclusief tools voor calculeren, inschrijven, jobkostenberekening en dagelijkse operaties.
-
-→ [Try the Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
 ---
 
 ## The Core Concept: Project-Level Control vs. Enterprise Administration
