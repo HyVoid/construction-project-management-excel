@@ -11,14 +11,6 @@ No signup. No installation. Free in your browser.
 > 
 > 📥 **Excel Template** → [Download Estimating Excel Template](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
-## Want to try it?
-
-This project is included in the Construction Toolkit.
-
-Try this and other lightweight construction tools free for 30 days — including tools for estimating, bidding, job costing, and day-to-day operations.
-
-→ [Try the Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
 ---
 
 ## The Core Concept: Project-Level Control vs. Enterprise Administration
