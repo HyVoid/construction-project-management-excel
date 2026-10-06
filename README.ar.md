@@ -11,14 +11,6 @@
 > 
 > 📥 **قالب إكسل** ← [تنزيل قالب إكسل لتقدير التكاليف السكنية](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
-## هل تريد التجربة؟
-
-هذا المشروع مضمّن في حزمة Construction Toolkit.
-
-جرّب هذه الأداة وأدوات البناء الخفيفة الأخرى مجانًا لمدة 30 يومًا — بما في ذلك أدوات التقدير وعروض الأسعار وتكاليف الأعمال والعمليات اليومية.
-
-→ [جرّب Construction Toolkit](https://theseusworkshop.com/l/fqtoi/BIDSEASON?utm_source=github&utm_medium=GitHub%20portfolio)
-
 ---
 
 ## المفهوم الأساسي: التحكم على مستوى المشروع مقابل الإدارة المؤسسية
