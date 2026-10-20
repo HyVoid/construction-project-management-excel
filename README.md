@@ -1,4 +1,4 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 # Free Construction Project Management Excel Template & Web App | Single Project Budget & Cash Flow Tracker
 <img width="1670" height="790" alt="image" src="https://github.com/user-attachments/assets/69464cda-96d1-42d0-b487-16a2776d7e7d" />
 
@@ -120,7 +120,7 @@ I designed this workbook to be the definitive single source of truth when you ha
 
 ---
 
-# About
+## About
 
 I build lightweight Excel and browser-based decision-support tools for situations where there are simply too many moving parts to keep in your head.
 
@@ -130,7 +130,7 @@ Rather than replacing enterprise software, these workbooks organize the informat
 
 ---
 
-# Technical Details
+## Technical Details
 
 <details>
 <summary><strong>For technical reviewers, Excel practitioners, and collaborators</strong></summary>
@@ -452,7 +452,7 @@ This toolkit applies practical construction financial control methods to connect
 
 ---
 
-# Other Tools in This Series
+## Other Tools in This Series
 
 If you enjoy lightweight Excel-based operational decision tools, you may also find these projects useful:
 
@@ -466,7 +466,7 @@ More decision-support tools will continue to be published through the GitHub rep
 
 ---
 
-# License
+## License
 
 This project is licensed under the **Apache License 2.0**.
 
