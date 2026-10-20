@@ -1,6 +1,7 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Plantilla Excel gratuita de gestión de proyectos de construcción y aplicación web | Seguimiento de presupuesto y flujo de caja de un solo proyecto
+<img width="1670" height="790" alt="image" src="https://github.com/user-attachments/assets/69464cda-96d1-42d0-b487-16a2776d7e7d" />
 
 **¿Buscas una hoja de cálculo confiable de gestión de proyectos de construcción? Este libro de control ligero de un solo proyecto ayuda a contratistas generales y gerentes de proyecto a registrar el costeo de obras (job costing), la facturación por avance (Schedule of Values), las retenciones (retainage), los pagos a subcontratistas y el flujo de caja en tiempo real. Disponible al instante como aplicación web gratuita o como plantilla de Excel descargable, sin necesidad de suscripción a software empresarial.**
 
@@ -120,7 +121,7 @@ Diseñé este libro de Excel para que sea la definitiva única fuente de verdad 
 
 ---
 
-# Acerca de
+## Acerca de
 
 Construyo herramientas ligeras de apoyo a decisiones, en Excel y basadas en navegador, para situaciones donde simplemente hay demasiadas partes en movimiento como para mantenerlas en tu cabeza.
 
@@ -130,7 +131,7 @@ El **Construction Project Control & Cash Flow Excel Toolkit** aplica esa filosof
 
 ---
 
-# Detalles técnicos
+## Detalles técnicos
 
 <details>
 <summary><strong>Para revisores técnicos, practicantes de Excel y colaboradores</strong></summary>
@@ -400,7 +401,59 @@ Este tipo de razonamiento financiero a nivel de proyecto es exactamente lo que e
 
 ---
 
-# Otras herramientas de esta serie
+## La lógica empresarial y la metodología
+
+El control de proyectos de construcción no consiste solo en registrar costos. Se trata de entender cómo interactúan los cambios de contrato, el consumo del presupuesto, la facturación por avance, la retención, los pagos a contratistas y el flujo de caja a lo largo del ciclo de vida de **un solo proyecto de construcción**.
+
+Un proyecto puede parecer rentable sobre el papel mientras experimenta escasez de efectivo. Puede mantenerse dentro de su presupuesto original mientras las órdenes de cambio aprobadas ya han alterado su línea base financiera. También puede reportar un trabajo terminado sustancial mientras una parte significativa de los ingresos certificados sigue sin cobrarse.
+
+Este kit de herramientas aplica métodos prácticos de control financiero de proyectos de construcción para conectar estas señales separadas, ayudando a los gerentes de proyecto a identificar la exposición financiera antes y a tomar decisiones mejor informadas antes de comprometer recursos adicionales.
+
+### 1. Conciliación de la línea base del contrato
+
+**Método:** Conciliación del valor del contrato y seguimiento de órdenes de cambio aprobadas.
+
+**Problema empresarial:** El contrato de construcción original ya no representa la posición comercial actual del proyecto después de las variaciones aprobadas, los cambios de alcance y el trabajo adicional.
+
+**Cómo ayuda:** Separar el contrato original de los cambios aprobados establece una línea base contractual actualizada. Los gerentes de proyecto pueden evaluar el valor restante del contrato, revisar el progreso de la facturación y examinar la exposición financiera frente al acuerdo vigente en lugar de basarse en cifras obsoletas.
+
+### 2. Análisis de variación del presupuesto
+
+**Método:** Comparación de costos planificados versus reales y monitoreo del presupuesto a nivel de código de costo.
+
+**Problema empresarial:** El gasto agregado del proyecto puede ocultar sobrecostos en oficios individuales, paquetes de subcontratistas o categorías de materiales.
+
+**Cómo ayuda:** Comparar las asignaciones presupuestarias con los costos reales y los saldos restantes hace más fácil identificar movimientos de costo desfavorables. Los gerentes pueden investigar excepciones, revisar los compromisos restantes y tomar medidas correctivas antes de que los sobrecostos sean más difíciles de recuperar.
+
+### 3. Control de facturación por avance y retención
+
+**Método:** Conciliación de facturación basada en el avance y seguimiento de la retención.
+
+**Problema empresarial:** El trabajo terminado, las reclamaciones certificadas, las cuentas por cobrar cobrables y el efectivo realmente recibido son medidas financieras diferentes. Tratarlas como intercambiables puede sobrestimar el efectivo disponible.
+
+**Cómo ayuda:** Conectar la facturación por avance con las reclamaciones anteriores, la retención y los cobros de clientes proporciona una visión más clara del estado de facturación, las cuentas por cobrar pendientes y los montos aún retenidos. Esto respalda un seguimiento de pagos más confiable y la conciliación de los ingresos del proyecto.
+
+### 4. Pronóstico del flujo de caja del proyecto
+
+**Método:** Proyección del flujo de caja por períodos utilizando recibos esperados y pagos programados.
+
+**Problema empresarial:** Un proyecto puede tener un valor de contrato suficiente y un margen esperado positivo y aun así enfrentar presión de liquidez a corto plazo cuando los pagos a contratistas vencen antes de que lleguen los cobros de clientes.
+
+**Cómo ayuda:** Revisar las entradas de efectivo esperadas junto con las salidas programadas hace más visibles las posibles brechas de tiempo. Los gerentes de proyecto pueden planificar prioridades de pago, coordinar actividades de cobranza y evaluar si se deben posponer los compromisos discrecionales.
+
+### 5. Revisión integrada de decisiones a nivel de proyecto
+
+**Método:** Conciliación financiera interfuncional entre la información de contrato, presupuesto, facturación, pagos y flujo de caja.
+
+**Problema empresarial:** Cada informe individual puede ser preciso mientras la decisión general del proyecto sigue siendo engañosa porque la información crítica se revisa por separado.
+
+**Cómo ayuda:** Reunir estos indicadores en un marco de control a nivel de proyecto permite a los gerentes evaluar juntos el desempeño de costos, el estado de facturación, las obligaciones pendientes y la liquidez. El resultado es una base más coherente para decidir qué necesita atención ahora, qué puede continuar y qué riesgos financieros requieren más investigación.
+
+**El principio central:** El control de proyectos de construcción debe conectar el contrato vigente, el desempeño de costos, las obligaciones de pago y la disponibilidad de efectivo — no tratarlos como tareas de reporte independientes. Este kit de herramientas convierte ese principio en un flujo de trabajo analítico reutilizable diseñado en torno a un solo proyecto de construcción, desde la adjudicación del contrato hasta el cierre.
+
+---
+
+## Otras herramientas de esta serie
 
 Si te gustan las herramientas ligeras de apoyo a decisiones operativas basadas en Excel, estos proyectos también pueden resultarte útiles:
 
@@ -414,7 +467,7 @@ Se seguirán publicando más herramientas de apoyo a decisiones a través del re
 
 ---
 
-# Licencia
+## Licencia
 
 Este proyecto está licenciado bajo la **Apache License 2.0**.
 
