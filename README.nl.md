@@ -1,6 +1,7 @@
-[ 🌐 عربي ](README.ar.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
+[ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
 
 # Gratis Excel-sjabloon voor bouwprojectmanagement & webapp | Budget- en cashflowtracker voor één project
+<img width="1670" height="790" alt="image" src="https://github.com/user-attachments/assets/69464cda-96d1-42d0-b487-16a2776d7e7d" />
 
 **Zoekt u een betrouwbare spreadsheet voor bouwprojectmanagement? Deze lichtgewicht werkmap voor de beheersing van één enkel project helpt hoofdaannemers en projectmanagers bij het volgen van jobkostenberekening, voortgangsfacturatie (Schedule of Values), inhoudingen, betalingen aan onderaannemers en realtime cashflow. Direct beschikbaar als gratis webapp of als downloadbaar Excel-sjabloon — zonder abonnement op enterprise-software.**
 
@@ -14,7 +15,7 @@ Geen aanmelding. Geen installatie. Gratis in uw browser.
 
 ---
 
-## The Core Concept: Project-Level Control vs. Enterprise Administration
+## Het kernconcept: controle op projectniveau versus enterprise-beheer
 
 De meeste commerciële bouwsoftware (zoals Procore, Buildertrend of CMiC) is gebouwd voor enterprisematig portfoliobeheer. Ze dwingen u door gebruikersrechten, bedrijfsbrede resourceplanning en inkoopprocessen te navigeren om één fundamentele vraag te beantwoorden:
 
@@ -28,7 +29,7 @@ Door bedrijfsbrede overhead te elimineren, biedt deze tool onmiddellijke financi
 
 ---
 
-## Pain Points Solved: What This Construction Spreadsheet Tracks
+## Opgeloste pijnpunten: wat houdt deze bouwspreadsheet bij?
 
 In plaats van uw data te verspreiden over boekhoudsystemen en tijdelijke Excel-bestanden, pakt dit sjabloon de meest voorkomende financiële knelpunten in de bouw aan via een geïntegreerde aanpak:
 
@@ -49,38 +50,38 @@ In plaats van uw data te verspreiden over boekhoudsystemen en tijdelijke Excel-b
 
 ---
 
-## Quick Start Tutorial: How to Setup Your Construction Financial Tracker
+## Snelstartgids: uw financiële bouwtracker instellen
 
 Laat de tijdelijke spreadsheets los. Volg deze stappen om een permanente financiële basis voor uw huidige project vast te leggen.
 
-### Step 1: Configure Project Parameters & Job Cost Baseline
+### Stap 1: projectparameters en jobkostenbasislijn configureren
 
 **Action:** Open het tabblad **Project Setup** om uw single source of truth te definiëren.
 Voer uw oorspronkelijke contractwaarde, het standaard inhoudingspercentage, belastingtarieven en belangrijke mijlpaaldatums in. Deze parameters voeden automatisch elke verdere berekening, zodat u ze slechts één keer hoeft in te stellen.
 
-### Step 2: Import Your Subcontractor & Schedule of Values (SOV) Data
+### Stap 2: gegevens van onderaannemers en Schedule of Values (SOV) importeren
 
 **Action:** Plak uw bestaande data in de gestructureerde Master Data-tabellen.
 Of u nu WIP-rapporten exporteert uit uw ERP, CSV's uit uw hoeveelhedenadministratie of betalingsschema's van leveranciers, plak de gegevens eenvoudigweg. De dynamische tabellen breiden automatisch uit zonder formules te breken.
 
-### Step 3: Log Daily/Weekly Construction Costs & Billings
+### Stap 3: dagelijkse/wekelijkse bouwkosten en facturatie registreren
 
 **Action:** Gebruik de operationele invoervelden om realtime projectactiviteiten vast te leggen.
 Leg werkelijke kosten, voortgangsvorderingen, facturen van onderaannemers en goedgekeurde meerwerken vast op het moment dat ze plaatsvinden. De architectuur scheidt ruwe datainvoer van rapportage, waardoor kopiëren en plakken van formules niet nodig is.
 
-### Step 4: Generate Executive Financial Dashboards
+### Stap 4: financiële dashboards voor de directie genereren
 
 **Action:** Ga naar het **Executive Dashboard** om commerciële beslissingen te nemen.
 Beoordeel uw budgetvariatie, ingehouden bedragen, factuurouderdom en liquiditeitsruimte. **[Try the dashboard in your browser now](https://hyvoid.github.io/construction-project-management-excel/)** om te zien hoe ruwe data automatisch wordt omgezet in bruikbare projectinformatie.
 
-### Step 5. Build a Reusable Project Financial Database
+### Stap 5. Een herbruikbare financiële projectdatabase bouwen
 Gooi het bestand na oplevering van het project niet weg. Uw standaard kostencodekoppelingen, betalingshistoriek van leveranciers en basis-cashflowcurves blijven bewaard. Het systeem evolueert met elk afgerond project en verandert eenmalige trackers in een permanente **historische kostendatabase** voor het benchmarken van toekomstige projecten.
 
 * 👉 [*Download the Excel Construction Control Workbook for Offline Use*](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
 ---
 
-## Who Should Use This Construction Project Tracker? (Roles & Use Cases)
+## Wie moet deze bouwprojecttracker gebruiken? (Rollen en gebruiksscenario's)
 
 Deze toolkit is ontworpen voor professionals in de sector die direct toezicht nodig hebben op jobkostenberekening en cashflow, zonder de frictie van complexe ERP-systemen.
 
@@ -92,7 +93,7 @@ Deze toolkit is ontworpen voor professionals in de sector die direct toezicht no
 
 ---
 
-## Overcoming Common Construction Financial Risks
+## Het overwinnen van veelvoorkomende financiële bouwrisico's
 
 De onderstaande tabel laat zien hoe de overstap naar een gestructureerde toolkit de risico's van het beheren van miljoenenprojecten in gefragmenteerde spreadsheets elimineert.
 
@@ -106,7 +107,7 @@ De onderstaande tabel laat zien hoe de overstap naar een gestructureerde toolkit
 
 ---
 
-## Why I Built This: Regaining Clarity When Wearing Multiple Hats
+## Waarom ik dit heb gebouwd: helderheid terugwinnen met meerdere petten
 
 Als u in een klein tot middelgroot bouwbedrijf werkt, weet u dat "projectmanager" zelden betekent dat u slechts één project beheert.
 
@@ -120,7 +121,7 @@ Ik ontwierp deze werkmap om de definitieve single source of truth te zijn wannee
 
 ---
 
-# About
+## Over
 
 Ik bouw lichtgewicht Excel- en browsergebaseerde beslissingsondersteunende tools voor situaties waarin er simpelweg te veel variabelen zijn om in uw hoofd te houden.
 
@@ -130,12 +131,12 @@ In plaats van enterprise-software te vervangen, ordenen deze werkmappen de infor
 
 ---
 
-# Technical Details
+## Technische details
 
 <details>
 <summary><strong>For technical reviewers, Excel practitioners, and collaborators</strong></summary>
 
-## Workbook Architecture
+## Werkmaparchitectuur
 
 De werkmap volgt een gestructureerde architectuur **Input → Validation → Calculation → Reporting**, zodat projectinformatie slechts één keer wordt ingevoerd en daarna wordt hergebruikt in alle verdere berekeningen.
 
@@ -147,7 +148,7 @@ De werkmap volgt een gestructureerde architectuur **Input → Validation → Cal
 | Calculation Engine    | Intermediate calculation sheets and structured Excel Tables                                  | Consolideer financiële data, bereken herziene contractwaarden, facturatiesaldi, inhoudingen, betalingsstatus en cashflowprognoses.     |
 | Executive Reporting   | Dashboard, KPI Summary, Cash Flow Reports, Invoice Outputs                                   | Presenteer de financiële status op projectniveau voor operationele besluitvorming en rapportage aan belanghebbenden.                   |
 
-### Information Flow
+### Informatieflow
 
 ```text
 Project Setup
@@ -180,9 +181,9 @@ Elk stroomafwaarts rapport is afhankelijk van gestandaardiseerde invoertabellen 
 
 ---
 
-## Three Decision Traps That Catch Even Experienced Project Managers
+## Drie beslissingsvallen die zelfs ervaren projectmanagers vangen
 
-### Trap 1 — Treating the Original Contract Value as the Current Financial Baseline
+### Valk 1 — de oorspronkelijke contractwaarde als huidige financiële basislijn behandelen
 
 Veel projectreviews beginnen met het ondertekende contractbedrag.
 
@@ -215,7 +216,7 @@ Typische berekeningen zijn:
 
 ---
 
-### Trap 2 — Reviewing Progress Billing Without Considering Retainage
+### Valk 2 — voortgangsfacturatie beoordelen zonder rekening te houden met inhoudingen
 
 Voortgangscertificaten lijken vaak inbare omzet te vertegenwoordigen.
 
@@ -244,7 +245,7 @@ Typische berekeningen zijn:
 
 ---
 
-### Trap 3 — Evaluating Cash Flow After Costs Have Already Been Committed
+### Valk 3 — cashflow evalueren nadat kosten al zijn vastgelegd
 
 Veel projectteams beoordelen cash pas nadat leveranciersfacturen binnenkomen.
 
@@ -275,7 +276,7 @@ Typische berekeningen zijn:
 
 ---
 
-### Example Scenario
+### Voorbeeldscenario
 
 Een hoofdaannemer voert een **commercieel renovatieproject van $4,8 miljoen** uit over een planning van 14 maanden.
 
@@ -313,7 +314,7 @@ Dit type financiële redenering op projectniveau is precies wat de werkmap gedur
 
 ---
 
-### Formula Reference
+### Formulenoverzicht
 
 <details>
 <summary><strong>Project Setup & Contract Management</strong></summary>
@@ -381,7 +382,7 @@ Dit type financiële redenering op projectniveau is precies wat de werkmap gedur
 
 ---
 
-### Validation Rules
+### Validatieregels
 
 | Field                | Validation Rule                                         | Error Behavior                                           |
 | -------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
@@ -400,7 +401,59 @@ Dit type financiële redenering op projectniveau is precies wat de werkmap gedur
 
 ---
 
-# Other Tools in This Series
+## De bedrijfslogica en methodologie
+
+Projectbeheersing in de bouw gaat niet alleen om het vastleggen van kosten. Het gaat om begrijpen hoe contractwijzigingen, budgetverbruik, voortgangsfacturatie, inhoudingen, betalingen aan aannemers en cashflow door elkaar heen werken gedurende de levenscyclus van **één enkel bouwproject**.
+
+Een project kan op papier winstgevend lijken terwijl het liquiditeitstekorten ondervindt. Het kan binnen zijn oorspronkelijke budget blijven terwijl goedgekeurde meerwerkopdrachten de financiële basislijn al hebben veranderd. Het kan ook aanzienlijk uitgevoerd werk rapporteren terwijl een groot deel van de gecertificeerde omzet nog niet is ontvangen.
+
+Deze toolkit past praktische methoden voor financieel beheer van bouwprojecten toe om deze afzonderlijke signalen met elkaar te verbinden, zodat projectmanagers financiële blootstelling eerder kunnen identificeren en beter geïnformeerde beslissingen kunnen nemen voordat ze extra middelen vastleggen.
+
+### 1. Afstemming van de contractbasislijn
+
+**Methode:** Afstemming van de contractwaarde en tracking van goedgekeurde meerwerkopdrachten.
+
+**Bedrijfsprobleem:** Het oorspronkelijke bouwcontract vertegenwoordigt niet langer de huidige commerciële positie van het project na goedgekeurde wijzigingen, scope-aanpassingen en extra werk.
+
+**Hoe het helpt:** Het scheiden van het oorspronkelijke contract en goedgekeurde wijzigingen legt een bijgewerkte contractuele basislijn vast. Projectmanagers kunnen de resterende contractwaarde inschatten, de factureringsvoortgang beoordelen en de financiële blootstelling toetsen aan de huidige overeenkomst in plaats van te vertrouwen op verouderde cijfers.
+
+### 2. Analyse van budgetafwijkingen
+
+**Methode:** Vergelijking van geplande versus werkelijke kosten en bewaking van het budget op kostcodeniveau.
+
+**Bedrijfsprobleem:** Geaggregeerde projectuitgaven kunnen overschrijdingen verhullen in individuele disciplines, onderaannemerspakketten of materiaalcategorieën.
+
+**Hoe het helpt:** Het vergelijken van budgettoewijzingen met werkelijke kosten en resterende saldi maakt ongunstige kostenontwikkelingen makkelijker te identificeren. Managers kunnen uitzonderingen onderzoeken, resterende verplichtingen beoordelen en corrigerende maatregelen nemen voordat kostenoverschrijdingen moeilijker te herstellen worden.
+
+### 3. Beheersing van voortgangsfacturatie en inhouding
+
+**Methode:** Afstemming van op vooruitgang gebaseerde facturatie en tracking van inhoudingen.
+
+**Bedrijfsprobleem:** Uitgevoerd werk, gecertificeerde vorderingen, incasseerbare vorderingen en daadwerkelijk ontvangen cash zijn verschillende financiële maatstaven. Ze als uitwisselbaar behandelen kan de beschikbare cash overschatten.
+
+**Hoe het helpt:** Het verbinden van voortgangsfacturatie met eerdere vorderingen, inhoudingen en klantontvangsten geeft een duidelijker beeld van de factureringsstatus, openstaande vorderingen en nog ingehouden bedragen. Dit ondersteunt een betrouwbaarder betalingsopvolging en afstemming van projectomzet.
+
+### 4. Prognose van projectcashflow
+
+**Methode:** Periodgebaseerde cashflowprognose op basis van verwachte ontvangsten en geplande betalingen.
+
+**Bedrijfsprobleem:** Een project kan voldoende contractwaarde en een positieve verwachte marge hebben en toch kortdurende liquiditeitsdruk ondervinden wanneer betalingen aan aannemers vervallen voordat klantontvangsten binnenkomen.
+
+**Hoe het helpt:** Het beoordelen van verwachte cashinstromen naast geplande cashuitstromen maakt mogelijke timingkloven beter zichtbaar. Projectmanagers kunnen betalingsprioriteiten plannen, incasso-activiteiten coördineren en beoordelen of discretionaire verplichtingen moeten worden uitgesteld.
+
+### 5. Geïntegreerde projectmatige besluitvorming
+
+**Methode:** Functieoverstijgende financiële afstemming over contract-, budget-, facturerings-, betalings- en cashflowinformatie.
+
+**Bedrijfsprobleem:** Elk afzonderlijk rapport kan accuraat zijn terwijl het algehele projectbesluit misleidend blijft, omdat kritieke informatie afzonderlijk wordt beoordeeld.
+
+**Hoe het helpt:** Het samenbrengen van deze indicatoren in één beheersingskader op projectniveau stelt managers in staat om kostenprestaties, factureringsstatus, openstaande verplichtingen en liquiditeit samen te beoordelen. Het resultaat is een samenhangendere basis om te bepalen wat nu aandacht nodig heeft, wat kan doorgaan en welke financiële risico's verder onderzoek vereisen.
+
+**Het centrale principe:** Projectbeheersing in de bouw moet het huidige contract, de kostenprestaties, de betalingsverplichtingen en de beschikbare cash met elkaar verbinden — en ze niet behandelen als onafhankelijke rapporteringstaken. Deze toolkit zet dat principe om in een herbruikbare analytische workflow rond één bouwproject, van gunning tot oplevering.
+
+---
+
+## Andere tools in deze serie
 
 Als u van lichtgewicht Excel-gebaseerde operationele beslissingstools houdt, kunnen deze projecten ook nuttig voor u zijn:
 
@@ -414,7 +467,7 @@ Meer beslissingsondersteunende tools blijven verschijnen via de GitHub-repositor
 
 ---
 
-# License
+## Licentie
 
 Dit project is gelicentieerd onder de **Apache License 2.0**.
 
