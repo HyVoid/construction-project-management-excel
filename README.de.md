@@ -10,7 +10,7 @@ Keine Registrierung. Keine Installation. Kostenlos in Ihrem Browser.
 > 
 > 🌐 **Live-Anwendung** → [Kostenlose Bauprojektsteuerungs-Web-App ausprobieren (HTML-Demo)](https://hyvoid.github.io/construction-project-management-excel/)
 > 
-> 📥 **Excel-Vorlage** → [Excel-Vorlage für Kostenermittlung herunterladen](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+> 📥 **Excel-Vorlage** → [Excel-Vorlage für Kostenermittlung herunterladen](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
 ---
 
@@ -76,7 +76,7 @@ Prüfen Sie Ihre Budgetabweichung, den gesamten einbehaltenen Betrag, das Rechnu
 ### Schritt 5. Eine wiederverwendbare Projekt-Financial-Datenbank aufbauen
 Nach Projektabschluss: Verwerfen Sie die Datei nicht. Ihre Standard-Cost-Code-Zuordnungen, Anbieter-Zahlungshistorien und Basislinien-Cashflow-Kurven bleiben erhalten. Das System entwickelt sich mit jedem abgeschlossenen Auftrag weiter und verwandelt Einweg-Tracker in eine dauerhafte **historische Kostendatenbank** für das Benchmarking künftiger Projekte.
 
-* 👉 [*Excel-Steuerungs-Arbeitsmappe für Bau für Offline-Nutzung herunterladen*](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+* 👉 [*Excel-Steuerungs-Arbeitsmappe für Bau für Offline-Nutzung herunterladen*](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
 ---
 
