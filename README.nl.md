@@ -11,7 +11,7 @@ Geen aanmelding. Geen installatie. Gratis in uw browser.
 > 
 > 🌐 **Live Application** → [Try the Free Construction Project Control Web App (HTML Demo)](https://hyvoid.github.io/construction-project-management-excel/)
 > 
-> 📥 **Excel Template** → [Download Residential Estimating Excel Template](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+> 📥 **Excel Template** → [Download Residential Estimating Excel Template](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
 ---
 
@@ -77,7 +77,7 @@ Beoordeel uw budgetvariatie, ingehouden bedragen, factuurouderdom en liquiditeit
 ### Stap 5. Een herbruikbare financiële projectdatabase bouwen
 Gooi het bestand na oplevering van het project niet weg. Uw standaard kostencodekoppelingen, betalingshistoriek van leveranciers en basis-cashflowcurves blijven bewaard. Het systeem evolueert met elk afgerond project en verandert eenmalige trackers in een permanente **historische kostendatabase** voor het benchmarken van toekomstige projecten.
 
-* 👉 [*Download the Excel Construction Control Workbook for Offline Use*](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+* 👉 [*Download the Excel Construction Control Workbook for Offline Use*](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
 ---
 
