@@ -10,7 +10,10 @@ No signup. No installation. Free in your browser.
 > 
 > 🌐 **Live Application** → [Try the Free Construction Project Control Web App (HTML Demo)](https://hyvoid.github.io/construction-project-management-excel/)
 > 
-> 📥 **Excel Template** → [Download Estimating Excel Template](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+> 📥 **Excel Template** → [Download Estimating Excel Template](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+
+
+https://theseusworkshop.gumroad.com/l/ftbvja
 
 ---
 
@@ -76,7 +79,7 @@ Review your budget variance, total retainage withheld, invoice aging, and liquid
 ### Step 5. Build a Reusable Project Financial Database
 After project closeout, do not discard the file. Your standard cost code mappings, vendor payment histories, and baseline cash flow curves are preserved. The system evolves with every completed job, transforming single-use trackers into a permanent **historical cost database** for benchmarking future projects.
 
-* 👉 [*Download the Excel Construction Control Workbook for Offline Use*](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+* 👉 [*Download the Excel Construction Control Workbook for Offline Use*](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
 ---
 
