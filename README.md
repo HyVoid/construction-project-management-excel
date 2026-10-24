@@ -12,9 +12,7 @@ No signup. No installation. Free in your browser.
 > 
 > 📥 **Excel Template** → [Download Estimating Excel Template](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
-
-https://theseusworkshop.gumroad.com/l/ftbvja
-
+ 
 ---
 
 ## The Core Concept: Project-Level Control vs. Enterprise Administration
