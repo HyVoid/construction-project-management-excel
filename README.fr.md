@@ -10,7 +10,7 @@ Aucune inscription. Aucune installation. Gratuit dans votre navigateur.
 > 
 > 🌐 **Application live** → [Essayer l’application web de contrôle de construction gratuite (démo HTML)](https://hyvoid.github.io/construction-project-management-excel/)
 > 
-> 📥 **Modèle Excel** → [Télécharger le modèle Excel d’estimation](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+> 📥 **Modèle Excel** → [Télécharger le modèle Excel d’estimation](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
 ---
 
@@ -76,7 +76,7 @@ Examinez votre écart budgétaire, le total des retenues, l’ancienneté des fa
 ### Étape 5. Construire une base de données financière de projet réutilisable
 Après la clôture du projet, ne jetez pas le fichier. Vos correspondances de codes de coûts standard, les historiques de paiement fournisseurs et les courbes de trésorerie de référence sont conservés. Le système évolue avec chaque chantier terminé, transformant les traceurs à usage unique en une **base de données de coûts historiques** permanente pour le benchmarking des projets futurs.
 
-* 👉 [*Télécharger le classeur Excel de contrôle de construction pour usage hors ligne*](https://www.theseusworkshop.com/l/njmty?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+* 👉 [*Télécharger le classeur Excel de contrôle de construction pour usage hors ligne*](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
 
 ---
 
