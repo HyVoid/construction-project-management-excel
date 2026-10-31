@@ -457,11 +457,13 @@ This toolkit applies practical construction financial control methods to connect
 
 If you enjoy lightweight Excel-based operational decision tools, you may also find these projects useful:
 
-* **Enterprise Payroll & Annual Workforce Capacity Planning Toolkit** — Workforce planning, payroll forecasting, overtime analysis, and annual labor capacity management.
-* **Rental Property Operations & Vacancy Intelligence Toolkit** — Monitor occupancy, rental income, maintenance, and portfolio performance.
-* **Demand-Adaptive Inventory Planning & Purchasing Toolkit** — Inventory forecasting, reorder planning, supplier lead-time analysis, and purchasing decisions.
-* **Manufacturing Labor Cost & Capacity Planning Toolkit** — Production workforce planning, labor utilization, and manufacturing cost control.
-* **Commercial Energy Cost & Total Cost of Ownership Toolkit** — Compare energy alternatives using consistent commercial and operational assumptions.
+* **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Does the shaft design satisfy the relevant calculation logic? — Apply DIN 743 shaft calculation standards to engineering design decisions.
+* **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — What will this construction scope cost under current assumptions? — Standardize construction tender estimating and transform completed estimates into reusable cost libraries.
+* **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — How do estimates and tracked costs compare through delivery? — Compare construction estimates against actual costs throughout project delivery using AIA-standard formats.
+* **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Which energy option delivers the lowest total cost of ownership for this specific project under its actual operating conditions? — Compare industrial energy sources on a true useful-energy basis by normalizing fuel costs equipment efficiency infrastructure investment and lifecycle ownership costs.
+* **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — What will this residential project cost and which divisions are already over budget? — Estimate residential construction costs from BOQ takeoffs and rates while tracking approved budgets against actual spending.
+* **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — What will this drill-and-blast tunnel project cost under the assumed construction cycle? — Estimate drill-and-blast tunnel excavation, drilling, blasting, support, equipment, and labour requirements into a complete project cost and BOQ.
+* **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — What is the total material and reinforcement cost for the foundation substructure, and can I trace every commercial bid value back to the measured dimensions? — Calculate foundation concrete volumes, formwork areas, earthwork quantities, reinforcement tonnage via automated bar bending schedules, and commercial bill of quantities values from measured structural dimensions.
 
 More decision-support tools will continue to be published through the GitHub repository and product library.
 
