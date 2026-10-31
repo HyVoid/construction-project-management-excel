@@ -5,6 +5,7 @@ on:
     branches:
       - main
       - master
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -20,18 +21,21 @@ jobs:
       - name: Setup Node.js ⚙️
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           # Cache setup is explicitly disabled to prevent build errors 
-          # due to the absence of a committed package-lock.json file.
+          # due to the absence of a committed lockfile.
+
+      - name: Verify Node Version 🔍
+        run: node --version
 
       - name: Install Dependencies & Compile App 🔧
         run: |
           npm install
           npm run build
 
-      - name: Deploy static assets to gh-branch 🚀
+      - name: Deploy static assets to gh-pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: gh-branch
+          branch: gh-pages
           folder: dist
           clean: true

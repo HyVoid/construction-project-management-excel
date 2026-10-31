@@ -1,9 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Inter:wght@300..900&display=swap');
+@import "@fontsource/eb-garamond/latin-500.css";
+@import "@fontsource/eb-garamond/latin-600.css";
+@import "@fontsource/eb-garamond/latin-700.css";
 @import "tailwindcss";
 
 @theme {
   --font-heading: "EB Garamond", Garamond, Georgia, serif;
-  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   
   --color-primary: #051C2C;
   --color-accent: #2251FF;
@@ -18,7 +20,17 @@
 }
 
 :root {
-  /* Core Palette mapping */
+  /* Required CSS variables according to visual specs */
+  --bg: #F5F5F2;
+  --surface: #FFFFFF;
+  --brand: #051C2C;
+  --accent: #2251FF;
+  --muted: #888888;
+  --ok: #00C853;
+  --danger: #D32F2F;
+  --input-bg: #FFFDE7;
+
+  /* Aliases for semantic use */
   --color-primary: #051C2C;
   --color-accent: #2251FF;
   --color-bg: #F5F5F2;

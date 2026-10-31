@@ -73,7 +73,7 @@ export default function App() {
   // Export state as a backup JSON file
   const handleExportBackup = () => {
     const dateStr = new Date().toISOString().slice(0, 10);
-    const fileName = `${state.projectSetup.projectName.replace(/\s+/g, '_')}_backup_${dateStr}.json`;
+    const fileName = `construction-project-management-excel-backup-${dateStr}.json`;
     const jsonStr = JSON.stringify(state, null, 2);
     
     const blob = new Blob([jsonStr], { type: 'application/json' });
@@ -542,16 +542,16 @@ export default function App() {
         <div className="max-w-[1400px] h-full mx-auto px-6 sm:px-10 flex items-center justify-between">
           
           {/* Brand Identity / Logo */}
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-2.5">
             <div className="w-8 h-8 rounded-md bg-[#051C2C] flex items-center justify-center text-white">
               <FileSpreadsheet size={16} />
             </div>
-            <div>
-              <span className="font-heading-style text-lg font-bold tracking-tight text-[#051C2C]">
-                Vertex Control Pro
+            <div className="flex flex-col sm:flex-row sm:items-baseline">
+              <span className="font-heading-style text-[19px] font-bold tracking-[-0.01em] text-[#051C2C]">
+                Theseus Workshop
               </span>
-              <span className="hidden sm:inline-block ml-2 text-[10px] tracking-wider uppercase font-semibold text-[#888888] border-l border-[#E8E8E6] pl-2">
-                Project Control Center
+              <span className="text-[11px] font-medium text-[#888888] sm:border-l sm:border-[#E8E8E6] sm:pl-2.5 sm:ml-2.5">
+                construction-project-management-excel
               </span>
             </div>
           </div>
@@ -650,7 +650,7 @@ export default function App() {
             {/* System Factory Reset */}
             <button 
               onClick={handleResetData}
-              title="Restore to pristine Vertex Construction demo workbook"
+              title="Reset Data (Restore initial workbook data)"
               className="p-1.5 rounded border border-rose-200 hover:bg-rose-50 text-[#D32F2F] text-xs font-semibold tracking-wide flex items-center gap-1.5 shadow-apple-sm transition-all duration-150 active:scale-95"
             >
               <RefreshCw size={13} />
@@ -2162,7 +2162,7 @@ export default function App() {
                 <div>
                   <div className="font-semibold text-slate-500 mb-1">CERTIFIED AUTHORIZATION</div>
                   <p className="leading-relaxed">
-                    Vertex Builders Group confirms the above percentage of completions is a true and fair representation of site progress verified by the consulting engineering inspector.
+                    {state.projectSetup.contractorName} confirms the above percentage of completions is a true and fair representation of site progress verified by the consulting engineering inspector.
                   </p>
                   <div className="mt-6 border-b border-slate-200 w-44"></div>
                   <div className="mt-1 font-semibold">CM Lead Engineer Sign-off</div>
@@ -2181,14 +2181,16 @@ export default function App() {
 
       </main>
 
-      {/* ── Footer Branding (Institutional Minimalism) ── */}
-      <footer className="bg-white border-t border-[#E8E8E6] py-6 text-center text-slate-400 text-xs">
-        <div className="max-w-[1400px] mx-auto px-6 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <p>© 2026 Vertex Construction Management Systems Inc. All rights reserved.</p>
-          <div className="flex gap-4">
-            <span className="font-medium text-slate-500">Enterprise Edition</span>
+      {/* ── Footer Branding & Data Privacy Notice ── */}
+      <footer className="bg-white border-t border-[#E8E8E6] py-5 text-[#888888] text-xs">
+        <div className="max-w-[1400px] mx-auto px-6 sm:px-10 flex flex-col sm:flex-row items-center justify-between gap-3">
+          <p className="text-left text-[12px] text-[#888888]">
+            All data in this tool is stored in your browser's localStorage. The page itself does not retain any user data.
+          </p>
+          <div className="flex items-center gap-3 text-[12px] text-[#888888]">
+            <span className="font-semibold text-[#051C2C]">Theseus Workshop</span>
             <span>•</span>
-            <span className="font-medium text-[#2251FF]">Offline-First Local Workspace</span>
+            <span className="text-[11px] font-mono">construction-project-management-excel</span>
           </div>
         </div>
       </footer>

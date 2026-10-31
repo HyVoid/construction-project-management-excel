@@ -4,7 +4,7 @@ export const initialWorkbookState: WorkbookState = {
   projectSetup: {
     projectName: "Downtown Innovation Center",
     clientName: "Apex Urban Development LLC",
-    contractorName: "Vertex Builders Group Ltd.",
+    contractorName: "Theseus Builders Group Ltd.",
     startDate: "2026-02-01",
     originalContractSum: 1500000.00,
     holdbackRate: 0.10, // 10% standard holdback
