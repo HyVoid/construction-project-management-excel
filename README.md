@@ -477,6 +477,23 @@ More decision-support tools will continue to be published through the GitHub rep
 
 ---
 
+## Questions, Feedback & Product Updates
+
+This repository supports **Construction Project Management & Project Control Workbook**. Use the channels below to keep reproducible defects separate from general usage questions and product ideas.
+
+- **Report a reproducible technical issue:** [Open a Construction Project Management & Project Control Workbook bug report](https://github.com/HyVoid/construction-project-management-excel/issues/new?template=bug-report.yml). Include the affected workflow, software environment, and steps to reproduce.
+- **Ask a usage question:** [Theseus Workshop community Q&A](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Suggest an improvement or discuss a use case:** [Share an idea](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Follow product announcements:** [Product Updates](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+### Privacy & Safe Examples
+
+Do not publish customer, supplier, employee, property-owner, traveler, tenant, transaction, booking, payment, or other confidential business information in public GitHub Issues or Discussions. Do not attach unredacted accounting exports, bank statements, invoices, contracts, identity documents, credentials, or complete operational datasets.
+
+Use synthetic examples wherever possible. If a real-world example is necessary, remove direct and indirect identifiers and commercially sensitive values. Column names, fabricated sample rows, approximate row counts, exact error messages, and expected-versus-actual results are usually enough to reproduce a problem.
+
+For any free browser-based demo, do not upload production data until you have independently reviewed the demo's current privacy and data-handling information and confirmed that its use is appropriate. This README does not claim that browser data is processed only on your device or is never transmitted or retained.
+
 ## License
 
 This project is licensed under the **Apache License 2.0**.
