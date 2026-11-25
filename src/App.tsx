@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { 
-  Plus, Trash2, Edit2, Check, X, FileText, Download, Upload, RefreshCw, 
-  Settings, TrendingUp, DollarSign, Calendar, ShieldCheck, PieChart, 
-  FileSpreadsheet, ClipboardList, AlertTriangle, ArrowUpRight, ArrowDownRight, Printer, Info
+  Plus, Trash2, Edit2, Check, X, Download, Upload, RefreshCw, 
+  TrendingUp, DollarSign, ShieldCheck, 
+  FileSpreadsheet, AlertTriangle, ArrowUpRight, ArrowDownRight, Printer, Info
 } from 'lucide-react';
 import { 
   ResponsiveContainer, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, LineChart, Line
@@ -30,7 +30,24 @@ export default function App() {
       try {
         const parsed = JSON.parse(saved);
         if (parsed.projectSetup && parsed.budget) {
-          return parsed;
+          const normalizeTestText = (val?: string) =>
+            (val || '').replace(/['’`\s]/g, '').toLowerCase();
+          const projectName =
+            normalizeTestText(parsed.projectSetup.projectName) === 'adsf'
+              ? initialWorkbookState.projectSetup.projectName
+              : parsed.projectSetup.projectName;
+          const clientName =
+            normalizeTestText(parsed.projectSetup.clientName) === 'dafa'
+              ? initialWorkbookState.projectSetup.clientName
+              : parsed.projectSetup.clientName;
+          return {
+            ...parsed,
+            projectSetup: {
+              ...parsed.projectSetup,
+              projectName,
+              clientName,
+            },
+          };
         }
       } catch (e) {
         console.error("Failed to parse local storage", e);
@@ -539,51 +556,44 @@ export default function App() {
 
       {/* ── Sticky Nav Bar (56px) ── */}
       <header className="sticky top-0 z-40 bg-white h-[56px] border-b border-[#E8E8E6] shadow-apple-nav">
-        <div className="max-w-[1400px] h-full mx-auto px-6 sm:px-10 flex items-center justify-between">
+        <div className="max-w-[1400px] h-full mx-auto px-6 sm:px-10 flex items-center justify-between gap-6">
           
-          {/* Brand Identity / Logo */}
-          <div className="flex items-center gap-2.5">
-            <div className="w-8 h-8 rounded-md bg-[#051C2C] flex items-center justify-center text-white">
-              <FileSpreadsheet size={16} />
-            </div>
-            <div className="flex flex-col sm:flex-row sm:items-baseline">
-              <span className="font-heading-style text-[19px] font-bold tracking-[-0.01em] text-[#051C2C]">
-                Theseus Workshop
-              </span>
-              <span className="text-[11px] font-medium text-[#888888] sm:border-l sm:border-[#E8E8E6] sm:pl-2.5 sm:ml-2.5">
-                construction-project-management-excel
-              </span>
-            </div>
+          {/* Brand Identity */}
+          <div className="flex flex-col sm:flex-row sm:items-baseline shrink-0">
+            <span className="font-heading-style text-[19px] font-bold tracking-[-0.01em] text-[#051C2C] whitespace-nowrap">
+              Theseus Workshop
+            </span>
+            <span className="text-[11px] font-medium text-[#888888] sm:border-l sm:border-[#E8E8E6] sm:pl-2.5 sm:ml-2.5 whitespace-nowrap">
+              construction-project-management-excel
+            </span>
           </div>
 
           {/* Navigation Tab selection */}
-          <nav className="flex h-full items-center">
+          <nav className="flex h-full items-center overflow-x-auto">
             {[
-              { id: 'dashboard', label: 'Dashboard', icon: PieChart },
-              { id: 'setup', label: 'Setup', icon: Settings },
-              { id: 'budget', label: 'Budget & Actuals', icon: DollarSign },
-              { id: 'change-orders', label: 'Change Orders', icon: ClipboardList },
-              { id: 'progress', label: 'Progress & Milestones', icon: Calendar },
-              { id: 'receipts', label: 'Client Invoices', icon: FileText },
-              { id: 'holdback', label: 'Holdback Account', icon: ShieldCheck },
-              { id: 'cashflow', label: 'Cash Flow Timeline', icon: TrendingUp },
-              { id: 'invoice', label: 'Voucher', icon: FileText },
+              { id: 'dashboard', label: 'Dashboard' },
+              { id: 'setup', label: 'Setup' },
+              { id: 'budget', label: 'Budget & Actuals' },
+              { id: 'change-orders', label: 'Change Orders' },
+              { id: 'progress', label: 'Progress & Milestones' },
+              { id: 'receipts', label: 'Client Invoices' },
+              { id: 'holdback', label: 'Holdback Account' },
+              { id: 'cashflow', label: 'Cash Flow Timeline' },
+              { id: 'invoice', label: 'Voucher' },
             ].map((tab) => {
-              const IconComp = tab.icon;
               const isActive = activeTab === tab.id;
               return (
                 <button
                   key={tab.id}
                   onClick={() => setActiveTab(tab.id)}
                   id={`nav-tab-${tab.id}`}
-                  className={`h-full px-3 md:px-4 flex items-center gap-1.5 border-b-2 text-[13px] font-medium tracking-wide transition-all duration-150 cursor-pointer ${
+                  className={`h-full px-2.5 lg:px-3 flex items-center border-b-2 text-[13px] font-medium tracking-wide whitespace-nowrap shrink-0 transition-all duration-150 cursor-pointer ${
                     isActive 
                     ? 'border-[#2251FF] text-[#051C2C]' 
                     : 'border-transparent text-[#888888] hover:text-[#051C2C]'
                   }`}
                 >
-                  <IconComp size={14} className={isActive ? 'text-[#2251FF]' : 'text-[#888888]'} />
-                  <span className="hidden md:inline">{tab.label}</span>
+                  <span>{tab.label}</span>
                 </button>
               );
             })}
