@@ -1,153 +1,181 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
-# Kostenlose Excel-Vorlage für Bauprojektmanagement & Web-App | Budget- und Cashflow-Tracker für Einzelprojekte
-<img width="1670" height="790" alt="image" src="https://github.com/user-attachments/assets/69464cda-96d1-42d0-b487-16a2776d7e7d" />
 
-**Sie suchen eine zuverlässige Tabellenkalkulation für Bauprojektmanagement? Diese schlanke Steuerungs-Arbeitsmappe für Einzelprojekte hilft Generalunternehmern und Projektmanagern, Kostenerfassung, Fortschrittsabrechnung (Schedule of Values), Einbehalte, Subunternehmerzahlungen und Echtzeit-Cashflow zu verfolgen. Sofort verfügbar als kostenlose Web-App oder als herunterladbare Excel-Vorlage – kein Enterprise-Softwareabonnement erforderlich.**
+# Bauprojektmanagement & Cashflow Excel-Vorlage (Kostenlose Web-Demo) — Einzelprojekt-Budget, SOV Progress Billing & Retainage-Kontrolle
 
-Keine Registrierung. Keine Installation. Kostenlos in Ihrem Browser.
+[![Lizenz: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Excel-Arbeitsmappe: Einmalkauf](https://img.shields.io/badge/Excel%20Workbook-One--Time%20Purchase-1E3A8A.svg)
+![Interaktive Demo: Kostenlose Web-App](https://img.shields.io/badge/Web%20Demo-Free%20in%20Browser-217346.svg)
+![Garantie: 30 Tage Geld zurück](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
-> Verwalten Sie Ihr Baubudget sofort im Browser, oder laden Sie die vollständig freigeschaltete Excel-Version herunter (mit 30-tägiger Geld-zurück-Garantie ohne Rückfragen), um sie in Ihre bestehende WIP-Berichterstattung (Work in Progress) zu integrieren.
-> 
-> 🌐 **Live-Anwendung** → [Kostenlose Bauprojektsteuerungs-Web-App ausprobieren (HTML-Demo)](https://hyvoid.github.io/construction-project-management-excel/)
-> 
-> 📥 **Excel-Vorlage** → [Excel-Vorlage für Kostenermittlung herunterladen](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+<img width="1670" height="790" alt="Construction Project Management & Cash Flow Excel Dashboard Preview" src="https://github.com/user-attachments/assets/69464cda-96d1-42d0-b487-16a2776d7e7d" />
 
----
+**Steuern Sie Millionprojekte nicht mehr über verstreute Tabellen und Notizen im Kopf.** Diese Plug-and-Play-**Excel-Arbeitsmappe für Bauprojektmanagement & Cashflow einzelner Projekte** bringt Ihr **Budget, Ihre Cost Codes, Change Orders (VOs), Progress Billing (Schedule of Values / im AIA-Stil), Retainage, Subunternehmerverbindlichkeiten und Ihre rollierende Cashflow-Prognose** in ein einziges aufgeräumtes, offlinefähiges Kommandozentrum—gebaut für praxisnahe Projektmanager, Generalunternehmer und QS-Teams, die Kontrolle auf Geschäftsführungsniveau wollen, ohne $10,000/Jahr für ERP-Software auszugeben.
 
-## Das Kernkonzept: Steuerung auf Projektebene vs. Unternehmensverwaltung
-
-Die meiste kommerzielle Bausoftware (wie Procore, Buildertrend oder CMiC) ist für die Verwaltung von Unternehmensportfolios gebaut. Sie zwingt Sie, durch Benutzerberechtigungen, unternehmensweite Ressourcenplanung und Beschaffungs-Workflows zu navigieren, nur um eine fundamentale Frage zu beantworten:
-
-> **„Ist dieses konkrete Bauprojekt aktuell finanziell gesund?"**
-
-Dieser **Bau-Financial-Tracker** entfernt den Enterprise-Ballast. Er ist speziell für **Bauprojektmanagement auf Einzelprojektebene** entwickelt.
-
-Ein Primärvertrag. Ein Auftragskostenbudget. Ein kritischer Pfad-Zeitplan. Ein Strom von Änderungsaufträgen (VOs). Eine konsolidierte Cashflow-Prognose.
-
-Durch die Eliminierung unternehmensweiten Overheads bietet dieses Werkzeug sofortige finanzielle Transparenz und ist damit die perfekte Tabellenkalkulations-Alternative für Baustellenteams, kaufmännische Leiter und Bauleiter, die schnelle operative Antworten brauchen.
+> ### Zwei Wege, noch heute durchzustarten
+>
+> - 📥 **Holen Sie sich die vollständige Offline-Excel-Steuerungsarbeitsmappe (Einmalkauf · 30 Tage Geld-zurück-Garantie ohne Rückfragen):** [**Laden Sie die komplette Excel-Arbeitsmappe für Bauprojektmanagement & Cashflow auf Theseus Workshop herunter**](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management) — ein freigeschaltetes `.xlsx`-System mit automatisierten Tabellen, Dashboards und Cashflow-Prognosen. Wiederverwendbar für unbegrenzt viele Projekte, 100 % lokale Privatsphäre, keine laufenden SaaS-Gebühren.
+> - 🌐 **Testen Sie das Dashboard zuerst live (100 % kostenlose Browser-Demo · keine Registrierung):** [**Starten Sie die kostenlose Web-Demo zur Bauprojektsteuerung**](https://hyvoid.github.io/construction-project-management-excel/) und erkunden Sie das KPI-Dashboard und die Finanzlogik sofort in Ihrem Browser.
+> - 🎁 **Neu bei Theseus Workshop und möchten Sie zuerst kostenlos eine Offline-Excel-Datei ausprobieren?** Holen Sie sich unsere [**kostenlose Monthly Construction CVR & Accruals Excel-Vorlage ($0+ Pay What You Want)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_pm_readme_crosslink) und testen Sie unsere Plug-and-Play-Excel-Qualität auf Ihrem eigenen Rechner, bevor Sie auf das vollständige Projektsteuerungssystem upgraden.
 
 ---
 
-## Gelöste Probleme: Was diese Bau-Tabellenkalkulation verfolgt
+## Wie dieses Bezahl-System Ihren Workflow verbessert (passt zu unserer kostenlosen CVR-Vorlage)
 
-Anstatt Ihre Daten über Buchhaltungssysteme und temporäre Excel-Dateien zu verstreuen, adressiert diese Vorlage die häufigsten finanziellen Engpässe im Bau durch einen integrierten Ansatz:
+Wenn Sie unsere **Free Monthly CVR & Accruals Template** bereits heruntergeladen haben, wissen Sie schon, wie man versteckte Gewinnschlupflöcher zum Monatsende aufdeckt. **Diese Arbeitsmappe ist der nächste Schritt**: Ihr tägliches operatives Kommandozentrum, das Budgets, Abrechnungen, Retainage und den Projekt-Cashflow von der Auftragsvergabe bis zum finalen Abschluss unter Kontrolle hält.
 
-* **Problem: Änderungsaufträge verzerren den Originalvertrag.**
-* * **Lösung: Verfolgung von Vertragswert & Änderungsaufträgen.** Sehen Sie Ihre ursprüngliche Vertragssumme, schwebende vs. genehmigte Änderungsaufträge und den aktuellen überarbeiteten Vertragswert in einem gesperrten, prüffähigen Dashboard.
-
-
-* **Problem: Kostenüberschreitungen werden erst nach getätigten Zusagen entdeckt.**
-* * **Lösung: Kostenerfassung & Budgetabweichungsanalyse.** Verfolgen Sie zugeordnetes Budget vs. tatsächlich zugesagte Kosten nach Standard-Cost-Codes (CSI-MasterFormat-kompatibel) und fangen Sie Überschreitungen, bevor Subunternehmerverträge unterzeichnet werden.
-
-
-* **Problem: Unübersichtliche AIA-Abrechnungen und verzögerte Kundenzahlungen.**
-* * **Lösung: Fortschrittsabrechnung (SOV) & Einbehaltsverwaltung.** Berechnen Sie automatisch fertiggestellte Arbeiten, frühere Forderungen, aktuell fällige Beträge und akkumulierte Einbehalte (Holdback), um die Kundenabrechnung zu straffen.
-
-
-* **Problem: Blindstellen bei Projektliquidität und Working Capital.**
-* * **Lösung: Bau-Cashflow-Prognose.** Überwachen Sie Verbindlichkeiten (Zahlungen an Unternehmer) gegen Forderungen (Zahlungseingänge von Kunden), um eine rollierende Cashflow-Prognose zu erstellen, die Liquiditätsengpässe vorhersagt, bevor sie den Baufortschritt stoppen.
+| Was Sie kontrollieren müssen | Free Monthly CVR & Accruals Template (*Monatsabschluss-Diagnostik*) | **Diese Arbeitsmappe: Einzelprojekt-Management & Cashflow-Kontrolle** (*Full-Lifecycle-System*) |
+|---|---|---|
+| **Hauptaufgabe** | Abstimmung der Gewinnsituation zum Monatsende, nicht abgerechneter Baustellen-Accruals und EAC-Margendrift | Tägliche/wöchentliche Budgetkontrolle, Progress Billing, Retainage, Zahlungen und Cashflow steuern |
+| **Vertrag & Change Orders** | Bewertung schwebender Variationsansprüche mit Risikogewichtung zum Stichtag | Verfolgt Originalvertrag, genehmigte VOs, überarbeiteten Vertragswert & Restsaldo |
+| **Budget & Cost Codes** | Kostenermittlung auf Paketebene | Vollständiges **Cost-Code-Budget (CSI MasterFormat-kompatibel)**: Budget vs. committete vs. tatsächliche Kosten |
+| **Progress Billing (SOV) & Retainage** | Nutzt zertifizierte Umsatzeingaben | Automatisiert **Schedule of Values (SOV), Progress Claims, Retainage-Einbehalte & Forderungen** |
+| **Cashflow & Liquiditätshorizont** | Fokus auf Margen- und Accrual-Gesundheit | Führt **Kundeneingänge vs. geplante Subunternehmerverbindlichkeiten** zu einer rollierenden Cashflow-Prognose zusammen |
+| **Am besten geeignet, wenn** | Monatsabschluss & Gewinnaudit vor Geschäftsführungsreviews | Aktive Baustellenfinanzen jede Woche steuern, damit Ihnen nie das Geld ausgeht oder eine Abrechnung durchrutscht |
 
 ---
 
-## Schnellstart-Tutorial: So richten Sie Ihren Bau-Financial-Tracker ein
+## Das Kernkonzept: Kontrolle auf Projektebene vs. Enterprise-Ballast
 
-Schluss mit temporären Tabellen. Befolgen Sie diese Schritte, um eine dauerhafte finanzielle Bezugsgrundlage für Ihr aktuelles Projekt zu etablieren.
+Die meisten kommerziellen Bauplattformen (wie Procore, Buildertrend oder CMiC) sind für die Enterprise-IT-Verwaltung gebaut. Sie zwingen kleine und mittlere Teams zu hohen Jahresabonnements und endlosen Berechtigungsmenüs, nur um eine dringende Frage zu beantworten:
 
-### Schritt 1: Projektparameter & Auftragskosten-Basislinie konfigurieren
+> **„Ist dieses konkrete Projekt aktuell im Budget, korrekt abgerechnet und cashflow-positiv?"**
 
-**Aktion:** Öffnen Sie die Registerkarte **Projekt-Setup**, um Ihre einzige Quelle der Wahrheit zu definieren.
-Geben Sie Ihren ursprünglichen Vertragswert, den Standard-Einbehaltsprozentsatz, Steuersätze und wichtige Meilensteintermine ein. Diese Parameter speisen automatisch jede nachgelagerte Berechnung, sodass Sie sie nur einmal festlegen müssen.
+Dieser **Bau-Finanztracker** entfernt die Enterprise-Komplexität und konzentriert sich zu 100 % auf **Klarheit für das Einzelprojekt**:
 
-### Schritt 2: Subunternehmer- & Schedule-of-Values-(SOV)-Daten importieren
+**Ein Primärvertrag. Ein Job-Cost-Budget. Ein Change-Order-Register. Eine SOV-Progress-Billing- & Retainage-Engine. Eine rollierende Cashflow-Prognose.**
 
-**Aktion:** Fügen Sie Ihre bestehenden Daten in die strukturierten Stammdaten-Tabellen ein.
-Ob Sie WIP-Berichte aus Ihrem ERP exportieren, CSVs aus Ihren Mengenermittlungsaufzeichnungen oder Anbieter-Zahlungspläne – fügen Sie die Datensätze einfach ein. Die dynamischen Tabellen erweitern sich automatisch, ohne Formeln zu beschädigen.
-
-### Schritt 3: Tägliche/wöchentliche Baukosten & Abrechnungen erfassen
-
-**Aktion:** Nutzen Sie die operativen Eingaben, um Projektaktivitäten in Echtzeit aufzuzeichnen.
-Erfassen Sie tatsächliche Kosten, Fortschrittsforderungen, Subunternehmerrechnungen und genehmigte Änderungen, sobald sie anfallen. Die Architektur trennt reine Dateneingabe von Berichterstattung, wodurch Kopieren-Einfügen von Formeln entfällt.
-
-### Schritt 4: Executive-Financial-Dashboards generieren
-
-**Aktion:** Wechseln Sie zum **Executive Dashboard**, um kaufmännische Entscheidungen zu treffen.
-Prüfen Sie Ihre Budgetabweichung, den gesamten einbehaltenen Betrag, das Rechnungsalter und den Liquiditätshorizont. **[Testen Sie das Dashboard jetzt in Ihrem Browser](https://hyvoid.github.io/construction-project-management-excel/)**, um zu sehen, wie Rohdaten automatisch in verwertbare Projektinformationen umgewandelt werden.
-
-### Schritt 5. Eine wiederverwendbare Projekt-Financial-Datenbank aufbauen
-Nach Projektabschluss: Verwerfen Sie die Datei nicht. Ihre Standard-Cost-Code-Zuordnungen, Anbieter-Zahlungshistorien und Basislinien-Cashflow-Kurven bleiben erhalten. Das System entwickelt sich mit jedem abgeschlossenen Auftrag weiter und verwandelt Einweg-Tracker in eine dauerhafte **historische Kostendatenbank** für das Benchmarking künftiger Projekte.
-
-* 👉 [*Excel-Steuerungs-Arbeitsmappe für Bau für Offline-Nutzung herunterladen*](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+Sie brauchen keine Konzernbuchhaltung und keine monatelange Software-Einarbeitung. Öffnen Sie eine Arbeitsmappe, fügen Sie Ihre Projektdaten ein und gehen Sie in jedes Kunden-, Bauherren- oder Geschäftsführungsgespräch mit voller Kontrolle über Ihre Zahlen.
 
 ---
 
-## Wer sollte diesen Bauprojekt-Tracker nutzen? (Rollen & Anwendungsfälle)
+## Tabellen-Vorschau
 
-Dieses Toolkit ist für Branchenprofis konzipiert, die direkte Aufsicht über Kostenerfassung und Cashflow ohne die Reibung komplexer ERP-Systeme brauchen.
+Möchten Sie Layout, Dashboard und Tabellenstruktur vor dem Kauf prüfen? Sehen Sie sich die Arbeitsmappe direkt in Google Sheets an:
 
-* **Generalunternehmer & individuelle Hausbauer:** Suchen eine zuverlässige *Excel-Vorlage für Auftragskostenerfassung*, um Budgetabflüsse bei Wohn- oder Gewerbebauten zu verhindern.
-* **Bauprojektmanager (PMs):** Brauchen ein *finanzielles Projektmanagement-Dashboard*, das Budgetzuordnungen, Schedule of Values und Änderungsaufträge für Kundentermine synchronisiert.
-* **Quantity Surveyors (QS) & Kalkulatoren:** Suchen eine *kaufmännische Management-Tabelle*, um Subunternehmer-Zahlungsanträge effizient zu bescheinigen und Auswirkungen von Änderungsaufträgen zu bewerten.
-* **Owner's Representatives / Kunden-PMs:** Brauchen ein unabhängiges *Projektsteuerungs-Audit-Werkzeug*, um die monatlichen Fortschrittsforderungen des Generalunternehmers und Einbehaltssalden zu überprüfen.
-* **Spezialgewerke & Subunternehmer:** Brauchen einen einheitlichen Arbeitsbereich, um ihre eigenen Fortschrittsabrechnungen und offenen Forderungen gegen große Primärverträge zu verfolgen.
+**[Live-Vorschau der Tabelle in Google Sheets öffnen](https://docs.google.com/spreadsheets/d/1TyXGVYvJSKLi2AHYJjCC-MMfILjwhHcE/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Hinweis zur Kompatibilität:** Die Google-Sheets-Vorschau kann gelegentlich `#NAME?`-Warnungen oder Formatverschiebungen anzeigen, da sich die Formeln zwischen Google Sheets und Microsoft Excel unterscheiden. Dies sind reine Vorschau-Artefakte und treten in der heruntergeladenen `.xlsx`-Datei in Microsoft Excel nicht auf.
 
 ---
 
-## Überwindung häufiger finanzieller Risiken im Bau
+## Gelöste Pain Points: Was diese Bau-Tabelle automatisch kontrolliert
 
-Die folgende Tabelle zeigt, wie die Migration zu einem strukturierten Toolkit die Risiken der Verwaltung von Millionen-Bauten auf fragmentierten Tabellen beseitigt.
+Statt Projektzahlen über getrennte Buchhaltungsexporte und zerbrechliche Temporärdateien zu verstreuen, verankert diese Arbeitsmappe jeden kritischen kaufmännischen Kontrollpunkt an einem Ort:
 
-| Häufige finanzielle Risiken im Bau | Traditionelle Tabellen (Das Problem) | Einzelprojekt-Steuerungsvorlage (Die Lösung) |
-| --- | --- | --- |
-| **Spätes Entdecken von Budgetüberschreitungen** | Kostenberichte und Verbindlichkeiten werden in Silos geprüft; Überschreitungen sind erst sichtbar, *nachdem* Bestellungen ausgelöst wurden. | Budgetzuordnungen, zugesagte Subunternehmerkosten und Restsalden werden in einem einheitlichen WIP-Dashboard analysiert, bevor neue Arbeiten freigegeben werden. |
-| **Streit um Fortschrittsforderungen (AIA)** | Vertragswerte, Schedule of Values (SOV) und Einbehalte liegen in verschiedenen Registerkarten, was zu doppelten oder falschen Abrechnungen führt. | Fortschrittsforderungen werden automatisch aus einem relationalen Datensatz generiert, in dem Basisvertrag, genehmigte VOs und Einbehalte mathematisch verriegelt zusammenhängen. |
-| **Plötzliche Liquiditätsengpässe** | Umsatzprognose und Zahlungsverpflichtungen gegenüber Lieferanten sind getrennt, was eingehende Cashflow-Krisen verschleiert. | Kundenzahlungseingänge und Subunternehmer-Verbindlichkeiten werden in einer rollierenden Cashflow-Prognose zusammengeführt, die einen klaren Horizont an Working Capital bietet. |
-| **Missmanagement von Änderungsaufträgen (VO)** | Genehmigte Baustellenänderungen werden schlecht verfolgt, wodurch das ursprüngliche Budget von aktuellen finanziellen Realitäten getrennt wird. | Ursprüngliche Vertragswerte, VO-Auswirkungen und überarbeitete Budgets sind strikt verknüpft, sodass Ihre Gewinnmargen immer auf dem neuesten genehmigten Leistungsumfang basieren. |
-| **Reporting-Overhead** | PMs verschwenden jeden Monat Stunden damit, ERP-Daten zu exportieren, um temporäre Berichte für die Geschäftsführung neu zu bauen. | Neue Transaktionen werden einfach an Eingabetabellen angehängt; alle Executive-KPI-Diagramme und Cashflow-Dashboards aktualisieren sich automatisch. |
-
----
-
-## Warum ich dies gebaut habe: Klarheit zurückgewinnen, wenn man mehrere Hüte trägt
-
-Wenn Sie in einem kleinen bis mittelgroßen Bauunternehmen arbeiten, wissen Sie, dass „Projektmanager" selten nur die Verwaltung eines Projekts bedeutet. 
-
-In Spitzenzeiten tragen Sie wahrscheinlich mehrere Hüte – Sie jonglieren aktive Baustellenabläufe, beantworten Serviceanrufe, beantworten dringende RFIs und helfen dem Team vielleicht sogar bei der Zusammenstellung kommender Angebote. Die Umgebung nimmt Ihnen alles ab, was Sie haben. 
-
-Ich habe dieses Toolkit gebaut, weil ich den exakten Bruchpunkt dieser „Burnout-Saison" erlebt habe. Wenn Sie so dünn gespannt sind, wird es physisch unmöglich, den finanziellen und operativen Status jedes aktiven Projekts im Kopf zu behalten. Die tägliche Angst und Übelkeit kommen nicht von der harten Arbeit selbst; sie kommen vom **Mangel an Transparenz**. Wenn ein Kunde oder die Geschäftsführung nach einer Budgetabweichung, einem Einbehaltssaldo oder einem schwebenden Änderungsauftrag fragt, sollten Sie nicht Stunden damit verbringen müssen, verstreute Buchhaltungsexporte und temporäre Tabellen zu durchforsten, um die Antwort zu finden. Sie fürchten, dass Ihnen, weil Sie sich so schnell bewegen, ein massives finanzielles Detail durch die Finger schlüpft.
-
-Ich habe erkannt, dass ich das reine Arbeitsvolumen nicht reduzieren konnte, aber ich konnte die kognitive Überlastung eliminieren. 
-
-Ich habe diese Arbeitsmappe als definitive einzige Quelle der Wahrheit konzipiert, wenn Sie keine Zeit zu verlieren haben. Sie managt nicht für Sie, aber sie organisiert das Chaos. Sie öffnen das Dashboard und wissen sofort die exakte finanzielle Gesundheit, den Abrechnungsfortschritt und den Cashflow-Status des Projekts. Sie gibt Ihnen die sofortige Klarheit, die Sie brauchen, um mehrere Hüte zu tragen, ohne den Ball fallen zu lassen.
+- **Pain Point: Change Orders verzerren heimlich Ihre Vertragsbasis.**
+  - **Lösung — Kontrolle von Vertragswert & Variation Order (VO):** Verfolgen Sie Ihre ursprüngliche Vertragssumme, schwebende vs. genehmigte Change Orders und den aktuellen überarbeiteten Vertragswert in einer prüffähigen Ansicht—so werden Fortschrittsprozente und Margen immer an der Realität gemessen.
+- **Pain Point: Kostenüberschreitungen werden erst *nach* unterzeichneten Bestellungen entdeckt.**
+  - **Lösung — Cost-Code-Job-Costing & Budgetabweichungsanalyse:** Vergleichen Sie zugewiesene Budgets mit committeten und tatsächlichen Kosten nach standardisierten Cost Codes (CSI MasterFormat-kompatibel) und erkennen Sie Überschreitungen, solange Sie noch Handlungsspielraum haben.
+- **Pain Point: Unübersichtliche Progress Claims, falsch berechnetes Retainage und verzögerte Kundenzahlungen.**
+  - **Lösung — Progress Billing (SOV) & Retainage-Management:** Berechnen Sie automatisch fertiggestellte Leistungen, frühere Claims, aktuell zertifizierte Beträge, akkumuliertes Retainage (Holdback) und einziehbare Forderungen—und sparen Sie Stunden Stress beim Monatsabschluss.
+- **Pain Point: „Auf dem Papier profitable" Projekte gehen plötzlich das Geld aus.**
+  - **Lösung — Rollierende Bau-Cashflow-Prognose:** Stellen Sie erwarteten Kundeneingängen geplante Subunternehmerzahlungen gegenüber und sehen Sie Ihren echten Liquiditätshorizont Wochen im Voraus—bevor Liquiditätsengpässe den Baufortschritt blockieren.
 
 ---
 
-## Über
+## Schnellstart-Workflow: Ihr Projekt-Kommandozentrum in 4 einfachen Schritten
 
-Ich baue schlanke Excel- und browserbasierte Entscheidungsunterstützungswerkzeuge für Situationen, in denen es einfach zu viele bewegliche Teile gibt, um sie im Kopf zu behalten.
+Sie müssen keine komplexen Formeln schreiben und keine Zellen jede Woche nach unten ziehen. Jede Tabelle, jeder Lookup und jedes Executive-Diagramm ist vorverkabelt und aktualisiert sich automatisch:
 
-Anstatt Enterprise-Software zu ersetzen, organisieren diese Arbeitsmappen die Informationen, die benötigt werden, um die **nächste operative Entscheidung** mit Zuversicht zu treffen.
+### Schritt 1: Setzen Sie Ihre Single Source of Truth (`Project Setup`)
+Geben Sie Ihren ursprünglichen Vertragswert, den Standard-Retainage-Prozentsatz, Steuersätze und wichtige Projektdaten genau einmal ein. Jede nachgelagerte Abrechnungs-, Einbehalt- und Abweichungsregisterkarte aktualisiert sich automatisch aus diesen Einstellungen.
 
-**Bauprojektsteuerungs- & Cashflow-Excel-Toolkit** wendet diese Philosophie auf das Finanzmanagement von Bauprojekten an, indem Budgetierung, Abrechnung, Cashflow, Unternehmerzahlungen und kaufmännisches Reporting in einem wiederverwendbaren Rahmen rund um **ein Projekt** zusammengeführt werden.
+### Schritt 2: Fügen Sie Cost Codes, Vendors & SOV-Basislinie ein (`Master Data`)
+Laden Sie Ihre CSI-Cost-Codes, Ihre Subunternehmerliste und das Schedule of Values aus Ihrem Angebotskalkulations- oder ERP-Export. Strukturierte Excel-Tabellen erweitern sich automatisch, ohne dass eine einzige Formel bricht.
+
+### Schritt 3: Erfassen Sie wöchentliche Kosten, Change Orders & Progress Billings (`Operational Inputs`)
+Halten Sie Subunternehmerrechnungen, genehmigte Variationen, Progress Claims und Kundeneingänge in sauberen, dedizierten Eingabetabellen fest—vollständig getrennt von den Berichtsregisterkarten, damit Sie nie versehentlich eine Berechnung überschreiben.
+
+### Schritt 4: Lesen Sie Ihre Zahlen & treffen Sie sichere Entscheidungen (`Executive Dashboard`)
+Wechseln Sie zum **Executive Dashboard**, um überarbeiteten Vertragswert, Budgetabweichung, einbehaltenes Retainage, überfällige Forderungen und den prognostizierten Abschluss-Cash auf einen Blick zu sehen. **[Testen Sie das interaktive Dashboard jetzt in Ihrem Browser](https://hyvoid.github.io/construction-project-management-excel/)**.
+
+### Bonus — Bauen Sie mit der Zeit Ihre eigene historische Kostendatenbank auf
+Speichern Sie bei Projektabschluss eine saubere Archivkopie. Ihre standardisierten Cost-Code-Zuordnungen, Vendor-Zahlungshistorien und Baseline-Cashflow-Kurven verwandeln jedes abgeschlossene Bauvorhaben in eine wiederverwendbare **Benchmarking-Datenbank** für die Kalkulation und Steuerung Ihres nächsten Auftrags.
+
+---
+
+## Kostenlose Browser-Demo vs. vollständige lokale Excel-Arbeitsmappe
+
+| Funktion | Kostenlose Online-Web-Demo | **Vollständige lokale Excel-Arbeitsmappe (Einmalkauf)** |
+|---|---|---|
+| **Am besten geeignet für** | Sofortige 2-Minuten-Vorschau von Dashboard & Workflow | Steuerung echter, laufender Bauprojekte vom Start bis zum Abschluss |
+| **Vollständiges Multi-Tab-Steuerungssystem** | Nur interaktive Demo-Ansicht | Vollständige strukturierte Excel-Arbeitsmappe (Setup, Master Data, Budget, VOs, SOV Billing, Retainage, AP/AR & Cashflow) |
+| **Speichern & wiederverwenden für unbegrenzt viele Projekte** | Setzt sich im Browser zurück | **Lokal speichern & für immer wiederverwenden** für unbegrenzt viele Bauvorhaben—keine Sitzplatzlimits |
+| **Datenschutz & Sicherheit** | Browser-Sitzung | **100 % offline `.xlsx`-Datei**—Vertragswerte, Margen & Vendor-Konditionen verlassen Ihr Gerät nie |
+| **Kostenmodell** | Kostenlose Vorschau | **Kleine Einmalzahlung** vs. $3,000–$10,000+/Jahr für Bau-ERP-Abonnements |
+| **Risikofreier Kauf** | — | Absichert durch eine **30-tägige Geld-zurück-Garantie ohne Rückfragen** |
+
+> **Bereit, das Tabellenchaos durch ein einziges zuverlässiges Projekt-Kommandozentrum zu ersetzen?**
+> 👉 [**Holen Sie sich die komplette Excel-Arbeitsmappe für Bauprojektmanagement & Cashflow (Einmalkauf · 30 Tage Garantie)**](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+
+---
+
+## Für wen diese Excel-Arbeitsmappe zur Bauprojektsteuerung gebaut ist
+
+Gebaut speziell für Praxis-Baufachleute, die **finanzielle Transparenz auf Konzernniveau ohne die Reibung von Enterprise-Software** wollen:
+
+- **Generalunternehmer & Individualhaus-Bauer:** Stoppen Sie Budgetblutungen und schützen Sie Ihr Working Capital bei Wohn-, Sanierungs- und Gewerbebauten mit einer zuverlässigen *Excel-Vorlage für Contractor Job Costing & Cashflow*.
+- **Bauprojektmanager (PMs) & Baustellenleitungen:** Halten Sie Budgets, Schedule of Values, Change Orders und Subunternehmerzahlungen an einem Ort synchron—so gehen Sie in jedes Kunden- und Geschäftsführungsreview vorbereitet.
+- **Quantity Surveyors (QS) & Commercial Manager:** Zertifizieren Sie Subunternehmer-Claims, verfolgen Sie Retainage-Salden präzise und sehen Sie sofort die kaufmännische Wirkung genehmigter Change Orders.
+- **Owner's Representatives & Kunden-PMs:** Pflegen Sie ein unabhängiges *Projektsteuerungs-Audit-Sheet*, um Progress Claims des Generalunternehmers, VO-Summen und Einbehalte vor jeder Zahlungsfreigabe gegenzuprüfen.
+- **Spezialgewerke & Subunternehmer:** Verfolgen Sie Progress Billings, geschuldetes Retainage und eingehende Forderungen über große Primärverträge hinweg, ohne den Überblick über überfällige Rechnungen zu verlieren.
+
+---
+
+## Häufige finanzielle Risiken im Bau überwinden
+
+| Häufiges finanzielles Risiko im Bau | Fragmentierte Tabellen (Das Problem) | **Diese Einzelprojekt-Steuerungsarbeitsmappe (Die Lösung)** |
+|---|---|---|
+| **Späte Entdeckung von Budgetüberschreitungen** | Kostenberichte und Verbindlichkeiten liegen in Silos; Überschreitungen tauchen erst *nach* ausgestellten POs auf. | Budgetansätze, committete Kosten und Restsalden liegen in einer lebendigen Ansicht, *bevor* Sie neue Arbeiten unterzeichnen. |
+| **Streitigkeiten über Progress Claims (SOV/AIA) & Retainage** | Vertragswerte, SOV-Positionen und Einbehalte liegen in getrennten Registerkarten und verursachen Abrechnungsfehler und Zahlungsverzögerungen. | Basisvertrag, genehmigte VOs, zertifizierte Abrechnungen und Retainage sind mathematisch verzahnt. |
+| **Plötzliche Liquiditäts- und Cash-Krisen** | Kundenforderungen und Subunternehmer-Zahlungspläne sind getrennt und verbergen Cash-Lücken. | Erwartete Eingänge und geplante Zahlungen verschmelzen zu einer rollierenden Cashflow-Prognose mit klarem Liquiditätshorizont. |
+| **Change-Order-(VO)-Drift** | Genehmigte Variationen werden nicht an die Basislinie zurückgebunden und verzerren %-Fertigstellung und Restbudget. | Originalvertrag, genehmigte VOs und überarbeitete Budgets bleiben jederzeit strikt verknüpft. |
+| **Stunden, die mit dem Neuaufbau von Monatsberichten vergeudet werden** | PMs verbringen Abende mit Datenexporten und kaputten Formeln vor Executive-Meetings. | Hängen Sie neue Transaktionen an strukturierte Eingabetabellen an; jede KPI-Karte und jedes Cash-Diagramm aktualisiert sich automatisch. |
+
+---
+
+## Warum ich das gebaut habe: Klarheit zurückgewinnen, wenn man mehrere Hüte trägt
+
+Wenn Sie in einem kleinen bis mittleren Bauunternehmen arbeiten, wissen Sie: „Projektmanager" bedeutet selten nur, eine einzige ordentliche Checkliste abzuarbeiten.
+
+In der Hochsaison tragen Sie mehrere Hüte—Sie jonglieren mit laufenden Baustellenabläufen, nehmen Anrufe von Subunternehmern entgegen, beantworten dringende RFIs und helfen bei der Zusammenstellung kommender Angebote. Die Umgebung nimmt alles, was Sie haben.
+
+Ich habe dieses Toolkit gebaut, weil ich den exakten Bruchpunkt dieser „Burnout-Saison" selbst erlebt habe. Wenn Sie so dünn gespannt sind, wird es schlicht unmöglich, den Finanzstatus eines laufenden Bauvorhabens im Kopf zu behalten. Der tägliche Stress kommt nicht von der harten Arbeit selbst—er kommt vom **Mangel an Transparenz**. Wenn ein Kunde oder die Geschäftsführung nach einer Budgetabweichung, einem Retainage-Saldo oder einem schwebenden Change Order fragt, sollten Sie nicht Stunden damit verbringen müssen, verstreute Exporte und kaputte Sheets zu durchwühlen—mit der Angst, dass Ihnen ein gewichtiges finanzielles Detail durchgerutscht ist.
+
+Ich konnte das reine Arbeitsvolumen auf der Baustelle nicht reduzieren—also habe ich die kognitive Überlastung eliminiert.
+
+Diese Arbeitsmappe ist als Ihre Single Source of Truth für die Momente konzipiert, in denen Sie null Zeit übrig haben. Öffnen Sie das Dashboard, sehen Sie in 60 Sekunden die exakte finanzielle Gesundheit, den Abrechnungsfortschritt und den Cash-Horizont Ihres Bauvorhabens—und treffen Sie Ihre nächste kaufmännische Entscheidung mit ruhiger Sicherheit.
+
+---
+
+## Über Theseus Workshop — Plug-and-Play-Offline-Excel-Entscheidungs-Toolkits
+
+**Theseus Workshop** baut preisgünstige, lokal gespeicherte Excel-Entscheidungs-Toolkits für praxisnahe Bauunternehmer, Projektmanager, QS-Fachleute und Geschäftsbetreiber, die **kaufmännische Analyseklarheit auf Executive-Niveau ohne Enterprise-Ballast und ohne laufende SaaS-Abonnements** wollen.
+
+- 📥 [**Holen Sie sich diese komplette Excel-Arbeitsmappe für Bauprojektmanagement & Cashflow**](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+- 🎁 [**Kostenlos starten: Monthly Construction CVR & Accruals Excel Template ($0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_pm_readme_crosslink)
+- 🧰 [**Die komplette Theseus-Workshop-Toolkit-Bibliothek erkunden (theseusworkshop.com)**](https://theseusworkshop.com/)
 
 ---
 
 ## Technische Details
 
 <details>
-<summary><strong>Für technische Prüfer, Excel-Praktiker und Mitwirkende</strong></summary>
+<summary><strong>Für technische Reviewer, Excel-Praktiker und Mitwirkende (Architektur, 3 Decision Traps, Beispielszenario, Formula Reference & Validierungsregeln)</strong></summary>
 
-## Architektur der Arbeitsmappe
+### Arbeitsmappen-Architektur
 
-Die Arbeitsmappe folgt einer strukturierten **Eingabe → Validierung → Berechnung → Reporting**-Architektur, damit Projektinformationen nur einmal eingegeben und in allen nachgelagerten Berechnungen wiederverwendet werden.
+Die Arbeitsmappe folgt einer strukturierten **Input → Validierung → Berechnung → Berichterstattung**-Architektur, sodass Projektinformationen nur einmal erfasst und in allen nachgelagerten Berechnungen wiederverwendet werden.
 
-| Ebene                 | Primäre Tabellenblätter                                                                    | Zweck                                                                                                                                    |
-| --------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Projektkonfiguration | Projekt-Setup, Parameter                                                                    | Vertragsinformationen, Steuereinstellungen, Einbehaltsprozentsatz, Projekttermine, Reporting-Annahmen und Referenzdaten definieren.             |
-| Stammdaten           | Cost Codes, Anbieter, Kunden, Ressourcenlisten                                              | Zentrale Nachschlagetabellen, die von allen operativen Tabellenblättern geteilt werden.                                                    |
-| Operative Eingaben   | Budget, Änderungsaufträge, Fortschrittsabrechnung, Unternehmerzahlungen, Forderungen, Kassentransaktionen | Tagesaktuelle Projektaktivitäten aufzeichnen, ohne Referenzinformationen zu duplizieren.                                        |
-| Berechnungs-Engine   | Zwischenberechnungsblätter und strukturierte Excel-Tabellen                                 | Finanzdaten konsolidieren, überarbeitete Vertragswerte, Abrechnungssalden, Einbehalte, Zahlungsstatus und Cashflow-Prognosen berechnen.      |
-| Executive Reporting  | Dashboard, KPI-Übersicht, Cashflow-Berichte, Rechnungsausgaben                               | Finanzstatus auf Projektebene für operative Entscheidungsfindung und Stakeholder-Reporting darstellen.                                      |
+| Ebene | Primäre Worksheets | Zweck |
+| --------------------- | --- | --- |
+| Projektkonfiguration | Project Setup, Parameters | Vertragsinformationen, Steuereinstellungen, Retainage-Prozentsatz, Projektdaten, Reporting-Annahmen und Referenzdaten definieren. |
+| Master Data | Cost Codes, Vendors, Clients, Resource Lists | Zentrale Lookup-Tabellen, die von allen operativen Worksheets gemeinsam genutzt werden. |
+| Operational Inputs | Budget, Change Orders, Progress Billing, Contractor Payments, Receivables, Cash Transactions | Tägliche Projektaktivitäten erfassen, ohne Referenzinformationen zu duplizieren. |
+| Calculation Engine | Zwischenberechnungs-Sheets und strukturierte Excel-Tabellen | Finanzdaten konsolidieren; überarbeitete Vertragswerte, Abrechnungssalden, Retainage, Zahlungsstatus und Cashflow-Prognosen berechnen. |
+| Executive Reporting | Dashboard, KPI Summary, Cash Flow Reports, Invoice Outputs | Finanzstatus auf Projektebene für operative Entscheidungen und Stakeholder-Berichte aufbereiten. |
 
-### Informationsfluss
+#### Information Flow
 
 ```text
 Project Setup
@@ -176,100 +204,80 @@ Cash Flow Forecast
 Executive Dashboard
 ```
 
-Jeder nachgelagerte Bericht hängt von standardisierten Eingabetabellen ab statt von duplizierten Berechnungen. Das minimiert Abstimmungsarbeit und ermöglicht es, dass Projektinformationen über Finanzberichte hinweg konsistent bleiben.
+Jeder nachgelagerte Bericht basiert auf standardisierten Eingabetabellen statt auf duplizierten Berechnungen. Das minimiert den Abstimmungsaufwand und hält Projektinformationen über alle Finanzberichte hinweg konsistent.
 
 ---
 
-## Drei Entscheidungsfallen, die selbst erfahrene Projektmanager fangen
+### Drei Decision Traps, die selbst erfahrene Projektmanager erwischen
 
-### Falle 1 — Den ursprünglichen Vertragswert als aktuelle finanzielle Bezugsgrundlage behandeln
+#### Trap 1 — Den ursprünglichen Vertragswert als aktuelle finanzielle Basislinie behandeln
 
-Viele Projektprüfungen beginnen mit dem unterzeichneten Vertragsbetrag.
+Viele Projektreviews beginnen mit der unterzeichneten Vertragssumme. Die Entscheidung erscheint vernünftig, weil sie die ursprüngliche kaufmännische Vereinbarung des Projekts darstellt. Doch Bauprojekte enden selten im ursprünglichen Umfang—genehmigte Change Orders erhöhen oder senken den Vertragswert während der gesamten Ausführung.
 
-Die Entscheidung erscheint vernünftig, weil sie die ursprüngliche kaufmännische Vereinbarung des Projekts darstellt.
+Wer den Originalvertrag als Berichtsbasislinie verwendet, lässt Fortschrittsprozente, verbleibenden Vertragswert, prognostizierten Umsatz und Profitabilität zunehmend ungenau werden.
 
-Jedoch enden Bauprojekte selten innerhalb ihres ursprünglichen Leistungsumfangs.
+| Falscher Ansatz | Richtiger Ansatz |
+| --- | --- |
+| Ist-Ausgaben mit dem ursprünglichen Vertragswert vergleichen. | Ist-Ausgaben mit dem überarbeiteten Vertragswert nach genehmigten Change Orders vergleichen. |
 
-Genehmigte Änderungsaufträge erhöhen oder verringern den Vertragswert während der Ausführung.
-
-Die Nutzung des ursprünglichen Vertrags als Reporting-Bezugsgrundlage führt dazu, dass Fortschrittsprozentsätze, verbleibender Vertragswert, prognostizierter Umsatz und Rentabilität zunehmend ungenau werden.
-
-| Falscher Ansatz                                           | Korrekter Ansatz                                                                         |
-| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| Tatsächliche Ausgaben mit dem ursprünglichen Vertragswert vergleichen. | Tatsächliche Ausgaben mit dem überarbeiteten Vertragswert nach genehmigten Änderungsaufträgen vergleichen. |
-
-**Entscheidungsergebnis**
-
-Anstatt zu glauben, dass ein Projekt sich seiner finanziellen Grenze nähert, bewerten Manager die Performance gegenüber der aktuellen vertraglichen Position, was zuverlässigere kaufmännische Entscheidungen ermöglicht.
+**Entscheidungsfolge:** Statt zu glauben, das Projekt nähere sich seiner finanziellen Grenze, bewerten Manager die Performance gegenüber der aktuellen vertraglichen Position—und treffen dadurch verlässlichere kaufmännische Entscheidungen.
 
 <details>
-<summary>Formellogik</summary>
+<summary>Formula Logic</summary>
 
 Typische Berechnungen umfassen:
 
-* Aktueller Vertragswert = Ursprünglicher Vertrag + Genehmigte Änderungen
-* Verbleibender Vertragswert = Aktueller Vertrag − Bescheinigte Fortschrittsabrechnung
-* Budgetabweichung = Überarbeitetes Budget − Tatsächliche Kosten
+- Current Contract Value = Originalvertrag + genehmigte Variationen
+- Remaining Contract Value = aktueller Vertrag − zertifiziertes Progress Billing
+- Budget Variance = überarbeitetes Budget − Ist-Kosten
 
 </details>
 
 ---
 
-### Falle 2 — Fortschrittsabrechnung ohne Berücksichtigung des Einbehalts prüfen
+#### Trap 2 — Progress Billing ohne Berücksichtigung von Retainage prüfen
 
-Fortschrittsbescheinigungen erscheinen oft als einziehbarer Umsatz.
+Progress-Zertifikate erscheinen oft als einziehbarer Umsatz. In der Praxis bedeutet Retainage (Holdback), dass ein Teil jedes zertifizierten Zahlungseingangs bis zum Erfüllen vertraglicher Meilensteine nicht verfügbar bleibt. Wer Retainage ignoriert, überzeichnet die erwarteten Cashzuflüsse und kann unnötige finanzielle Verpflichtungen eingehen.
 
-In der Praxis bedeutet Einbehalt (Holdback), dass ein Teil jeder bescheinigten Zahlung unverfügbar bleibt, bis vertragliche Meilensteine erfüllt sind.
+| Falscher Ansatz | Richtiger Ansatz |
+| --- | --- |
+| Cashzuflüsse auf Basis zertifizierter Abrechnungswerte prognostizieren. | Zertifizierten Umsatz von einbehaltenen Beträgen trennen und nur einziehbares Cash prognostizieren. |
 
-Einbehalte zu ignorieren überhöht erwartete Zahlungseingänge und kann zu unnötigen finanziellen Zusagen führen.
-
-| Falscher Ansatz                                     | Korrekter Ansatz                                                                     |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| Kasseneingänge mit bescheinigten Abrechnungswerten prognostizieren. | Bescheinigten Umsatz von einbehaltenen Beträgen trennen und nur einziehbares Bargeld prognostizieren. |
-
-**Entscheidungsergebnis**
-
-Die Cash-Planung reflektiert erwarteten Zahlungszeitpunkt statt nur Buchumsatz.
+**Entscheidungsfolge:** Die Cashplanung spiegelt den erwarteten Zahlungszeitpunkt wider statt nur den bilanziellen Umsatz.
 
 <details>
-<summary>Formellogik</summary>
+<summary>Formula Logic</summary>
 
 Typische Berechnungen umfassen:
 
-* Einbehalt = Bescheinigter Betrag × Einbehalts-%
-* Erwarteter Eingang = Bescheinigter Betrag − Einbehalt − Frühere Einziehungen
-* Offene Forderung = Gesamt bescheinigt − Erhaltener Zahlungseingang
+- Retainage = zertifizierter Betrag × Holdback-Prozentsatz
+- Erwarteter Zahlungseingang = zertifizierter Betrag − Retainage − bereits eingezogene Beträge
+- Offene Forderung = zertifizierte Gesamtsumme − eingegangene Zahlungen
 
 </details>
 
 ---
 
-### Falle 3 — Cashflow bewerten, nachdem Kosten bereits zugesagt wurden
+#### Trap 3 — Cashflow erst bewerten, nachdem Kosten bereits committet sind
 
-Viele Projektteams prüfen Cash erst, nachdem Lieferantenrechnungen eintreffen.
+Viele Projektteams prüfen das Cash erst, wenn die Lieferantenrechnungen eingehen. Bis dahin sind die Beschaffungsentscheidungen längst gefallen. Wirksame Projektsteuerung bewertet künftige Verpflichtungen, bevor weitere Verträge oder Bestellungen freigegeben werden.
 
-Bis dann sind Beschaffungsentscheidungen bereits getroffen.
+| Falscher Ansatz | Richtiger Ansatz |
+| --- | --- |
+| Bankkonto-Saldo nach bereits getätigten Ausgaben prüfen. | Künftige Zuflüsse, geplante Zahlungen und den prognostizierten Cash-Saldo prognostizieren, bevor neue Verpflichtungen genehmigt werden. |
 
-Effektive Projektsteuerung bewertet künftige Zusagen, bevor zusätzliche Verträge oder Bestellungen freigegeben werden.
-
-| Falscher Ansatz                            | Korrekter Ansatz                                                                                          |
-| --------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Banksaldo prüfen, nachdem Ausgaben angefallen sind. | Künftige Eingänge, geplante Zahlungen und prognostizierten Kassensaldo vorsehen, bevor neue Zusagen freigegeben werden. |
-
-**Entscheidungsergebnis**
-
-Finanzentscheidungen werden proaktiv statt reaktiv, was die Wahrscheinlichkeit vermeidbaren Liquiditätsdrucks reduziert.
+**Entscheidungsfolge:** Finanzielle Entscheidungen werden proaktiv statt reaktiv—das verringert die Wahrscheinlichkeit vermeidbaren Liquiditätsdrucks.
 
 <details>
-<summary>Formellogik</summary>
+<summary>Formula Logic</summary>
 
 Typische Berechnungen umfassen:
 
-* Eröffnungskasse
-* * Erwartete Kundeneingänge
-* − Geplante Unternehmerzahlungen
-* − Prognostizierte Projektkosten
-* = Prognostizierter Schlusssaldo
+- Anfangs-Cash
+- `+` erwartete Kundeneingänge
+- `−` geplante Contractor-Zahlungen
+- `−` prognostizierte Projektkosten
+- `=` prognostiziertes Abschluss-Cash
 
 </details>
 
@@ -277,105 +285,99 @@ Typische Berechnungen umfassen:
 
 ### Beispielszenario
 
-Ein Generalunternehmer liefert ein **Renovierungsprojekt eines Gewerbeobjekts im Wert von 4,8 Millionen US-Dollar** über einen 14-monatigen Zeitplan.
-
-Zu Beginn von Monat 7 muss der Projektmanager entscheiden, ob zusätzliche Subunternehmerarbeiten freigegeben werden können, ohne unnötigen finanziellen Druck zu erzeugen.
+Ein Generalunternehmer realisiert ein **kommerzielles Sanierungsprojekt über 4,8 Millionen USD** in einem 14-monatigen Zeitplan. Zu Beginn von Monat 7 muss der Projektmanager entscheiden, ob zusätzliche Subunternehmerleistungen freigegeben werden können, ohne unnötigen finanziellen Druck zu erzeugen.
 
 Die neuesten Projektinformationen zeigen:
 
-| Projektposition                                 |      Wert |
-| -------------------------------------------- | ---------: |
-| Ursprünglicher Vertrag                            | $4,800,000 |
-| Genehmigte Änderungsaufträge                       |   $260,000 |
-| Aktueller Vertragswert                       | $5,060,000 |
-| Zugesagtes Budget                             | $3,920,000 |
-| Tatsächlich entstandene Kosten                         | $3,610,000 |
-| Bescheinigte Fortschrittsabrechnung                   | $3,480,000 |
-| Einbehalt (10%)                              |   $348,000 |
-| Erhaltener Kundenzahlungseingang                         | $2,940,000 |
-| Geplante Unternehmerzahlungen (nächste 30 Tage) |   $590,000 |
-| Aktuell für das Projekt verfügbares Bargeld           |   $760,000 |
+| Projektobjekt | Wert |
+| --- | ---: |
+| Originalvertrag | $4,800,000 |
+| Genehmigte Change Orders | $260,000 |
+| Aktueller Vertragswert | $5,060,000 |
+| Committetes Budget | $3,920,000 |
+| Angefallene Ist-Kosten | $3,610,000 |
+| Zertifiziertes Progress Billing | $3,480,000 |
+| Retainage (10 %) | $348,000 |
+| Eingegangene Kunden-Zahlungen | $2,940,000 |
+| Geplante Contractor-Zahlungen (nächste 30 Tage) | $590,000 |
+| Aktuell verfügbares Projekt-Cash | $760,000 |
 
-Anstatt jeden Bericht unabhängig zu prüfen, kombiniert die Arbeitsmappe Vertragsanpassungen, Budgetperformance, bescheinigte Abrechnung, Forderungen, Einbehalte, Unternehmerzahlungen und prognostizierte Bargeldbewegung in einem Entscheidungs-Arbeitsbereich.
+Statt jeden Bericht isoliert zu prüfen, kombiniert die Arbeitsmappe Vertragsanpassungen, Budgetperformance, zertifizierte Abrechnungen, Forderungen, Retainage, Contractor-Zahlungen und die prognostizierte Cashbewegung in einem einzigen Entscheidungsarbeitsbereich.
 
 Die Analyse hebt mehrere wichtige Erkenntnisse hervor:
 
-* Obwohl das Projekt innerhalb des überarbeiteten Vertragswerts bleibt, sind etwa **71 % des aktualisierten Vertrags bereits bescheinigt**, was darauf hinweist, dass der verbleibende Vertragswert sorgfältig überwacht werden sollte.
-* Einbehalte stellen einen signifikanten Teil des bescheinigten Umsatzes dar, der noch nicht eingezogen werden kann, was bedeutet, dass Buchumsatz unmittelbar verfügbares Bargeld übersteigt.
-* Geplante Subunternehmerzahlungen im nächsten Monat werden die verfügbare Liquidität vorübergehend reduzieren, es sei denn, die nächste bescheinigte Zahlung wird planmäßig eingezogen.
-* Die Budgetauslastung bleibt gesund, aber die Freigabe zusätzlicher diskretionärer Arbeiten vor dem Eintreffen erwarteter Eingänge würde das kurzfristige Cash-Exposure unnötig erhöhen.
+- Auch wenn das Projekt innerhalb des überarbeiteten Vertragswerts bleibt, sind bereits rund **71 % des aktualisierten Vertrags zertifiziert**—der verbleibende Vertragswert sollte also sorgfältig beobachtet werden.
+- Retainage stellt einen erheblichen Teil des zertifizierten Umsatzes dar, der noch nicht eingezogen werden kann; der bilanzielle Umsatz übersteigt also das sofort verfügbare Cash.
+- Die geplanten Subunternehmerzahlungen des nächsten Monats werden die verfügbare Liquidität vorübergehend senken, sofern die nächste zertifizierte Zahlung nicht planmäßig eingeht.
+- Die Budgetauslastung bleibt gesund, aber die Freigabe zusätzlicher optionaler Leistungen vor dem Eingang der erwarteten Zahlungen würde die kurzfristige Cash-Exposition unnötig erhöhen.
 
-Anstatt zu reagieren, nachdem Rechnungen fällig werden, kann der Projektmanager mehrere unkritische Zusagen verschieben, bis die nächste Kundenzahlung eingeht.
-
-Die Empfehlung lautet daher, **geplante Bauaktivitäten fortzusetzen und optionale Ausgaben zu verschieben, bis der prognostizierte Cashflow einen positiven Betriebspuffer zurückgibt**.
-
-Diese Art des projektweiten finanziellen Denkens ist genau das, was die Arbeitsmappe während des gesamten Baulebenszyklus unterstützen soll.
+Statt zu reagieren, nachdem die Rechnungen fällig sind, kann der Projektmanager mehrere unkritische Verpflichtungen verschieben, bis die nächste Kundenzahlung eingegangen ist. Die Empfehlung lautet daher, **die geplanten Bauarbeiten fortzuführen und optionale Ausgaben zurückzustellen, bis die prognostizierte Cashflow wieder in einen positiven operativen Puffer zurückkehrt**.
 
 ---
 
-### Formelreferenz
+### Formula Reference
 
 <details>
-<summary><strong>Projekt-Setup & Vertragsmanagement</strong></summary>
+<summary><strong>Project Setup & Contract Management</strong></summary>
 
-| Formel / Logik       | Zweck                                                                         |
-| --------------------- | ------------------------------------------------------------------------------- |
-| Strukturierte Verweise | Dynamische Projekttabellen ohne manuelle Bereichsaktualisierungen pflegen.                   |
-| XLOOKUP               | Kunden-, Anbieter-, Cost-Code- und Vertragsinformationen über Tabellenblätter abrufen. |
-| IF / IFERROR          | Unvollständige Projektdatensätze behandeln und Reporting-Fehler verhindern.                 |
-| SUMIFS                | Werte nach Projektkategorie, Abrechnungsperiode, Anbieter oder Cost Code aggregieren.     |
-| Dynamische benannte Bereiche  | Skalierbares Reporting unterstützen, wenn Projektdaten wachsen.                               |
+| Formula / Logic | Zweck |
+| --- | --- |
+| Structured References | Dynamische Projekttabellen ohne manuelle Bereichsaktualisierungen pflegen. |
+| XLOOKUP | Kunden-, Vendor-, Cost-Code- und Vertragsinformationen über Worksheets hinweg abrufen. |
+| IF / IFERROR | Unvollständige Projektdatensätze abfangen und Berichtsfehler verhindern. |
+| SUMIFS | Werte nach Projektkategorie, Abrechnungsperiode, Vendor oder Cost Code aggregieren. |
+| Dynamic Named Ranges | Skalierbares Reporting unterstützen, wenn die Projektdaten wachsen. |
 
 </details>
 
 <details>
-<summary><strong>Budget & Kostenkontrolle</strong></summary>
+<summary><strong>Budget & Cost Control</strong></summary>
 
-| Formel / Logik        | Zweck                                                  |
-| ---------------------- | -------------------------------------------------------- |
-| Budgetabweichung        | Genehmigtes Budget mit tatsächlichen Projektkosten vergleichen.    |
-| Verbleibendes Budget       | Verfügbare Finanzierung nach Kostenkategorie berechnen.            |
-| Cost-Code-Aggregation  | Transaktionen nach standardisierter Kostenstruktur konsolidieren. |
-| Prozent abgeschlossen    | Projektfortschritt relativ zu Vertrag oder Budget messen. |
-| Bedingte Formatierung | Überschreitungen und Budgetausnahmen automatisch hervorheben.  |
-
-</details>
-
-<details>
-<summary><strong>Fortschrittsabrechnung & Einbehalte</strong></summary>
-
-| Formel / Logik        | Zweck                                               |
-| ---------------------- | ----------------------------------------------------- |
-| Aktueller Vertragswert | Ursprünglicher Vertrag + Genehmigte Änderungsaufträge            |
-| Aktuelle Abrechnung        | Frühere Abrechnungen + Aktueller bescheinigter Betrag          |
-| Einbehaltsberechnung  | Bescheinigter Betrag × Einbehaltsprozentsatz               |
-| Offene Forderung | Bescheinigter Betrag − Erhaltener Zahlungseingang                      |
-| Rechnungssaldo        | Verbleibender einziehbarer Betrag nach früheren Eingängen. |
+| Formula / Logic | Zweck |
+| --- | --- |
+| Budget Variance | Genehmigtes Budget mit tatsächlichen Projektkosten vergleichen. |
+| Remaining Budget | Verfügbare Mittel je Kostenkategorie berechnen. |
+| Cost Code Aggregation | Transaktionen nach standardisierter Kostenstruktur konsolidieren. |
+| Percentage Complete | Projektfortschritt relativ zu Vertrag oder Budget messen. |
+| Conditional Formatting | Überschreitungen und Budgetausnahmen automatisch hervorheben. |
 
 </details>
 
 <details>
-<summary><strong>Cashflow & Zahlungsüberwachung</strong></summary>
+<summary><strong>Progress Billing & Retainage</strong></summary>
 
-| Formel / Logik                    | Zweck                                                               |
-| ---------------------------------- | --------------------------------------------------------------------- |
-| Eröffnungskasse + Eingänge − Zahlungen | Monatliche Bargeldbewegung des Projekts.                                        |
-| Rollierende Cash-Prognose              | Künftige Liquidität basierend auf erwarteten Eingängen und Zusagen schätzen. |
-| Verbindlichkeiten-Übersicht           | Geplante Unternehmerzahlungen verfolgen.                                  |
-| Forderungen-Übersicht        | Zahlungsstatus des Kunden überwachen.                                  |
-| Kassensaldo-Prognose | Proaktive kaufmännische Entscheidungsfindung unterstützen.                         |
+| Formula / Logic | Zweck |
+| --- | --- |
+| Current Contract Value | Originalvertrag + genehmigte Change Orders |
+| Current Billing | Frühere Abrechnungen + aktuell zertifizierter Betrag |
+| Retainage Calculation | Zertifizierter Betrag × Retainage-Prozentsatz |
+| Outstanding Receivable | Zertifizierter Betrag − eingegangene Zahlungen |
+| Invoice Balance | Verbleibender einziehbarer Betrag nach früheren Zahlungseingängen. |
+
+</details>
+
+<details>
+<summary><strong>Cash Flow & Payment Monitoring</strong></summary>
+
+| Formula / Logic | Zweck |
+| --- | --- |
+| Opening Cash + Receipts − Payments | Monatliche Cash-Bewegung des Projekts. |
+| Rolling Cash Forecast | Künftige Liquidität auf Basis erwarteter Eingänge und Verpflichtungen schätzen. |
+| Accounts Payable Summary | Geplante Contractor-Zahlungen verfolgen. |
+| Accounts Receivable Summary | Zahlungsstatus der Kunden überwachen. |
+| Cash Balance Projection | Proaktive kaufmännische Entscheidungsfindung unterstützen. |
 
 </details>
 
 <details>
 <summary><strong>Executive Dashboard</strong></summary>
 
-| Formel / Logik | Zweck                                                                                |
-| --------------- | -------------------------------------------------------------------------------------- |
-| Pivot-Tabellen    | Operative Übersichten konsolidieren.                                                     |
-| Dynamische Diagramme  | Projektperformance über die Zeit visualisieren.                                               |
-| KPI-Karten       | Vertragswert, Ausgaben, Abrechnung, Forderungen, Einbehalte und prognostiziertes Bargeld anzeigen. |
-| Datenüberprüfung | Projekteingaben standardisieren und Eingabefehler reduzieren.                                    |
+| Formula / Logic | Zweck |
+| --- | --- |
+| Pivot Tables | Operative Zusammenfassungen konsolidieren. |
+| Dynamic Charts | Projektleistung im Zeitverlauf visualisieren. |
+| KPI Cards | Vertragswert, Ausgaben, Abrechnungen, Forderungen, Retainage und prognostiziertes Cash anzeigen. |
+| Data Validation | Projekteingaben standardisieren und Eingabefehler reduzieren. |
 
 </details>
 
@@ -383,94 +385,75 @@ Diese Art des projektweiten finanziellen Denkens ist genau das, was die Arbeitsm
 
 ### Validierungsregeln
 
-| Feld                | Validierungsregel                                         | Fehlerverhalten                                           |
-| -------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
-| Projekt-ID           | Erforderlich und eindeutig.                                    | Doppelte IDs generieren Validierungswarnungen.              |
-| Cost Code            | Muss in der Master-Cost-Code-Tabelle existieren.               | Ungültige Codes werden aus nachgelagerten Berichten abgelehnt.      |
-| Vertragswert       | Muss größer als null sein.                              | Finanzübersichten bleiben leer, bis korrigiert.        |
-| Budgetbetrag        | Darf nicht negativ sein.                                     | Negative Werte werden zur Prüfung hervorgehoben.              |
-| Status Änderungsauftrag  | Nur genehmigte Änderungen beeinflussen den überarbeiteten Vertragswert. | Schwebende Änderungen werden automatisch ausgeschlossen.           |
-| Abrechnungsbetrag       | Darf verbleibenden Vertragswert nicht ohne Warnung überschreiten. | Überabrechnung wird durch Ausnahmeformatierung hervorgehoben. |
-| Einbehaltsprozentsatz | Muss innerhalb konfigurierter Projektgrenzen bleiben.           | Ungültige Prozentsätze lösen Validierungswarnungen aus.           |
-| Zahlungsdatum         | Muss ein gültiges Projekt-Reporting-Datum sein.                 | Ungültige Daten werden aus Cashflow-Berechnungen ausgeschlossen.  |
-| Anbieter               | Muss in der Anbieter-Stammtabelle existieren.                  | Nachschlagefehler werden durch Datenüberprüfung verhindert.     |
-| Kundeneingang      | Darf offenen Forderungssaldo nicht überschreiten.           | Überzahlungen werden zur Abstimmung markiert.       |
+| Feld | Validierungsregel | Fehlerverhalten |
+| --- | --- | --- |
+| Projekt-ID | Erforderlich und eindeutig. | Doppelte IDs erzeugen Validierungswarnungen. |
+| Cost Code | Muss in der Cost-Code-Mastertabelle existieren. | Ungültige Codes werden aus nachgelagerten Berichten ausgeschlossen. |
+| Vertragswert | Muss größer als null sein. | Finanzauszüge bleiben leer, bis der Wert korrigiert ist. |
+| Budgetbetrag | Darf nicht negativ sein. | Negative Werte werden zur Prüfung hervorgehoben. |
+| Change-Order-Status | Nur genehmigte Variationen beeinflussen den überarbeiteten Vertragswert. | Schwebende Variationen werden automatisch ausgeschlossen. |
+| Abrechnungsbetrag | Darf den verbleibenden Vertragswert nicht ohne Warnung überschreiten. | Überabrechnung wird durch Ausnahmeformatierung hervorgehoben. |
+| Retainage-Prozentsatz | Muss innerhalb der konfigurierten Projektgrenzen bleiben. | Ungültige Prozentsätze lösen Validierungsalarme aus. |
+| Zahlungsdatum | Muss ein gültiges Projekt-Berichtsdatum sein. | Ungültige Datumsangaben werden aus Cashflow-Berechnungen ausgeschlossen. |
+| Vendor | Muss in der Vendor-Mastertabelle existieren. | Lookup-Fehler werden durch Datenvalidierung verhindert. |
+| Client-Eingang | Darf den offenen Forderungssaldo nicht überschreiten. | Überzählige Eingänge werden zur Abstimmung markiert. |
 
 </details>
 
 ---
 
-## Die Geschäftslogik & Methodik
+## Die Business-Logik & Methodik
 
-Baoprojektsteuerung bedeutet nicht nur, Kosten aufzuzeichnen. Es bedeutet zu verstehen, wie Vertragsänderungen, Budgetverbrauch, Fortschrittsabrechnung, Einbehalte, Unternehmerzahlungen und Cashflow über den Lebenszyklus von **einem einzigen Bauprojekt** interagieren.
+Bauprojektsteuerung bedeutet nicht nur, Kosten zu erfassen. Sie bedeutet zu verstehen, wie Vertragsänderungen, Budgetverbrauch, Progress Billing, Retainage, Contractor-Zahlungen und Cashflow über den Lebenszyklus **eines einzelnen Bauprojekts** interagieren.
 
-Ein Projekt kann auf dem Papier profitabel erscheinen und gleichzeitig Liquiditätsengpässe erleben. Es kann innerhalb seines ursprünglichen Budgets bleiben, während genehmigte Änderungsaufträge seine finanzielle Bezugsgrundlage bereits verändert haben. Es kann auch erhebliche fertiggestellte Arbeit berichten, während ein signifikanter Teil des bescheinigten Umsatzes unbezahlt bleibt.
+Ein Projekt kann auf dem Papier profitabel erscheinen und gleichzeitig Cash-Engpässe durchleben. Es kann im ursprünglichen Budget bleiben, während genehmigte Change Orders seine finanzielle Basislinie bereits verändert haben. Es kann auch umfangreiche fertiggestellte Leistungen ausweisen, während ein erheblicher Teil des zertifizierten Umsatzes unbezahlt bleibt.
 
-Dieses Toolkit wendet praktische Methoden der finanziellen Steuerung von Bauprojekten an, um diese getrennten Signale zu verbinden, und hilft Projektmanagern, finanzielle Risiken früher zu identifizieren und besser informierte Entscheidungen zu treffen, bevor zusätzliche Ressourcen zugesagt werden.
+Dieses Toolkit wendet fünf praktische kaufmännische Kontrollprinzipien in einer einzigen Arbeitsmappe an:
 
-### 1. Abstimmung der Vertragsbezugsgrundlage
-
-**Methode:** Abstimmung des Vertragswerts und Verfolgung genehmigter Änderungsaufträge.
-
-**Geschäftsproblem:** Der ursprüngliche Bauvertrag repräsentiert nach genehmigten Änderungen, Leistungsumfangsänderungen und Zusatzarbeiten nicht mehr die aktuelle kaufmännische Position des Projekts.
-
-**Wie es hilft:** Die Trennung des ursprünglichen Vertrags von genehmigten Änderungen etabliert eine aktualisierte vertragliche Bezugsgrundlage. Projektmanager können verbleibenden Vertragswert bewerten, Abrechnungsfortschritt evaluieren und finanzielle Risiken gegenüber der aktuellen Vereinbarung prüfen, statt sich auf veraltete Zahlen zu stützen.
-
-### 2. Budgetabweichungsanalyse
-
-**Methode:** Plan-vs.-Ist-Kostenvergleich und Budgetüberwachung auf Cost-Code-Ebene.
-
-**Geschäftsproblem:** Aggregierte Projektausgaben können Überschreitungen in einzelnen Gewerken, Subunternehmerpaketen oder Materialkategorien verbergen.
-
-**Wie es hilft:** Der Vergleich von Budgetansätzen mit tatsächlichen Kosten und Restsalden macht ungünstige Kostenentwicklungen leichter identifizierbar. Manager können Ausnahmen untersuchen, verbleibende Zusagen prüfen und Korrekturmaßnahmen ergreifen, bevor Kostenüberschreitungen schwerer behebbar werden.
-
-### 3. Fortschrittsabrechnung und Einbehaltskontrolle
-
-**Methode:** Abstimmung fortschrittsbasierter Abrechnung und Einbehaltsverfolgung.
-
-**Geschäftsproblem:** Fertiggestellte Arbeiten, bescheinigte Forderungen, einziehbare Forderungen und tatsächlich erhaltener Zahlungseingang sind unterschiedliche finanzielle Messgrößen. Sie als austauschbar zu behandeln, kann verfügbares Bargeld überhöhen.
-
-**Wie es hilft:** Die Verbindung von Fortschrittsabrechnung mit früheren Forderungen, Einbehalten und Kundeneingängen bietet eine klarere Sicht auf Abrechnungsstatus, offene Forderungen und noch einbehaltene Beträge. Dies unterstützt zuverlässigere Zahlungsnachverfolgung und Abstimmung des Projektumsatzes.
-
-### 4. Projekt-Cashflow-Prognose
-
-**Methode:** Periodenbasierte Cashflow-Projektion mit erwarteten Eingängen und geplanten Zahlungen.
-
-**Geschäftsproblem:** Ein Projekt kann ausreichenden Vertragswert und eine positive erwartete Marge haben und dennoch kurzfristigem Liquiditätsdruck gegenüberstehen, wenn Unternehmerzahlungen fällig werden, bevor Kundeneingänge eintreffen.
-
-**Wie es hilft:** Die Prüfung erwarteter Bargeldeingänge neben geplanten Abflüssen macht potenzielle Zeitlücken sichtbarer. Projektmanager können Zahlungsprioritäten planen, Einziehungsaktivitäten koordinieren und evaluieren, ob diskretionäre Zusagen verschoben werden sollten.
-
-### 5. Integrierte Projektsteuerungs-Entscheidungsprüfung
-
-**Methode:** Funktionsübergreifende finanzielle Abstimmung über Vertrags-, Budget-, Abrechnungs-, Zahlungs- und Cashflow-Informationen.
-
-**Geschäftsproblem:** Jeder einzelne Bericht kann korrekt sein, während die Gesamtprojektentscheidung irreführend bleibt, weil kritische Informationen getrennt geprüft werden.
-
-**Wie es hilft:** Die Zusammenführung dieser Indikatoren in einen einheitlichen Projektsteuerungsrahmen ermöglicht Managern, Kostenperformance, Abrechnungsstatus, offene Verpflichtungen und Liquidität gemeinsam zu evaluieren. Das Ergebnis ist eine kohärentere Grundlage für die Entscheidung, was jetzt Aufmerksamkeit braucht, was fortgesetzt werden kann und welche finanziellen Risiken weitere Untersuchung erfordern.
-
-**Das zentrale Prinzip:** Bauprojektsteuerung sollte den aktuellen Vertrag, die Kostenperformance, die Zahlungsverpflichtungen und die Verfügbarkeit von Bargeld verbinden – und nicht als unabhängige Reporting-Aufgaben behandeln. Dieses Toolkit verwandelt dieses Prinzip in einen wiederverwendbaren analytischen Workflow, der um ein Bauprojekt herum aufgebaut ist, von der Vertragsvergabe bis zum Abschluss.
+1. **Abstimmung der Vertragsbasislinie:** Trennt den ursprünglichen Vertragswert von genehmigten Variationen, sodass Fortschritt und Margen immer an Ihrer aktuellen rechtlichen Basislinie gemessen werden.
+2. **Budgetabweichungsanalyse:** Überwacht Plan-vs.-Ist-Ausgaben auf Cost-Code-Ebene, damit profitable Gewerke niemals Überschreitungen verschleiern, die sich in einzelnen Subunternehmerpaketen verstecken.
+3. **Progress-Billing- & Retainage-Kontrolle:** Trennt fertiggestellte Leistungen, zertifizierte Claims, einbehaltetes Retainage und tatsächlich eingegangene Zahlungen—das eliminiert Abrechnungsfehler und blinde Flecken bei Forderungen.
+4. **Rollierende Projekt-Cashflow-Prognose:** Stellt erwarteten Kundeneingängen geplante Subunternehmerverbindlichkeiten gegenüber und deckt kurzfristige Liquiditätslücken auf, solange Sie noch Zeit zum Handeln haben.
+5. **Integriertes Entscheidungsreview auf Projektebene:** Führt Vertrags-, Budget-, Abrechnungs-, Zahlungs- und Cash-Signale in einem einzigen Einzelprojekt-Dashboard zusammen, damit Sie wissen, was heute Aufmerksamkeit braucht.
 
 ---
 
-## Weitere Werkzeuge dieser Serie
+## Weitere Tools dieser Serie
 
-Wenn Ihnen schlanke Excel-basierte operative Entscheidungswerkzeuge gefallen, könnten auch diese Projekte nützlich für Sie sein:
+Entdecken Sie weitere leichten, sofort einsatzbereite Excel-Entscheidungs-Toolkits von **[Theseus Workshop](https://theseusworkshop.com/)**:
 
-* **Enterprise-Payroll- & jährliches Arbeitskräftekapazitätsplanungs-Toolkit** — Arbeitskräfteplanung, Payroll-Prognose, Überstundenanalyse und jährliches Arbeitskapazitätsmanagement.
-* **Mietobjektbetriebs- & Leerstandsintelligenz-Toolkit** — Belegung, Mieteinnahmen, Instandhaltung und Portfolioperformance überwachen.
-* **Nachfrageadaptives Inventarplanungs- & Einkaufs-Toolkit** — Inventarprognose, Nachbestellplanung, Lieferanten-Vorlaufzeitanalyse und Einkaufsentscheidungen.
-* **Fertigungsarbeitskosten- & Kapazitätsplanungs-Toolkit** — Produktionsarbeitskräfteplanung, Arbeitsauslastung und Fertigungskostenkontrolle.
-* **Kommerzielle Energiekosten- & Total-Cost-of-Ownership-Toolkit** — Energiealternativen mit konsistenten kaufmännischen und operativen Annahmen vergleichen.
-
-Weitere Entscheidungsunterstützungswerkzeuge werden weiterhin über das GitHub-Repository und die Produktbibliothek veröffentlicht.
+- 🎁 **[Construction Monthly CVR & Accruals Excel Template (Kostenlos · $0+ PWYW)](https://github.com/HyVoid/construction-cvr-accruals-excel-template)** — *Kostenlos hier einsteigen:* Zertifizierten Wert, nicht abgerechnete Baustellen-Accruals, Variationsrisiken und EAC-Gewinnprognosen zum Monatsende abstimmen.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Bauangebots-Kalkulationen standardisieren und fertige Kalkulationen in wiederverwendbare Kostendatenbanken überführen.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Baukalkulationen über den gesamten Projektverlauf mit Ist-Kosten vergleichen—im AIA-Standardformat.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Wohnbaukosten aus BOQ-Aufmaßen und Preisen kalkulieren und genehmigte Budgets gegen Ist-Ausgaben verfolgen.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Fundament-Betonvolumina, Schalungsflächen, Erdarbeiten-Mengen, Bewehrungslisten (BBS) und BOQ-Angebotswerte aus Statikabmessungen berechnen.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Bohr- und Sprengvortrieb im Tunnel, Ausbau, Ausrüstung und Lohnkosten zu einem kompletten BOQ kalkulieren.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Industrielle Energiequellen auf Basis echter Nutzenenergie-Lifecycle-TCO vergleichen.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — DIN-743-Wellenberechnungsstandards auf Konstruktionsentscheidungen anwenden.
 
 ---
+
+## Fragen, Feedback & Produkt-Updates
+
+Dieses Repository unterstützt die **Construction Project Management & Cash Flow Control Workbook**. Nutzen Sie die folgenden Kanäle, um reproduzierbare Defekte von allgemeinen Nutzungsfragen und Produktideen zu trennen:
+
+- **Reproduzierbares technisches Problem melden:** [Bug-Report öffnen](https://github.com/HyVoid/construction-project-management-excel/issues/new?template=bug-report.yml). Bitte betroffenen Workflow, Softwareumgebung und Schritte zur Reproduktion angeben.
+- **Nutzungsfrage stellen:** [Theseus-Workshop-Community-Q&A](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Verbesserung vorschlagen oder Anwendungsfall diskutieren:** [Idee teilen](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Produktankündigungen verfolgen:** [Product Updates](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+### Datenschutz & sichere Beispiele
+
+Veröffentlichen Sie keine Kunden-, Lieferanten-, Mitarbeiter-, Eigentümer-, Reisenden-, Mieter-, Transaktions-, Buchungs-, Zahlungs- oder andere vertrauliche Geschäftsinformationen in öffentlichen GitHub-Issues oder Discussions. Hängen Sie keine ungeschwärzten Buchhaltungsexporte, Kontoauszüge, Rechnungen, Verträge, Ausweisdokumente, Zugangsdaten oder vollständige operative Datensätze an.
+
+Verwenden Sie nach Möglichkeit synthetische Beispiele. Falls ein echtes Beispiel notwendig ist, entfernen Sie direkte und indirekte Identifikatoren sowie geschäftlich sensible Werte. Spaltennamen, erfundene Beispielzeilen, ungefähre Zeilenzahlen, exakte Fehlermeldungen und Erwartung-vs.-Ist-Ergebnisse reichen in der Regel aus, um ein Problem zu reproduzieren.
+
+Laden Sie für jede kostenlose Browser-Demo keine Produktionsdaten hoch, bevor Sie die aktuellen Datenschutz- und Datenverarbeitungshinweise der Demo unabhängig geprüft und bestätigt haben, dass ihre Verwendung angemessen ist. Dieses README behauptet nicht, dass Browserdaten ausschließlich auf Ihrem Gerät verarbeitet oder niemals übertragen oder gespeichert werden.
 
 ## Lizenz
 
-Dieses Projekt steht unter der **Apache License 2.0**.
+Dieses Projekt ist unter der **Apache License 2.0** lizenziert.
 
-Sie sind frei, diese Arbeitsmappe gemäß den Bedingungen der Apache License 2.0 zu nutzen, zu modifizieren und zu verteilen. Bitte behalten Sie den ursprünglichen Lizenzhinweis und die Zuschreibung bei, wenn Sie sie weiterverteilen oder abgeleitete Werke erstellen.
+Sie dürfen diese Arbeitsmappe gemäß den Bedingungen der Apache License 2.0 frei nutzen, ändern und verbreiten. Bitte bewahren Sie den ursprünglichen Lizenzhinweis und die Urheberangabe auf, wenn Sie sie weiterverbreiten oder derivative Werke erstellen.
 
 Den vollständigen Lizenztext finden Sie in der beiliegenden **LICENSE**-Datei in diesem Repository.
-
