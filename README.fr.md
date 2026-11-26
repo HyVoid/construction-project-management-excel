@@ -1,153 +1,181 @@
 [ 🌐 عربي ](README.ar.md) | [ 🇩🇪 Deutsch ](README.de.md) | [ 🇫🇷 Français ](README.fr.md) | [ 🇳🇱 Nederlands ](README.nl.md) | [ 🇪🇸 Español ](README.sp.md) | [ 🇬🇧 English ](README.md)
-# Modèle Excel gratuit de gestion de projet de construction & application web | Suivi budgétaire et de trésorerie par projet
-<img width="1670" height="790" alt="image" src="https://github.com/user-attachments/assets/69464cda-96d1-42d0-b487-16a2776d7e7d" />
 
-**Vous cherchez un tableur fiable de gestion de projet de construction ? Ce classeur de contrôle léger, dédié à un seul projet, aide les entrepreneurs généraux et les chefs de projet à suivre la comptabilité analytique, la facturation d’avancement (Schedule of Values), les retenues, les paiements aux sous-traitants et la trésorerie en temps réel. Disponible immédiatement comme application web gratuite ou comme modèle Excel téléchargeable — aucun abonnement logiciel d’entreprise requis.**
+# Modèle Excel de Gestion de Projet de Construction & de Flux de Trésorerie (Démo Web Gratuite) — Budget Mono-Projet, Facturation de Progression SOV & Contrôle du Retainage
 
-Aucune inscription. Aucune installation. Gratuit dans votre navigateur.
+[![Licence : Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+![Classeur Excel : Achat Unique](https://img.shields.io/badge/Excel%20Workbook-One--Time%20Purchase-1E3A8A.svg)
+![Démo Interactive : Application Web Gratuite](https://img.shields.io/badge/Web%20Demo-Free%20in%20Browser-217346.svg)
+![Garantie : Remboursement 30 Jours](https://img.shields.io/badge/Guarantee-30--Day%20Money--Back-D97706.svg)
 
-> Commencez à gérer votre budget de construction immédiatement dans le navigateur, ou téléchargez la version Excel entièrement déverrouillée (garantie satisfait ou remboursé de 30 jours, sans questions) pour l’intégrer à votre reporting WIP (Work in Progress) existant.
-> 
-> 🌐 **Application live** → [Essayer l’application web de contrôle de construction gratuite (démo HTML)](https://hyvoid.github.io/construction-project-management-excel/)
-> 
-> 📥 **Modèle Excel** → [Télécharger le modèle Excel d’estimation](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+<img width="1670" height="790" alt="Construction Project Management & Cash Flow Excel Dashboard Preview" src="https://github.com/user-attachments/assets/69464cda-96d1-42d0-b487-16a2776d7e7d" />
 
----
+**Cessez de gérer des chantiers à plusieurs millions depuis des tableurs éparpillés et des notes mentales.** Ce **Classeur Excel de Gestion de Construction Mono-Projet & de Flux de Trésorerie** plug-and-play réunit votre **budget, cost codes, change orders (VO), facturation de progression (Schedule of Values / style AIA), retainage, créances sous-traitants et prévision de trésorerie glissante** dans un centre de commande unique et hors ligne — conçu pour les chefs de projet de terrain, les entrepreneurs généraux et les équipes QS qui veulent un contrôle de niveau direction sans logiciel ERP à $10,000/an.
 
-## Le concept central : contrôle au niveau du projet vs. administration d’entreprise
-
-La plupart des logiciels commerciaux de construction (comme Procore, Buildertrend ou CMiC) sont conçus pour l’administration de portefeuilles d’entreprise. Ils vous obligent à naviguer entre autorisations utilisateurs, planification des ressources à l’échelle de l’entreprise et workflows d’approvisionnement, juste pour répondre à une question fondamentale :
-
-> **« Ce projet de construction spécifique est-il financièrement sain en ce moment ? »**
-
-Ce **traceur financier de construction** débarrasse l’ensemble du superflu d’entreprise. Il est conçu spécifiquement pour la **gestion de projet de construction mono-projet**.
-
-Un contrat principal. Un budget de coût de revient. Un planning de chemin critique. Un flux d’ordres de modification (VOs). Une prévision de trésorerie consolidée.
-
-En éliminant la surcharge à l’échelle de l’entreprise, cet outil offre une visibilité financière immédiate, ce qui en fait l’alternative tableur parfaite pour les équipes de terrain, les responsables commerciaux et les ingénieurs de chantier qui ont besoin de réponses opérationnelles rapides.
+> ### Deux façons de commencer dès aujourd'hui
+>
+> - 📥 **Obtenez le classeur de contrôle Excel hors ligne complet (Achat Unique · Garantie de remboursement de 30 jours sans conditions) :** [**Téléchargez le classeur Excel complet de Gestion de Projet de Construction & de Flux de Trésorerie sur Theseus Workshop**](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management) — un système `.xlsx` déverrouillé avec tables automatisées, dashboards et prévision de trésorerie. Réutilisable sur un nombre illimité de projets, confidentialité 100 % locale, zéro frais SaaS récurrents.
+> - 🌐 **Testez d'abord le dashboard en direct (démo navigateur 100 % gratuite · sans inscription) :** [**Lancez la démo web gratuite de contrôle de projet de construction**](https://hyvoid.github.io/construction-project-management-excel/) pour explorer le dashboard des KPI et la logique financière instantanément dans votre navigateur.
+> - 🎁 **Nouveau sur Theseus Workshop & envie d'essayer d'abord gratuitement un fichier Excel hors ligne ?** Récupérez notre [**Modèle Excel gratuit Monthly Construction CVR & Accruals ($0+ au prix de votre choix)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_pm_readme_crosslink) pour tester la qualité plug-and-play de nos fichiers Excel sur votre propre ordinateur avant de passer au système complet de contrôle de projet.
 
 ---
 
-## Problèmes résolus : ce que ce tableur de construction suit
+## Comment ce système payant améliore votre flux de travail (en complément de notre modèle CVR gratuit)
 
-Au lieu de disperser vos données entre systèmes comptables et fichiers Excel temporaires, ce modèle traite les goulots d’étranglement financiers les plus courants de la construction grâce à une approche intégrée :
+Si vous avez déjà téléchargé notre **Free Monthly CVR & Accruals Template**, vous savez déjà repérer les fuites de profit cachées en fin de mois. **Ce classeur est l'étape suivante** : votre centre de commande opérationnel au quotidien qui garde budgets, facturations, retainage et trésorerie de projet sous contrôle, du contrat signé à la clôture finale.
 
-* **Problème : les ordres de modification faussent le contrat original.**
-* * **Solution : suivi de la valeur du contrat et des ordres de modification.** Consultez votre montant de contrat original, les ordres de modification en attente vs. approuvés, et la valeur du contrat révisée actuelle dans un tableau de bord verrouillé et auditable.
-
-
-* **Problème : les dépassements de coûts découverts après que les engagements sont pris.**
-* * **Solution : comptabilité analytique et analyse des écarts budgétaires.** Suivez le budget alloué vs. les coûts réellement engagés par codes de coûts standard (compatible CSI MasterFormat), en détectant les dépassements avant la signature des sous-traités.
-
-
-* **Problème : facturations AIA désordonnées et paiements clients en retard.**
-* * **Solution : facturation d’avancement (SOV) et gestion des retenues.** Calculez automatiquement les travaux achevés, les situations précédentes, le montant actuellement dû et les retenues accumulées (holdback) pour rationaliser la facturation client.
-
-
-* **Problème : angles morts sur la liquidité du projet et le fonds de roulement.**
-* * **Solution : prévision de trésorerie de construction.** Surveillez les comptes fournisseurs (paiements aux entrepreneurs) face aux comptes clients (encaissements clients) pour générer une projection de trésorerie glissante, prédisant les pénuries de liquidités avant qu’elles n’arrêtent l’avancement du chantier.
+| Ce que vous devez contrôler | Modèle gratuit Monthly CVR & Accruals (*Diagnostic de fin de mois*) | **Ce classeur : Gestion Mono-Projet & Contrôle de Trésorerie** (*Système de cycle de vie complet*) |
+|---|---|---|
+| **Rôle principal** | Rapprocher la réalité du profit de fin de mois, les provisions de chantier non facturées et la dérive des marges EAC | Piloter chaque jour/semaine le contrôle du budget, la facturation de progression, le retainage, les paiements et la trésorerie |
+| **Contrat & Change Orders** | Pondère le risque des réclamations d'avenants en attente à l'arrêté des comptes | Suit le contrat initial, les VO approuvés, la valeur révisée du contrat et le solde restant |
+| **Budget & Cost Codes** | Rapprochement des coûts au niveau des lots | Suivi complet **Cost Code (compatible CSI MasterFormat)** : budget vs. engagé vs. réel |
+| **Facturation de progression (SOV) & Retainage** | Utilise les revenus certifiés comme entrées | Automatise **Schedule of Values (SOV), situations de travaux, retenues de garantie & créances clients** |
+| **Trésorerie & marge de liquidité** | Se concentre sur la santé des marges & des provisions | Fusionne **encaissements clients vs. paiements sous-traitants programmés** en une prévision de trésorerie glissante |
+| **Quand l'utiliser** | Clôturer le mois & auditer le profit avant les revues de direction | Piloter les finances du chantier actif chaque semaine pour ne jamais manquer de cash ni perdre le fil de la facturation |
 
 ---
 
-## Tutoriel de démarrage rapide : comment configurer votre traceur financier de construction
+## Le concept central : contrôle au niveau projet vs. lourdeur d'entreprise
 
-Oubliez les tableurs temporaires. Suivez ces étapes pour établir une base financière permanente pour votre projet actuel.
+La plupart des plateformes commerciales de construction (comme Procore, Buildertrend ou CMiC) sont conçues pour l'administration IT des grandes entreprises. Elles obligent les petites et moyennes équipes à payer des abonnements annuels élevés et à naviguer dans des menus d'autorisations sans fin juste pour répondre à une question urgente :
 
-### Étape 1 : configurer les paramètres du projet et la base de coût de revient
+> **« Ce projet précis est-il dans le budget, correctement facturé, et cash-positif en ce moment ? »**
 
-**Action :** ouvrez l’onglet **Project Setup** pour définir votre source unique de vérité.
-Saisissez votre valeur de contrat originale, le pourcentage de retenue par défaut, les taux d’imposition et les dates de jalons clés. Ces paramètres alimentent automatiquement chaque calcul en aval, vous n’avez donc à les définir qu’une seule fois.
+Ce **suivi financier de construction** élimine la complexité d'entreprise et se concentre à 100 % sur **la clarté mono-projet** :
 
-### Étape 2 : importer vos données de sous-traitants et de Schedule of Values (SOV)
+**Un contrat principal. Un budget de coûts de chantier. Un registre de change orders. Un moteur de facturation de progression SOV & retainage. Une prévision de trésorerie glissante.**
 
-**Action :** collez vos données existantes dans les tables structurées de Master Data.
-Que vous exportiez des rapports WIP depuis votre ERP, des CSV depuis vos relevés de métré ou des échéanciers de paiement fournisseurs, collez simplement les enregistrements. Les tables dynamiques s’étendent automatiquement sans casser les formules.
-
-### Étape 3 : enregistrer les coûts et facturations de construction quotidiens/hebdomadaires
-
-**Action :** utilisez les entrées opérationnelles pour enregistrer les activités du projet en temps réel.
-Enregistrez les coûts réels, les situations de travaux, les factures de sous-traitants et les variations approuvées au fur et à mesure. L’architecture sépare la saisie des données brutes du reporting, éliminant le besoin de copier-coller des formules.
-
-### Étape 4 : générer les tableaux de bord financiers exécutifs
-
-**Action :** passez au **Executive Dashboard** pour prendre des décisions commerciales.
-Examinez votre écart budgétaire, le total des retenues, l’ancienneté des factures et le runway de liquidité. **[Essayez le tableau de bord dans votre navigateur maintenant](https://hyvoid.github.io/construction-project-management-excel/)** pour voir comment les données brutes se convertissent automatiquement en intelligence de projet actionable.
-
-### Étape 5. Construire une base de données financière de projet réutilisable
-Après la clôture du projet, ne jetez pas le fichier. Vos correspondances de codes de coûts standard, les historiques de paiement fournisseurs et les courbes de trésorerie de référence sont conservés. Le système évolue avec chaque chantier terminé, transformant les traceurs à usage unique en une **base de données de coûts historiques** permanente pour le benchmarking des projets futurs.
-
-* 👉 [*Télécharger le classeur Excel de contrôle de construction pour usage hors ligne*](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+Vous n'avez pas besoin d'un service comptable d'entreprise ni de mois d'onboarding logiciel. Ouvrez un classeur, collez vos données de projet, et entrez dans chaque réunion client, maître d'ouvrage ou direction avec la maîtrise totale de vos chiffres.
 
 ---
 
-## Qui devrait utiliser ce traceur de projet de construction ? (Rôles et cas d’usage)
+## Aperçu du classeur
 
-Cette boîte à outils est conçue pour les professionnels du secteur qui ont besoin d’une supervision directe de la comptabilité analytique et de la trésorerie sans la friction des systèmes ERP complexes.
+Vous voulez inspecter la mise en page, le dashboard et la structure des onglets avant l'achat ? Prévisualisez le classeur directement dans Google Sheets :
 
-* **Entrepreneurs généraux et constructeurs de maisons sur mesure :** recherchant un *modèle Excel fiable pour la comptabilité analytique des entrepreneurs* afin d’éviter les saignements budgétaires sur les constructions résidentielles ou commerciales.
-* **Chefs de projet de construction (PM) :** ayant besoin d’un *tableau de bord financier de gestion de projet* qui maintient les allocations budgétaires, le Schedule of Values et les ordres de modification synchronisés pour les réunions clients.
-* **Économistes de la construction (QS) et estimateurs :** recherchant un *tableur de gestion commerciale* pour certifier efficacement les demandes de paiement des sous-traitants et évaluer les impacts des ordres de modification.
-* **Représentants du maître d’ouvrage / PM clients :** ayant besoin d’un *outil d’audit de contrôle de projet* indépendant pour contre-vérifier les situations mensuelles et les soldes de retenue de l’entrepreneur général.
-* **Corps d’état spécialisés et sous-traitants :** ayant besoin d’un espace de travail unifié pour suivre leurs propres facturations d’avancement et créances en cours face aux grands contrats principaux.
+**[Voir l'aperçu du classeur en direct sur Google Sheets](https://docs.google.com/spreadsheets/d/1TyXGVYvJSKLi2AHYJjCC-MMfILjwhHcE/edit?usp=sharing&ouid=108770714531989318327&rtpof=true&sd=true)**
+
+> **Note de compatibilité :** l'aperçu Google Sheets peut afficher occasionnellement des avertissements `#NAME?` ou des décalages de mise en forme en raison de différences de formules entre Google Sheets et Microsoft Excel. Ce sont des artefacts propres à l'aperçu ; ils n'apparaissent pas dans le fichier `.xlsx` téléchargé ouvert dans Microsoft Excel.
+
+---
+
+## Problèmes résolus : ce que ce tableur de construction contrôle automatiquement
+
+Plutôt que d'éparpiller les chiffres du projet entre des exports comptables déconnectés et des fichiers temporaires fragiles, ce classeur verrouille ensemble chaque point de contrôle commercial critique :
+
+- **Problème : les change orders déforment silencieusement votre base contractuelle.**
+  - **Solution — Contrôle de la valeur du contrat & des Variation Orders (VO) :** suivez le montant initial du contrat, les change orders en attente vs. approuvés et la valeur révisée actuelle du contrat dans une seule vue auditable — pour que les pourcentages d'avancement et les marges soient toujours mesurés à la réalité.
+- **Problème : découvrir les dépassements de coûts *après* la signature des bons de commande.**
+  - **Solution — Job costing par Cost Code & analyse des écarts budgétaires :** comparez les budgets alloués aux coûts engagés et réels par Cost Codes standardisés (compatible CSI MasterFormat), et repérez les dépassements tant que vous avez encore la marge pour agir.
+- **Problème : situations de travaux brouillonnes, retainage mal calculé et paiements clients retardés.**
+  - **Solution — Gestion de la facturation de progression (SOV) & du retainage :** calcul automatique des travaux réalisés, situations antérieures, montants certifiés de la période, retainage cumulé et créances encaissables — des heures de stress de facturation de fin de mois en moins.
+- **Problème : des projets « profitables sur le papier » qui tombent soudain à court de cash.**
+  - **Solution — Prévision glissante de trésorerie de chantier :** rapprochez les encaissements clients attendus des paiements sous-traitants programmés pour voir votre réelle marge de liquidité plusieurs semaines à l'avance — et prévenez les crises de cash avant qu'elles ne bloquent l'avancement du chantier.
+
+---
+
+## Démarrage rapide : installez votre centre de commande projet en 4 étapes simples
+
+Vous n'avez pas besoin d'écrire des formules complexes ni de tirer des cellules vers le bas chaque semaine. Chaque tableau, recherche et graphique de direction est pré-câblé pour se rafraîchir automatiquement :
+
+### Étape 1 : définissez votre source de vérité unique (`Project Setup`)
+Saisissez une seule fois la valeur initiale du contrat, le % de retainage par défaut, les taux de taxe et les dates clés du projet. Chaque onglet en aval (facturation, retenues, écarts) se met à jour automatiquement à partir de ces paramètres.
+
+### Étape 2 : collez vos Cost Codes, Vendors & baseline SOV (`Master Data`)
+Déposez vos cost codes CSI, votre liste de sous-traitants et votre Schedule of Values issus de votre devis d'appel d'offres ou d'un export ERP. Les tables Excel structurées s'étendent automatiquement sans casser une seule formule.
+
+### Étape 3 : enregistrez coûts hebdomadaires, change orders & situations de travaux (`Operational Inputs`)
+Consignez les factures de sous-traitants, les VO approuvés, les situations de travaux et les encaissements clients dans des tables de saisie propres et dédiées — totalement séparées des onglets de reporting pour ne jamais écraser accidentellement un calcul.
+
+### Étape 4 : lisez vos chiffres & décidez avec confiance (`Executive Dashboard`)
+Basculez sur l'**Executive Dashboard** pour voir d'un coup d'œil la valeur révisée du contrat, l'écart budgétaire, le retainage retenu, les créances échues et la trésorerie projetée à la clôture. **[Testez le dashboard interactif dans votre navigateur dès maintenant](https://hyvoid.github.io/construction-project-management-excel/)**.
+
+### Bonus — Construisez votre propre bibliothèque de coûts historiques au fil du temps
+À la clôture du projet, enregistrez une copie d'archive propre. Vos mappings de cost codes standardisés, votre historique de paiements fournisseurs et vos courbes de trésorerie de référence transforment chaque chantier terminé en **base de données de benchmarking** réutilisable pour chiffrer et contrôler votre prochain chantier.
+
+---
+
+## Démo navigateur gratuite vs. classeur Excel local complet
+
+| Fonctionnalité | Démo web en ligne gratuite | **Classeur Excel local complet (Achat Unique)** |
+|---|---|---|
+| **Idéal pour** | Aperçu instantané en 2 minutes du dashboard & du flux de travail | Gérer de vrais chantiers actifs du démarrage à la clôture |
+| **Système de contrôle multi-onglets complet** | Vue de démo interactive uniquement | Classeur Excel structuré complet (Setup, Master Data, Budget, VO, Facturation SOV, Retainage, AP/AR & Flux de Trésorerie) |
+| **Enregistrer & réutiliser sur un nombre illimité de projets** | Réinitialisé dans le navigateur | **Enregistrez localement & réutilisez pour toujours** sur un nombre illimité de chantiers — zéro limite de sièges |
+| **Confidentialité & sécurité des données** | Session navigateur | **Fichier `.xlsx` 100 % hors ligne** — les valeurs de contrat, marges & tarifs fournisseurs ne quittent jamais votre appareil |
+| **Modèle de coût** | Aperçu gratuit | **Petit paiement unique** vs. abonnements ERP construction à $3,000–$10,000+/an |
+| **Achat sans risque** | — | Garanti par un **remboursement de 30 jours sans conditions** |
+
+> **Prêt à remplacer le chaos des tableurs par un centre de commande projet fiable ?**
+> 👉 [**Obtenez le classeur Excel complet de Gestion de Projet de Construction & de Flux de Trésorerie (Achat Unique · Garantie 30 Jours)**](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+
+---
+
+## À qui s'adresse ce classeur de contrôle de projet de construction
+
+Conçu spécifiquement pour les professionnels de la construction de terrain qui veulent **la visibilité financière des grandes entreprises sans la friction des logiciels d'entreprise** :
+
+- **Entrepreneurs généraux (GC) & constructeurs de maisons sur mesure :** stoppez l'hémorragie budgétaire et protégez votre fonds de roulement sur les chantiers résidentiels, rénovations et constructions commerciales grâce à un *modèle Excel de job costing & de trésorerie pour contractors* fiable.
+- **Chefs de projet construction (PM) & responsables de chantier :** gardez budgets, Schedule of Values, change orders et paiements sous-traitants synchronisés en un seul endroit — et arrivez préparé à chaque revue client ou direction.
+- **Économistes de la construction (QS) & responsables commerciaux :** certifiez les situations de sous-traitants, suivez précisément les soldes de retainage et visualisez l'impact commercial immédiat de chaque VO approuvé.
+- **Représentants du maître d'ouvrage & PM clients :** tenez une *feuille d'audit de contrôle de projet* indépendante pour vérifier les situations du GC, les totaux de VO et les retenues avant tout déblocage de paiement.
+- **Corps d'état spécialisés & sous-traitants :** suivez situations de travaux, retainage dû et créances à encaisser sur de gros contrats principaux sans perdre le fil des factures échues.
 
 ---
 
 ## Surmonter les risques financiers courants de la construction
 
-Le tableau ci-dessous illustre comment la migration vers une boîte à outils structurée élimine les risques de la gestion de chantiers de plusieurs millions de dollars sur des tableurs fragmentés.
-
-| Risques financiers courants de la construction | Tableurs traditionnels (le problème) | Modèle de contrôle mono-projet (la solution) |
-| --- | --- | --- |
-| **Découverte tardive des dépassements budgétaires** | Les rapports de coûts et les comptes fournisseurs sont examinés en silos ; les dépassements ne sont visibles qu’*après* l’émission des bons de commande. | Les allocations budgétaires, les coûts de sous-traitants engagés et les soldes restants sont analysés dans un tableau de bord WIP unifié avant d’approuver de nouveaux travaux. |
-| **Litiges sur les situations (AIA)** | Les valeurs de contrat, le Schedule of Values (SOV) et les retenues sont conservés dans des onglets différents, ce qui entraîne des facturations dupliquées ou incorrectes. | Les situations sont générées automatiquement à partir d’un ensemble de données relationnel où le contrat de base, les VOs approuvés et les holdbacks sont verrouillés mathématiquement ensemble. |
-| **Pénuries de liquidités soudaines** | Les prévisions de revenus et les obligations de paiement fournisseurs sont déconnectées, masquant les crises de trésorerie entrantes. | Les encaissements clients et les dettes sous-traitants sont fusionnés dans une prévision de trésorerie glissante, offrant un runway clair de fonds de roulement. |
-| **Mauvaise gestion des ordres de modification (VO)** | Les variations de chantier approuvées sont mal suivies, séparant le budget original des réalités financières actuelles. | Les valeurs de contrat originales, les impacts des VOs et les budgets révisés sont strictement liés, garantissant que vos marges bénéficiaires reposent toujours sur le dernier périmètre approuvé. |
-| **Surcharge de reporting** | Les PM perdent des heures chaque mois à exporter des données ERP pour reconstruire des rapports temporaires pour la revue exécutive. | Les nouvelles transactions sont simplement ajoutées aux tables de saisie ; tous les graphiques KPI exécutifs et tableaux de bord de trésorerie se rafraîchissent automatiquement. |
+| Risque financier de construction courant | Tableurs fragmentés (le problème) | **Ce classeur de contrôle mono-projet (la solution)** |
+|---|---|---|
+| **Découverte tardive des dépassements budgétaires** | Les rapports de coûts et les comptes fournisseurs vivent en silos ; les dépassements n'apparaissent qu'*après* l'émission des PO. | Enveloppes budgétaires, coûts engagés et soldes restants dans une seule vue vivante *avant* de signer de nouveaux travaux. |
+| **Litiges de situations (SOV/AIA) & de retainage** | Valeurs de contrat, lignes SOV et retenues éparpillées sur des onglets distincts — erreurs de facturation et retards de paiement. | Contrat initial, VO approuvés, facturation certifiée et retainage verrouillés mathématiquement entre eux. |
+| **Crises de liquidité & de cash soudaines** | Créances clients et échéanciers sous-traitants déconnectés — les trous de cash restent invisibles. | Encaissements attendus et paiements programmés fusionnés en une prévision de trésorerie glissante avec une visibilité claire de la marge de liquidité. |
+| **Dérive des Change Orders (VO)** | Les VO approuvés ne sont pas rattachés à la baseline — pourcentages d'avancement et budget restant faussés. | Contrat initial, VO approuvés et budgets révisés restent strictement liés en permanence. |
+| **Heures perdues à reconstruire les rapports mensuels** | Les PM sacrifient leurs soirées à exporter des données et réparer des formules cassées avant les réunions de direction. | Ajoutez les nouvelles transactions aux tables d'entrée structurées ; chaque KPI card et graphique de trésorerie se rafraîchit automatiquement. |
 
 ---
 
-## Pourquoi j’ai conçu cet outil : retrouver de la clarté quand on porte plusieurs casquettes
+## Pourquoi j'ai créé cet outil : retrouver de la clarté quand on porte plusieurs casquettes
 
-Si vous travaillez dans une entreprise de construction de petite ou moyenne taille, vous savez que « chef de projet » signifie rarement simplement gérer un seul projet. 
+Si vous travaillez dans une entreprise de construction petite ou moyenne, vous savez que « chef de projet » ne signifie presque jamais « gérer une simple checklist bien rangée ».
 
-En haute saison, vous portez probablement plusieurs casquettes — jonglant entre les opérations de chantier actives, les appels de service, les RFIs urgents, et peut-être même en aidant l’équipe à préparer les prochains appels d’offres. L’environnement prend tout ce que vous avez. 
+En haute saison, vous portez plusieurs casquettes — piloter l'exploitation du chantier actif, enchaîner les appels des sous-traitants, répondre aux RFI urgents et aider à préparer les prochains appels d'offres. L'environnement absorbe tout ce que vous avez.
 
-J’ai conçu cette boîte à outils parce que j’ai vécu le point de rupture exact de cette « saison de surmenage ». Quand vous êtes tendu à ce point, il devient physiquement impossible de garder en tête le statut financier et opérationnel de chaque projet actif. L’anxiété et la nausée quotidiennes ne viennent pas du travail acharné lui-même ; elles viennent du **manque de visibilité**. Quand un client ou un dirigeant pose une question sur un écart budgétaire, un solde de retenue ou un ordre de modification en attente, vous ne devriez pas avoir à passer des heures à fouiller des exports comptables éparpillés et des tableurs temporaires pour trouver la réponse. Vous craignez que, parce que vous bougez si vite, un détail financier massif vous échappe.
+J'ai créé cette boîte à outils parce que j'ai vécu exactement le point de rupture de cette « saison d'épuisement ». Quand on est tendu à ce point, il devient physiquement impossible de garder en tête l'état financier d'un chantier en cours. Le stress quotidien ne vient pas du travail difficile lui-même ; il vient du **manque de visibilité**. Quand un client ou un membre de la direction demande un écart budgétaire, un solde de retainage ou un change order en attente, vous ne devriez pas avoir à passer des heures à fouiller des exports éparpillés et des onglets cassés — en redoutant qu'un détail financier majeur ait glissé dans les interstices.
 
-J’ai réalisé que je ne pouvais pas réduire le volume de travail, mais je pouvais éliminer la surcharge cognitive. 
+Je ne pouvais pas réduire le volume de travail du chantier, alors j'ai éliminé la surcharge cognitive.
 
-J’ai conçu ce classeur pour être la source unique de vérité définitive quand vous n’avez pas de temps à perdre. Il ne fait pas la gestion à votre place, mais il organise le chaos. Vous ouvrez le tableau de bord et connaissez instantanément la santé financière exacte, l’avancement de la facturation et le statut de trésorerie du projet. Il vous donne la clarté immédiate dont vous avez besoin pour survivre au port de plusieurs casquettes sans laisser tomber la balle.
+Ce classeur est conçu pour être votre source de vérité unique quand vous n'avez aucune minute à perdre. Ouvrez le dashboard, voyez l'état de santé financier exact, l'avancement de la facturation et la marge de trésorerie de votre chantier en 60 secondes, et prenez votre prochaine décision commerciale avec une confiance sereine.
 
 ---
 
-## À propos
+## À propos de Theseus Workshop — Boîtes à outils Excel hors ligne plug-and-play pour la prise de décision
 
-Je conçois des outils d’aide à la décision légers, basés sur Excel et le navigateur, pour des situations où il y a tout simplement trop de pièces en mouvement pour les garder en tête.
+**Theseus Workshop** conçoit des boîtes à outils Excel de décision abordables, stockées localement, pour les contractors de terrain, chefs de projet, professionnels QS et exploitants qui veulent **une clarté analytique de niveau direction sans la lourdeur des logiciels d'entreprise ni des abonnements SaaS récurrents**.
 
-Plutôt que de remplacer les logiciels d’entreprise, ces classeurs organisent les informations requises pour prendre la **prochaine décision opérationnelle** avec confiance.
-
-**La boîte à outils Excel de contrôle de projet de construction et de trésorerie** applique cette philosophie à la gestion financière des projets de construction en réunissant budgétisation, facturation, trésorerie, paiements aux entrepreneurs et reporting commercial dans un cadre réutilisable construit autour d’**un seul projet**.
+- 📥 [**Obtenez ce classeur complet de Gestion de Projet de Construction & de Flux de Trésorerie**](https://www.theseusworkshop.com/l/ftbvja?utm_source=github&utm_medium=GitHub%20README&utm_campaign=readme%20new%20launch&utm_content=construction-project-management)
+- 🎁 [**Commencez gratuitement : Modèle Excel Monthly Construction CVR & Accruals ($0+ PWYW)**](https://theseusworkshop.com/l/cnjyy?utm_source=github&utm_medium=paid_pm_readme_crosslink)
+- 🧰 [**Explorez toute la bibliothèque d'outils Theseus Workshop (theseusworkshop.com)**](https://theseusworkshop.com/)
 
 ---
 
 ## Détails techniques
 
 <details>
-<summary><strong>Pour les réviseurs techniques, les praticiens Excel et les collaborateurs</strong></summary>
+<summary><strong>Pour les relecteurs techniques, praticiens Excel et collaborateurs (Architecture, 3 pièges de décision, scénario d'exemple, référence des formules & règles de validation)</strong></summary>
 
-## Architecture du classeur
+### Architecture du classeur
 
-Le classeur suit une architecture structurée **Saisie → Validation → Calcul → Reporting** afin que les informations du projet ne soient saisies qu’une seule fois et réutilisées dans tous les calculs en aval.
+Le classeur suit une architecture structurée **Saisie → Validation → Calcul → Reporting** : les informations du projet sont saisies une seule fois puis réutilisées dans tous les calculs en aval.
 
-| Couche                 | Feuilles principales                                                                       | Objectif                                                                                                                                    |
+| Couche                 | Onglets principaux                                                                           | Objectif                                                                                                                                |
 | --------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Configuration du projet | Project Setup, Parameters                                                                    | Définir les informations de contrat, les paramètres fiscaux, le pourcentage de retenue, les dates de projet, les hypothèses de reporting et les données de référence.             |
-| Données de base           | Cost Codes, Vendors, Clients, Resource Lists                                                 | Tables de recherche centralisées partagées entre toutes les feuilles opérationnelles.                                                                    |
-| Entrées opérationnelles   | Budget, Change Orders, Progress Billing, Contractor Payments, Receivables, Cash Transactions | Enregistrer les activités quotidiennes du projet sans dupliquer les informations de référence.                                                        |
-| Moteur de calcul    | Feuilles de calcul intermédiaires et tables Excel structurées                                  | Consolider les données financières, calculer les valeurs de contrat révisées, les soldes de facturation, les retenues, le statut des paiements et les projections de trésorerie.      |
-| Reporting exécutif   | Dashboard, KPI Summary, Cash Flow Reports, Invoice Outputs                                   | Présenter le statut financier au niveau du projet pour la prise de décision opérationnelle et le reporting aux parties prenantes.                                      |
+| Configuration projet | Project Setup, Parameters                                                                    | Définir les informations de contrat, paramètres de taxe, pourcentage de retainage, dates du projet, hypothèses de reporting et données de référence.             |
+| Master Data           | Cost Codes, Vendors, Clients, Resource Lists                                                 | Tables de référence centralisées partagées par tous les onglets opérationnels.                                                                    |
+| Operational Inputs    | Budget, Change Orders, Progress Billing, Contractor Payments, Receivables, Cash Transactions | Enregistrer les activités quotidiennes du projet sans dupliquer les informations de référence.                                                        |
+| Moteur de calcul    | Onglets de calcul intermédiaires et tables Excel structurées                                  | Consolider les données financières, calculer la valeur révisée du contrat, les soldes de facturation, le retainage, le statut des paiements et les projections de trésorerie. |
+| Reporting de direction   | Dashboard, KPI Summary, Cash Flow Reports, Invoice Outputs                                   | Présenter l'état financier du projet pour la prise de décision opérationnelle et le reporting aux parties prenantes.                                      |
 
-### Flux d’informations
+#### Flux d'information
 
 ```text
 Project Setup
@@ -176,206 +204,180 @@ Cash Flow Forecast
 Executive Dashboard
 ```
 
-Chaque rapport en aval dépend de tables de saisie standardisées plutôt que de calculs dupliqués. Cela minimise le travail de rapprochement tout en permettant aux informations du projet de rester cohérentes entre les rapports financiers.
+Chaque rapport en aval dépend de tables d'entrée standardisées plutôt que de calculs dupliqués. Cela réduit le travail de rapprochement tout en gardant les informations du projet cohérentes d'un rapport financier à l'autre.
 
 ---
 
-## Trois pièges de décision qui attrapent même les chefs de projet expérimentés
+### Trois pièges de décision qui surprennent même les chefs de projet expérimentés
 
-### Piège 1 — traiter la valeur du contrat original comme la base financière actuelle
+#### Piège 1 — Traiter la valeur initiale du contrat comme la baseline financière actuelle
 
-Beaucoup de revues de projet commencent par le montant du contrat signé.
+Beaucoup de revues de projet commencent par le montant du contrat signé. La décision paraît raisonnable car elle représente l'accord commercial initial du projet. Or, les chantiers finissent rarement dans le périmètre d'origine — les change orders approuvés augmentent ou diminuent la valeur du contrat tout au long de l'exécution.
 
-La décision apparaît raisonnable car elle représente l’accord commercial original du projet.
-
-Cependant, les projets de construction finissent rarement dans leur périmètre original.
-
-Les ordres de modification approuvés augmentent ou diminuent la valeur du contrat tout au long de la livraison.
-
-Utiliser le contrat original comme base de reporting fait que les pourcentages d’avancement, la valeur de contrat restante, les revenus projetés et la rentabilité deviennent de plus en plus inexacts.
+Utiliser le contrat initial comme baseline de reporting rend les pourcentages d'avancement, la valeur restante du contrat, les revenus projetés et la rentabilité de plus en plus inexacts.
 
 | Approche incorrecte                                           | Approche correcte                                                                         |
 | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
-| Comparer les dépenses réelles à la valeur du contrat original. | Comparer les dépenses réelles à la valeur du contrat révisée après les ordres de modification approuvés. |
+| Comparer les dépenses réelles à la valeur initiale du contrat. | Comparer les dépenses réelles à la valeur révisée du contrat après les change orders approuvés. |
 
-**Résultat de la décision**
-
-Au lieu de croire qu’un projet approche de sa limite financière, les responsables évaluent la performance face à la position contractuelle actuelle, produisant des décisions commerciales plus fiables.
+**Résultat de la décision :** au lieu de croire que le projet approche de sa limite financière, les managers évaluent la performance par rapport à la position contractuelle actuelle, ce qui produit des décisions commerciales plus fiables.
 
 <details>
 <summary>Logique des formules</summary>
 
-Les calculs typiques incluent :
+Les calculs types incluent :
 
-* Valeur actuelle du contrat = Contrat original + Variations approuvées
-* Valeur de contrat restante = Contrat actuel − Facturation d’avancement certifiée
-* Écart budgétaire = Budget révisé − Coût réel
+- Valeur actuelle du contrat = Contrat initial + VO approuvés
+- Valeur restante du contrat = Contrat actuel − Facturation certifiée
+- Écart budgétaire = Budget révisé − Coût réel
 
 </details>
 
 ---
 
-### Piège 2 — examiner la facturation d’avancement sans considérer les retenues
+#### Piège 2 — Revoir la facturation de progression sans tenir compte du retainage
 
-Les certificats d’avancement semblent souvent représenter des revenus recouvrables.
-
-En pratique, la retenue (holdback) signifie qu’une partie de chaque paiement certifié reste indisponible jusqu’à ce que les jalons contractuels soient satisfaits.
-
-Ignorer les retenues surestime les entrées de trésorerie attendues et peut conduire à des engagements financiers inutiles.
+Les attestations de travaux semblent souvent représenter des revenus encaissables. En pratique, le retainage signifie qu'une partie de chaque paiement certifié reste indisponible jusqu'à ce que les jalons contractuels soient atteints. Ignorer le retainage surestime les entrées de cash attendues et peut conduire à des engagements financiers inutiles.
 
 | Approche incorrecte                                     | Approche correcte                                                                     |
 | ------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| Prévoir les encaissements en utilisant les valeurs de facturation certifiées. | Séparer les revenus certifiés des montants retenus et ne prévoir que la trésorerie recouvrable. |
+| Prévoir les encaissements à partir des montants facturés certifiés. | Séparer les revenus certifiés des montants retenus et ne prévoir que le cash encaissable. |
 
-**Résultat de la décision**
-
-La planification de trésorerie reflète le calendrier de paiement attendu plutôt que le seul revenu comptable.
+**Résultat de la décision :** la planification de trésorerie reflète le calendrier de paiement attendu, et non le simple revenu comptable.
 
 <details>
 <summary>Logique des formules</summary>
 
-Les calculs typiques incluent :
+Les calculs types incluent :
 
-* Retenue = Montant certifié × % de holdback
-* Encaissement attendu = Montant certifié − Retenue − Encaissements précédents
-* Créance en cours = Total certifié − Trésorerie reçue
+- Retainage = Montant certifié × % de retenue
+- Encaissement attendu = Montant certifié − Retainage − Encaissements antérieurs
+- Créance en cours = Total certifié − Cash reçu
 
 </details>
 
 ---
 
-### Piège 3 — évaluer la trésorerie après que les coûts ont déjà été engagés
+#### Piège 3 — Évaluer la trésorerie après que les coûts sont déjà engagés
 
-Beaucoup d’équipes de projet n’examinent la trésorerie qu’après l’arrivée des factures fournisseurs.
-
-À ce moment-là, les décisions d’achat ont déjà été prises.
-
-Un contrôle de projet efficace évalue les engagements futurs avant que des contrats ou bons de commande supplémentaires ne soient approuvés.
+Beaucoup d'équipes projet examinent le cash seulement après réception des factures fournisseurs. À ce stade, les décisions d'achat sont déjà prises. Un contrôle de projet efficace évalue les engagements futurs avant d'approuver de nouveaux contrats ou bons de commande.
 
 | Approche incorrecte                            | Approche correcte                                                                                          |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Examiner le solde bancaire après que les dépenses ont eu lieu. | Prévoir les entrées futures, les paiements programmés et le solde de trésorerie projeté avant d’approuver de nouveaux engagements. |
+| Examiner le solde bancaire après que les dépenses ont eu lieu. | Prévoir les entrées futures, les paiements programmés et le solde de trésorerie projeté avant d'approuver de nouveaux engagements. |
 
-**Résultat de la décision**
-
-Les décisions financières deviennent proactives plutôt que réactives, réduisant la probabilité de pression de liquidité évitable.
+**Résultat de la décision :** les décisions financières deviennent proactives plutôt que réactives, réduisant le risque de tension de liquidité évitable.
 
 <details>
 <summary>Logique des formules</summary>
 
-Les calculs typiques incluent :
+Les calculs types incluent :
 
-* Trésorerie d’ouverture
-* * Encaissements clients attendus
-* − Paiements aux entrepreneurs programmés
-* − Coûts de projet prévus
-* = Trésorerie de clôture projetée
+- Cash d'ouverture
+- `+` Encaissements clients attendus
+- `−` Paiements sous-traitants programmés
+- `−` Coûts du projet prévus
+- `=` Cash projeté à la clôture
 
 </details>
 
 ---
 
-### Scénario d’exemple
+### Scénario d'exemple
 
-Un entrepreneur général livre un **projet de rénovation commerciale de 4,8 millions de dollars** sur un calendrier de 14 mois.
-
-Au début du mois 7, le chef de projet doit décider si des travaux de sous-traitance supplémentaires peuvent être autorisés sans créer de pression financière inutile.
+Un entrepreneur général réalise un **projet de rénovation commerciale de 4,8 millions USD** sur un calendrier de 14 mois. Au début du mois 7, le chef de projet doit décider si des travaux de sous-traitance supplémentaires peuvent être autorisés sans créer de pression financière inutile.
 
 Les dernières informations du projet montrent :
 
-| Élément du projet                                 |      Valeur |
+| Poste du projet                              |      Valeur |
 | -------------------------------------------- | ---------: |
-| Contrat original                            | $4,800,000 |
-| Ordres de modification approuvés                       |   $260,000 |
+| Contrat initial                              | $4,800,000 |
+| Change Orders approuvés                       |   $260,000 |
 | Valeur actuelle du contrat                       | $5,060,000 |
 | Budget engagé                             | $3,920,000 |
 | Coût réel encouru                         | $3,610,000 |
-| Facturation d’avancement certifiée                   | $3,480,000 |
-| Retenue (10 %)                              |   $348,000 |
-| Trésorerie client reçue                         | $2,940,000 |
-| Paiements aux entrepreneurs programmés (30 prochains jours) |   $590,000 |
-| Trésorerie actuellement disponible pour le projet           |   $760,000 |
+| Facturation de progression certifiée                   | $3,480,000 |
+| Retainage (10 %)                              |   $348,000 |
+| Cash client reçu                         | $2,940,000 |
+| Paiements sous-traitants programmés (30 prochains jours) |   $590,000 |
+| Cash actuellement disponible pour le projet           |   $760,000 |
 
-Plutôt que d’examiner chaque rapport indépendamment, le classeur combine ajustements de contrat, performance budgétaire, facturation certifiée, créances, retenues, paiements aux entrepreneurs et mouvements de trésorerie projetés en un seul espace de décision.
+Plutôt que d'examiner chaque rapport indépendamment, le classeur combine ajustements de contrat, performance budgétaire, facturation certifiée, créances, retainage, paiements sous-traitants et mouvements de trésorerie projetés dans un seul espace de décision.
 
-L’analyse met en lumière plusieurs constats importants :
+L'analyse met en évidence plusieurs constats importants :
 
-* Bien que le projet reste dans la valeur du contrat révisée, environ **71 % du contrat mis à jour a déjà été certifié**, ce qui indique que la valeur de contrat restante doit être surveillée attentivement.
-* Les retenues représentent une part significative des revenus certifiés qui ne peuvent pas encore être recouvrés, ce qui signifie que le revenu comptable dépasse la trésorerie immédiatement disponible.
-* Les paiements de sous-traitants programmés le mois prochain réduiront temporairement la liquidité disponible, sauf si le prochain paiement certifié est encaissé dans les délais.
-* L’utilisation du budget reste saine, mais approuver des travaux discrétionnaires supplémentaires avant l’arrivée des encaissements attendus augmenterait inutilement l’exposition de trésorerie à court terme.
+- Bien que le projet reste dans la valeur révisée du contrat, environ **71 % du contrat actualisé est déjà certifié**, ce qui impose une surveillance attentive de la valeur restante du contrat.
+- Le retainage représente une part importante des revenus certifiés encore inencaissable : le revenu comptable dépasse donc le cash immédiatement disponible.
+- Les paiements de sous-traitance programmés le mois prochain réduiront temporairement la liquidité disponible, sauf si la prochaine situation certifiée est encaissée dans les délais.
+- L'utilisation du budget reste saine, mais approuver des travaux discrétionnaires supplémentaires avant l'arrivée des encaissements attendus augmenterait inutilement l'exposition de cash à court terme.
 
-Au lieu de réagir après l’échéance des factures, le chef de projet peut reporter plusieurs engagements non critiques jusqu’à la réception du prochain paiement client.
-
-La recommandation est donc de **poursuivre les activités de construction planifiées tout en retardant les dépenses optionnelles jusqu’à ce que la trésorerie projetée retrouve un tampon opérationnel positif**.
-
-Ce type de raisonnement financier au niveau du projet est exactement ce que le classeur est conçu pour supporter tout au long du cycle de vie de la construction.
+Plutôt que de réagir une fois les factures échues, le chef de projet peut reporter plusieurs engagements non critiques jusqu'à réception du prochain paiement client. La recommandation est donc de **poursuivre les travaux de construction planifiés tout en différant les dépenses optionnelles jusqu'à ce que la trésorerie projetée retrouve un tampon opérationnel positif**.
 
 ---
 
 ### Référence des formules
 
 <details>
-<summary><strong>Configuration du projet et gestion des contrats</strong></summary>
+<summary><strong>Project Setup & Gestion du contrat</strong></summary>
 
-| Formule / logique       | Objectif                                                                         |
+| Formule / Logique       | Objectif                                                                         |
 | --------------------- | ------------------------------------------------------------------------------- |
-| Références structurées | Maintenir des tables de projet dynamiques sans mises à jour manuelles de plages.                   |
-| XLOOKUP               | Récupérer les informations client, fournisseur, code de coût et contrat entre les feuilles. |
-| IF / IFERROR          | Traiter les enregistrements de projet incomplets et prévenir les erreurs de reporting.                 |
-| SUMIFS                | Agréger les valeurs par catégorie de projet, période de facturation, fournisseur ou code de coût.     |
-| Plages nommées dynamiques  | Supporter un reporting évolutif à mesure que les données de projet croissent.                               |
+| Structured References | Maintenir des tables de projet dynamiques sans mise à jour manuelle des plages.                   |
+| XLOOKUP               | Extraire les informations client, fournisseur, cost code et contrat entre les onglets. |
+| IF / IFERROR          | Gérer les enregistrements de projet incomplets et éviter les erreurs de reporting.                 |
+| SUMIFS                | Agréger les valeurs par catégorie de projet, période de facturation, fournisseur ou cost code.     |
+| Dynamic Named Ranges  | Supporter un reporting évolutif à mesure que les données du projet grossissent.                               |
 
 </details>
 
 <details>
-<summary><strong>Budget et contrôle des coûts</strong></summary>
+<summary><strong>Budget & Contrôle des coûts</strong></summary>
 
-| Formule / logique        | Objectif                                                  |
+| Formule / Logique        | Objectif                                                  |
 | ---------------------- | -------------------------------------------------------- |
-| Écart budgétaire        | Comparer le budget approuvé aux coûts réels du projet.    |
-| Budget restant       | Calculer le financement disponible par catégorie de coût.            |
-| Agrégation par code de coût  | Consolider les transactions par structure de coûts standardisée. |
-| Pourcentage d’avancement    | Mesurer l’avancement du projet par rapport au contrat ou au budget. |
-| Mise en forme conditionnelle | Mettre en évidence les dépassements et exceptions budgétaires automatiquement.  |
+| Budget Variance        | Comparer le budget approuvé aux coûts réels du projet.    |
+| Remaining Budget       | Calculer les fonds disponibles par catégorie de coûts.            |
+| Cost Code Aggregation  | Consolider les transactions par structure de coûts standardisée. |
+| Percentage Complete    | Mesurer l'avancement du projet par rapport au contrat ou au budget. |
+| Conditional Formatting | Mettre en évidence automatiquement dépassements et exceptions budgétaires.  |
 
 </details>
 
 <details>
-<summary><strong>Facturation d’avancement et retenues</strong></summary>
+<summary><strong>Facturation de progression & Retainage</strong></summary>
 
-| Formule / logique        | Objectif                                               |
+| Formule / Logique        | Objectif                                               |
 | ---------------------- | ----------------------------------------------------- |
-| Valeur actuelle du contrat | Contrat original + Ordres de modification approuvés            |
-| Facturation actuelle        | Facturations précédentes + Montant certifié actuel          |
-| Calcul de la retenue  | Montant certifié × Pourcentage de retenue               |
-| Créance en cours | Montant certifié − Trésorerie reçue                      |
-| Solde de facture        | Montant recouvrable restant après les encaissements précédents. |
+| Current Contract Value | Contrat initial + Change Orders approuvés            |
+| Current Billing        | Situations antérieures + Montant certifié de la période          |
+| Retainage Calculation  | Montant certifié × Pourcentage de retainage               |
+| Outstanding Receivable | Montant certifié − Cash reçu                      |
+| Invoice Balance        | Montant restant encaissable après les encaissements antérieurs. |
 
 </details>
 
 <details>
-<summary><strong>Trésorerie et surveillance des paiements</strong></summary>
+<summary><strong>Flux de trésorerie & Suivi des paiements</strong></summary>
 
-| Formule / logique                    | Objectif                                                               |
+| Formule / Logique                    | Objectif                                                               |
 | ---------------------------------- | --------------------------------------------------------------------- |
-| Trésorerie d’ouverture + Encaissements − Paiements | Mouvement de trésorerie mensuel du projet.                                        |
-| Prévision de trésorerie glissante              | Estimer la liquidité future sur la base des encaissements et engagements attendus. |
-| Synthèse des comptes fournisseurs           | Suivre les paiements aux entrepreneurs programmés.                                  |
-| Synthèse des comptes clients        | Surveiller le statut des paiements clients.                                  |
-| Projection du solde de trésorerie | Supporter la prise de décision commerciale proactive.                         |
+| Cash d'ouverture + Encaissements − Paiements | Mouvement de cash mensuel du projet.                                        |
+| Rolling Cash Forecast              | Estimer la liquidité future à partir des encaissements attendus et des engagements. |
+| Accounts Payable Summary           | Suivre les paiements sous-traitants programmés.                                  |
+| Accounts Receivable Summary        | Surveiller l'état des paiements clients.                                        |
+| Cash Balance Projection            | Éclairer une prise de décision commerciale proactive.                         |
 
 </details>
 
 <details>
-<summary><strong>Tableau de bord exécutif</strong></summary>
+<summary><strong>Executive Dashboard</strong></summary>
 
-| Formule / logique | Objectif                                                                                |
+| Formule / Logique | Objectif                                                                                |
 | --------------- | -------------------------------------------------------------------------------------- |
-| Tableaux croisés dynamiques    | Consolider les synthèses opérationnelles.                                                     |
-| Graphiques dynamiques  | Visualiser la performance du projet dans le temps.                                               |
-| Cartes KPI       | Afficher la valeur du contrat, les dépenses, la facturation, les créances, les retenues et la trésorerie projetée. |
-| Validation des données | Standardiser les entrées du projet et réduire les erreurs de saisie.                                    |
+| Pivot Tables    | Consolider les synthèses opérationnelles.                                                     |
+| Dynamic Charts  | Visualiser la performance du projet dans le temps.                                               |
+| KPI Cards       | Afficher valeur du contrat, dépenses, facturation, créances, retainage et cash projeté. |
+| Data Validation | Standardiser les saisies du projet et réduire les erreurs d'entrée.                                    |
 
 </details>
 
@@ -383,94 +385,76 @@ Ce type de raisonnement financier au niveau du projet est exactement ce que le c
 
 ### Règles de validation
 
-| Champ                | Règle de validation                                         | Comportement en cas d’erreur                                           |
+| Champ                | Règle de validation                                         | Comportement en cas d'erreur                                           |
 | -------------------- | ------------------------------------------------------- | -------------------------------------------------------- |
-| ID du projet           | Requis et unique.                                    | Les ID en double génèrent des avertissements de validation.              |
-| Code de coût            | Doit exister dans la table principale des codes de coût.               | Les codes invalides sont rejetés des rapports en aval.      |
-| Valeur du contrat       | Doit être supérieure à zéro.                              | Les synthèses financières restent vides jusqu’à correction.        |
-| Montant du budget        | Ne peut pas être négatif.                                     | Les valeurs négatives sont mises en évidence pour examen.              |
-| Statut de l’ordre de modification  | Seules les variations approuvées affectent la valeur du contrat révisée. | Les variations en attente sont exclues automatiquement.           |
-| Montant de facturation       | Ne peut pas dépasser la valeur de contrat restante sans avertissement. | La surfacturation est mise en évidence par la mise en forme d’exception. |
-| Pourcentage de retenue | Doit rester dans les limites configurées du projet.           | Les pourcentages invalides déclenchent des alertes de validation.           |
-| Date de paiement         | Doit être une date de reporting de projet valide.                 | Les dates invalides sont exclues des calculs de trésorerie.  |
-| Fournisseur               | Doit exister dans la table principale des fournisseurs.                  | Les erreurs de recherche sont prévenues par la validation des données.     |
-| Encaissement client      | Ne peut pas dépasser le solde de créance en cours.           | Les encaissements excédentaires sont signalés pour rapprochement.       |
+| Project ID           | Obligatoire et unique.                                    | Les ID en doublon déclenchent des avertissements de validation.              |
+| Cost Code            | Doit exister dans la table Cost Code maîtresse.               | Les codes invalides sont rejetés des rapports en aval.      |
+| Contract Value       | Doit être supérieur à zéro.                              | Les synthèses financières restent vides jusqu'à correction.        |
+| Budget Amount        | Ne peut pas être négatif.                                     | Les valeurs négatives sont surlignées pour revue.              |
+| Change Order Status  | Seuls les VO approuvés affectent la valeur révisée du contrat. | Les VO en attente sont exclus automatiquement.           |
+| Billing Amount       | Ne peut pas dépasser la valeur restante du contrat sans avertissement. | La sur-facturation est surlignée par une mise en forme d'exception. |
+| Retainage Percentage | Doit rester dans les limites configurées du projet.           | Les pourcentages invalides déclenchent des alertes de validation.           |
+| Payment Date         | Doit être une date de reporting valide du projet.                 | Les dates invalides sont exclues des calculs de trésorerie.  |
+| Vendor               | Doit exister dans la table Vendor Master.                  | Les erreurs de recherche sont évitées par la validation des données.     |
+| Client Receipt       | Ne peut pas dépasser le solde de créance en cours.           | Les encaissements excédentaires sont marqués pour rapprochement.       |
 
 </details>
 
 ---
 
-## La logique métier et la méthodologie
+## La logique métier & la méthodologie
 
-Le contrôle de projet de construction ne consiste pas seulement à enregistrer des coûts. Il s’agit de comprendre comment les changements de contrat, la consommation budgétaire, la facturation d’avancement, les retenues, les paiements aux entrepreneurs et la trésorerie interagissent tout au long du cycle de vie d’**un seul projet de construction**.
+Le contrôle de projet de construction ne se limite pas à enregistrer des coûts. Il s'agit de comprendre comment changements de contrat, consommation du budget, facturation de progression, retainage, paiements sous-traitants et trésorerie interagissent tout au long du cycle de vie d'**un seul projet de construction**.
 
-Un projet peut apparaître rentable sur papier tout en connaissant des pénuries de trésorerie. Il peut rester dans son budget original alors que des ordres de modification approuvés ont déjà altéré sa base financière. Il peut aussi déclarer des travaux substantiellement achevés alors qu’une part significative des revenus certifiés reste impayée.
+Un projet peut paraître rentable sur le papier tout en subissant des pénuries de cash. Il peut rester dans son budget initial alors que des change orders approuvés ont déjà altéré sa baseline financière. Il peut aussi afficher un volume de travaux réalisé important alors qu'une part significative des revenus certifiés reste impayée.
 
-Cette boîte à outils applique des méthodes pratiques de contrôle financier de la construction pour connecter ces signaux séparés, aidant les chefs de projet à identifier l’exposition financière plus tôt et à prendre des décisions mieux informées avant d’engager des ressources supplémentaires.
+Cette boîte à outils applique cinq disciplines pratiques de contrôle commercial dans un seul classeur :
 
-### 1. Rapprochement de la base contractuelle
-
-**Méthode :** rapprochement de la valeur du contrat et suivi des ordres de modification approuvés.
-
-**Problème métier :** le contrat de construction original ne représente plus la position commerciale actuelle du projet après les variations approuvées, les changements de périmètre et les travaux supplémentaires.
-
-**Comment cela aide :** séparer le contrat original des changements approuvés établit une base contractuelle mise à jour. Les chefs de projet peuvent évaluer la valeur de contrat restante, évaluer l’avancement de la facturation et examiner l’exposition financière face à l’accord actuel plutôt que de s’appuyer sur des chiffres obsolètes.
-
-### 2. Analyse des écarts budgétaires
-
-**Méthode :** comparaison des coûts prévus vs. réels et surveillance budgétaire au niveau des codes de coût.
-
-**Problème métier :** les dépenses agrégées du projet peuvent masquer des dépassements dans des corps d’état individuels, des lots de sous-traitance ou des catégories de matériaux.
-
-**Comment cela aide :** comparer les dotations budgétaires aux coûts réels et aux soldes restants rend les mouvements de coûts défavorables plus faciles à identifier. Les responsables peuvent examiner les exceptions, revoir les engagements restants et prendre des mesures correctives avant que les dépassements de coûts ne deviennent plus difficiles à récupérer.
-
-### 3. Contrôle de la facturation d’avancement et des retenues
-
-**Méthode :** rapprochement de la facturation basée sur l’avancement et suivi des retenues.
-
-**Problème métier :** les travaux achevés, les situations certifiées, les créances recouvrables et la trésorerie réellement reçue sont des mesures financières différentes. Les traiter comme interchangeables peut surestimer la trésorerie disponible.
-
-**Comment cela aide :** connecter la facturation d’avancement aux situations précédentes, aux retenues et aux encaissements clients offre une vue plus claire du statut de facturation, des créances en cours et des montants encore retenus. Cela supporte un suivi des paiements plus fiable et le rapprochement des revenus du projet.
-
-### 4. Prévision de trésorerie du projet
-
-**Méthode :** projection de trésorerie par période utilisant les encaissements attendus et les paiements programmés.
-
-**Problème métier :** un projet peut avoir une valeur de contrat suffisante et une marge attendue positive, tout en faisant face à une pression de liquidité à court terme quand les paiements aux entrepreneurs arrivent à échéance avant les encaissements clients.
-
-**Comment cela aide :** examiner les entrées de trésorerie attendues face aux sorties programmées rend les écarts de calendrier potentiels plus visibles. Les chefs de projet peuvent planifier les priorités de paiement, coordonner les activités de recouvrement et évaluer si les engagements discrétionnaires doivent être retardés.
-
-### 5. Revue de décision intégrée au niveau du projet
-
-**Méthode :** rapprochement financier transversal entre les informations de contrat, budget, facturation, paiement et trésorerie.
-
-**Problème métier :** chaque rapport individuel peut être exact alors que la décision globale du projet reste trompeuse parce que les informations critiques sont examinées séparément.
-
-**Comment cela aide :** rassembler ces indicateurs dans un cadre de contrôle unique au niveau du projet permet aux responsables d’évaluer ensemble performance des coûts, statut de facturation, obligations en cours et liquidité. Le résultat est une base plus cohérente pour décider de ce qui nécessite une attention maintenant, de ce qui peut continuer, et des risques financiers qui requièrent une investigation plus poussée.
-
-**Le principe central :** le contrôle de projet de construction devrait connecter le contrat actuel, la performance des coûts, les obligations de paiement et la disponibilité de trésorerie — et non les traiter comme des tâches de reporting indépendantes. Cette boîte à outils transforme ce principe en un workflow analytique réutilisable conçu autour d’un seul projet de construction, de l’attribution du contrat jusqu’à la clôture.
+1. **Rapprochement de la baseline contractuelle :** sépare la valeur initiale du contrat des VO approuvés pour que l'avancement et les marges soient toujours jugés par rapport à votre baseline légale actuelle.
+2. **Analyse des écarts budgétaires :** surveille le dépensé planifié vs. réel au niveau des Cost Codes pour que les corps de métier rentables ne masquent jamais les dépassements cachés dans des lots de sous-traitance individuels.
+3. **Contrôle de la facturation de progression & du retainage :** sépare travaux réalisés, situations certifiées, retainage retenu et cash réellement reçu — éliminant les erreurs de facturation et les angles morts de créances.
+4. **Prévision glissante de trésorerie projet :** met en regard les encaissements clients attendus et les paiements sous-traitants programmés pour révéler les trous de liquidité à court terme tant qu'il est encore temps d'agir.
+5. **Revue de décision intégrée au niveau projet :** rassemble les signaux de contrat, budget, facturation, paiement et cash dans un dashboard mono-projet pour que vous sachiez ce qui exige votre attention aujourd'hui.
 
 ---
 
 ## Autres outils de cette série
 
-Si vous appréciez les outils de décision opérationnels légers basés sur Excel, vous pourriez aussi trouver ces projets utiles :
+Explorez d'autres boîtes à outils Excel légères et prêtes à l'emploi de **[Theseus Workshop](https://theseusworkshop.com/)** :
 
-* **Boîte à outils de planification de la paie d’entreprise et de la capacité de main-d’œuvre annuelle** — Planification de la main-d’œuvre, prévision de paie, analyse des heures supplémentaires et gestion annuelle de la capacité de main-d’œuvre.
-* **Boîte à outils d’exploitation de biens locatifs et d’intelligence des vacances** — Surveiller l’occupation, les revenus locatifs, la maintenance et la performance du portefeuille.
-* **Boîte à outils de planification des stocks et des achats adaptatifs à la demande** — Prévision des stocks, planification des réapprovisionnements, analyse des délais fournisseurs et décisions d’achat.
-* **Boîte à outils de coût de main-d’œuvre et de planification de capacité manufacturière** — Planification de la main-d’œuvre de production, utilisation de la main-d’œuvre et contrôle des coûts de fabrication.
-* **Boîte à outils de coût énergétique commercial et de coût total de possession** — Comparer les alternatives énergétiques avec des hypothèses commerciales et opérationnelles cohérentes.
-
-D’autres outils d’aide à la décision continueront d’être publiés via le dépôt GitHub et la bibliothèque de produits.
+- 🎁 **[Construction Monthly CVR & Accruals Excel Template (Gratuit · $0+ PWYW)](https://github.com/HyVoid/construction-cvr-accruals-excel-template)** — *Commencez ici gratuitement :* rapprochez valeur certifiée, provisions de chantier non facturées, risque d'avenants et prévisions de profit EAC en fin de mois.
+- **[construction-estimating](https://github.com/HyVoid/construction-estimating)** — Standardisez le chiffrage des appels d'offres de construction et transformez les estimations terminées en bibliothèques de coûts réutilisables.
+- **[aia-construction-cost-tracker-excel](https://github.com/HyVoid/aia-construction-cost-tracker-excel)** — Comparez les estimations de construction aux coûts réels tout au long de l'exécution du projet aux formats standards AIA.
+- **[residential-boq-template](https://github.com/HyVoid/residential-boq-template)** — Estimez les coûts de construction résidentielle à partir des avants-métrés BOQ et des prix, en suivant les budgets approuvés face aux dépenses réelles.
+- **[Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit](https://github.com/HyVoid/Foundation-Quantity-Takeoff-BBS-BOQ-Cost-Estimation-Excel-Toolkit)** — Calculez volumes de béton de fondation, surfaces de coffrage, quantités de terrassement, plans de ferraillage (BBS) et valeurs de soumission BOQ à partir des dimensions structurelles.
+- **[tunnel-cost-estimator-boq-excel](https://github.com/HyVoid/tunnel-cost-estimator-boq-excel)** — Estimez excavation de tunnel par abattage-explosifs, soutènement, équipements et main-d'œuvre en un BOQ complet.
+- **[industrial-energy-tco-calculator](https://github.com/HyVoid/industrial-energy-tco-calculator)** — Comparez les sources d'énergie industrielles sur une base de TCO de cycle de vie en énergie utile réelle.
+- **[DIN-743-Shaft-Calculations](https://github.com/HyVoid/DIN-743-Shaft-Calculations)** — Appliquez les standards de calcul d'arbres DIN 743 aux décisions de conception d'ingénierie.
 
 ---
+
+## Questions, retours & mises à jour produit
+
+Ce dépôt supporte le **Construction Project Management & Cash Flow Control Workbook**. Utilisez les canaux ci-dessous pour séparer les défauts reproductibles des questions d'usage général et des idées produit :
+
+- **Signaler un problème technique reproductible :** [Ouvrir un rapport de bug](https://github.com/HyVoid/construction-project-management-excel/issues/new?template=bug-report.yml). Décrivez le flux de travail concerné, l'environnement logiciel et les étapes de reproduction.
+- **Poser une question d'utilisation :** [Q&A de la communauté Theseus Workshop](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/questions).
+- **Proposer une amélioration ou discuter un cas d'usage :** [Partager une idée](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/ideas).
+- **Suivre les annonces produit :** [Mises à jour produit](https://github.com/HyVoid/business-decision-toolbox/discussions/categories/product-updates).
+
+### Confidentialité & exemples sûrs
+
+Ne publiez pas d'informations sur vos clients, fournisseurs, employés, propriétaires, voyageurs, locataires, transactions, réservations, paiements ou autres données commerciales confidentielles dans les Issues ou Discussions publiques de GitHub. Ne joignez pas d'exports comptables non censurés, de relevés bancaires, de factures, de contrats, de documents d'identité, d'identifiants ou de jeux de données opérationnels complets.
+
+Utilisez des exemples synthétiques autant que possible. Si un exemple réel est nécessaire, retirez les identifiants directs et indirects ainsi que les valeurs commercialement sensibles. Des noms de colonnes, des lignes d'exemple fictives, des ordres de grandeur du nombre de lignes, des messages d'erreur exacts et des résultats attendus vs. obtenus suffisent généralement à reproduire un problème.
+
+Pour toute démo gratuite dans le navigateur, n'y téléversez pas de données de production avant d'avoir examiné indépendamment les informations actuelles de la démo sur la confidentialité et le traitement des données, et confirmé que son usage est approprié. Ce README ne prétend pas que les données du navigateur sont traitées uniquement sur votre appareil ou jamais transmises ni conservées.
 
 ## Licence
 
 Ce projet est sous licence **Apache License 2.0**.
 
-Vous êtes libre d’utiliser, de modifier et de distribuer ce classeur conformément aux termes de l’Apache License 2.0. Veuillez conserver l’avis de licence original et l’attribution lors de la redistribution ou de la création d’œuvres dérivées.
+Vous êtes libre d'utiliser, modifier et distribuer ce classeur selon les termes de la Apache License 2.0. Merci de conserver la mention de licence et l'attribution d'origine lors de toute redistribution ou création d'œuvres dérivées.
 
-Pour le texte de licence complet, voir le fichier **LICENSE** joint inclus dans ce dépôt.
+Pour le texte complet de la licence, voir le fichier **LICENSE** joint à ce dépôt.
 
